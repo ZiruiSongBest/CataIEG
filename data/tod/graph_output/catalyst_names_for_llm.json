@@ -1,0 +1,6351 @@
+[
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2008.09.005:C1",
+    "name_reported": "potassium permanganate",
+    "aliases": [
+      "PP",
+      "KMnO4"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "halides_oxyhalides"
+    ],
+    "labels_active_site_form": [
+      "redox_lattice_oxygen_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2008.09.005:C2",
+    "name_reported": "zeolite",
+    "aliases": [
+      "Z"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2008.09.005:C3",
+    "name_reported": "potassium permanganate and zeolite",
+    "aliases": [
+      "PPZ"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "composites_heterostructures",
+      "halides_oxyhalides",
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "redox_lattice_oxygen_sites",
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2008.09.005:C4",
+    "name_reported": "potassium permanganate under microwave",
+    "aliases": [
+      "PP–MW"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "halides_oxyhalides"
+    ],
+    "labels_active_site_form": [
+      "redox_lattice_oxygen_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2008.09.005:C5",
+    "name_reported": "zeolite under microwave",
+    "aliases": [
+      "Z–MW"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2008.09.005:C6",
+    "name_reported": "potassium permanganate and zeolite under microwave",
+    "aliases": [
+      "PPZ–MW"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "composites_heterostructures",
+      "halides_oxyhalides",
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "redox_lattice_oxygen_sites",
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2010.08.003:C1",
+    "name_reported": "Ni/ZrO2",
+    "aliases": [],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "ZrO2",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2011.08.022:C1",
+    "name_reported": "montmorillonite modified with vanadium",
+    "aliases": [
+      "Mont-V",
+      "montmorillonite-vanadium additive"
+    ],
+    "role": "target",
+    "series_name": "modified montmorillonite series",
+    "variant_rule": "metal ion type",
+    "variant_value": "vanadium",
+    "substrate_or_support": "montmorillonite",
+    "labels_material_platform": [
+      "solid_acids_bases_nonzeolite"
+    ],
+    "labels_active_site_form": [
+      "defect_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2011.08.022:C2",
+    "name_reported": "montmorillonite modified with cobalt",
+    "aliases": [
+      "montmorillonite-cobalt additive"
+    ],
+    "role": "target",
+    "series_name": "modified montmorillonite series",
+    "variant_rule": "metal ion type",
+    "variant_value": "cobalt",
+    "substrate_or_support": "montmorillonite",
+    "labels_material_platform": [
+      "solid_acids_bases_nonzeolite"
+    ],
+    "labels_active_site_form": [
+      "defect_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2011.08.022:C3",
+    "name_reported": "montmorillonite modified with nickel",
+    "aliases": [
+      "montmorillonite-nickel additive",
+      "nickel-montmorillonite DESOX additive"
+    ],
+    "role": "target",
+    "series_name": "modified montmorillonite series",
+    "variant_rule": "metal ion type",
+    "variant_value": "nickel",
+    "substrate_or_support": "montmorillonite",
+    "labels_material_platform": [
+      "solid_acids_bases_nonzeolite"
+    ],
+    "labels_active_site_form": [
+      "defect_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2011.08.022:C4",
+    "name_reported": "montmorillonite modified with copper",
+    "aliases": [],
+    "role": "target",
+    "series_name": "modified montmorillonite series",
+    "variant_rule": "metal ion type",
+    "variant_value": "copper",
+    "substrate_or_support": "montmorillonite",
+    "labels_material_platform": [
+      "solid_acids_bases_nonzeolite"
+    ],
+    "labels_active_site_form": [
+      "defect_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2011.08.022:C5",
+    "name_reported": "montmorillonite modified with manganese",
+    "aliases": [],
+    "role": "target",
+    "series_name": "modified montmorillonite series",
+    "variant_rule": "metal ion type",
+    "variant_value": "manganese",
+    "substrate_or_support": "montmorillonite",
+    "labels_material_platform": [
+      "solid_acids_bases_nonzeolite"
+    ],
+    "labels_active_site_form": [
+      "defect_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.08.019:C1",
+    "name_reported": "nickel-based steam reforming catalyst",
+    "aliases": [
+      "catalyst",
+      "catalytic coating",
+      "catalytic material"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "calcium aluminate",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.08.019:C2",
+    "name_reported": "uncatalyzed condition",
+    "aliases": [
+      "without catalyst",
+      "without catalytic steam reforming"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "other"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2017.07.013:C1",
+    "name_reported": "Al",
+    "aliases": [
+      "aluminum"
+    ],
+    "role": "target",
+    "series_name": "Al to RS mass ratio series",
+    "variant_rule": "varying Al to RS mass ratio",
+    "variant_value": "1:3",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metals_alloys_intermetallics"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2017.07.013:C2",
+    "name_reported": "Al",
+    "aliases": [
+      "aluminum"
+    ],
+    "role": "target",
+    "series_name": "Al to RS mass ratio series",
+    "variant_rule": "varying Al to RS mass ratio",
+    "variant_value": "2:3",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metals_alloys_intermetallics"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2017.07.013:C3",
+    "name_reported": "Al",
+    "aliases": [
+      "aluminum"
+    ],
+    "role": "target",
+    "series_name": "Al to RS mass ratio series",
+    "variant_rule": "varying Al to RS mass ratio",
+    "variant_value": "3:3",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metals_alloys_intermetallics"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2017.07.013:C4",
+    "name_reported": "no Al",
+    "aliases": [
+      "without the addition of Al"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "other"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2004.12.001:C1",
+    "name_reported": "Co/SiO2 (22.2 wt.% Co)",
+    "aliases": [
+      "Co/SiO2",
+      "22.2 wt.% Co dispersed on SiO2 catalyst"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "SiO2 (Davisil Silica gel, 60–100 mesh, 300 m2 g−1)",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106585:C1",
+    "name_reported": "nano-CeO2",
+    "aliases": [
+      "CeO2"
+    ],
+    "role": "target",
+    "series_name": "CFR series",
+    "variant_rule": "catalyst to feedstock ratio (CFR) varied",
+    "variant_value": "3:1, 5:1, 8:1, 10:1, 20:1",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "base_sites",
+      "redox_lattice_oxygen_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106585:C2",
+    "name_reported": "non-catalytic",
+    "aliases": [
+      "CFR = 0:1"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "other"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106487:C1",
+    "name_reported": "iron-based powder sample containing 5 wt% Al2O3",
+    "aliases": [],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106487:C2",
+    "name_reported": "pellets",
+    "aliases": [
+      "pelletized oxygen carriers"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2007.08.004:C1",
+    "name_reported": "unburned carbon (UBC) in flyash",
+    "aliases": [
+      "UBC",
+      "carbon",
+      "unburned carbon"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2007.08.004:C2",
+    "name_reported": "calcium in flyash",
+    "aliases": [
+      "calcium",
+      "CaO",
+      "calcium oxide"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2007.08.004:C3",
+    "name_reported": "hydrated lime",
+    "aliases": [
+      "hydrated lime"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2007.08.004:C4",
+    "name_reported": "activated carbon",
+    "aliases": [
+      "activated carbon"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.01.002:C1",
+    "name_reported": "Ni catalysts loaded on ceramic honeycombs",
+    "aliases": [
+      "Ni catalysts",
+      "catalysts loaded on ceramic honeycombs"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "ceramic honeycombs (cordierite with Al2O3 coating)",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(97)00023-4:C1",
+    "name_reported": "Rhodococcus rhodochrous IGTS8",
+    "aliases": [],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "bio_biocatalyst_immobilized"
+    ],
+    "labels_active_site_form": [
+      "enzyme_active_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(97)00023-4:C2",
+    "name_reported": "Pseudomonas sp.",
+    "aliases": [],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "bio_biocatalyst_immobilized"
+    ],
+    "labels_active_site_form": [
+      "enzyme_active_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(97)00023-4:C3",
+    "name_reported": "Desulfovibrio desulfuricans",
+    "aliases": [],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "bio_biocatalyst_immobilized"
+    ],
+    "labels_active_site_form": [
+      "enzyme_active_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(97)00023-4:C4",
+    "name_reported": "Brevibacterium sp. DO",
+    "aliases": [],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "bio_biocatalyst_immobilized"
+    ],
+    "labels_active_site_form": [
+      "enzyme_active_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(97)00023-4:C5",
+    "name_reported": "Rhodococcus erythropolis D-1",
+    "aliases": [],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "bio_biocatalyst_immobilized"
+    ],
+    "labels_active_site_form": [
+      "enzyme_active_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(97)00023-4:C6",
+    "name_reported": "immobilized Pseudomonas sp.",
+    "aliases": [],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "hydrophilic natural supports",
+    "labels_material_platform": [
+      "bio_biocatalyst_immobilized"
+    ],
+    "labels_active_site_form": [
+      "enzyme_active_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2004.10.008:C1",
+    "name_reported": "K2CO3/MoS2",
+    "aliases": [
+      "conventional K2CO3/MoS2 catalyst"
+    ],
+    "role": "baseline",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "sulfides_selenides_tellurides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2004.10.008:C2",
+    "name_reported": "Ni/K2CO3/MoS2",
+    "aliases": [
+      "Ni modified K2CO3/MoS2 catalyst"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "sulfides_selenides_tellurides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.05.014:C1",
+    "name_reported": "pre-sulphided NiMo/γ-Al2O3",
+    "aliases": [
+      "NiMo catalyst",
+      "NiMo/Al2O3 catalyst",
+      "NiMo catalyst particles"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "γ-Al2O3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.10.012:C1",
+    "name_reported": "coke in the cracking zones",
+    "aliases": [
+      "hot biomass char",
+      "char",
+      "carbon",
+      "not fully converted carbon"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": [
+      "defect_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(03)00071-7:C1",
+    "name_reported": "Amberlyst 15",
+    "aliases": [
+      "dry Amberlyst 15"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "solid_acids_bases_nonzeolite"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(03)00071-7:C2",
+    "name_reported": "wet Amberlyst 15",
+    "aliases": [],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "solid_acids_bases_nonzeolite"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(03)00071-7:C3",
+    "name_reported": "crushed and extruded HZSM-5",
+    "aliases": [
+      "HZSM-5"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(03)00071-7:C4",
+    "name_reported": "crushed Amberlyst 15",
+    "aliases": [],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "solid_acids_bases_nonzeolite"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(03)00071-7:C5",
+    "name_reported": "Amberlyst 15 and HZSM-5 mixed catalyst",
+    "aliases": [
+      "dual catalysts"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107475:C1",
+    "name_reported": "Cu-based oxygen carrier (OC) supported on Al2O3 and natural Ca-based sorbent",
+    "aliases": [
+      "CaCu material",
+      "CaO/CuO system",
+      "combined CaCu based material"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "Al2O3",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.04.021:C1",
+    "name_reported": "Ni/Al2O3 catalyst",
+    "aliases": [
+      "commercial Ni/Al2O3 catalyst (20wt.%Ni, C13-4, Süd-Chemie, AG)"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "Al2O3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.04.021:C2",
+    "name_reported": "Al2O3",
+    "aliases": [
+      "support"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "Al2O3",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_0378-3820(79)90016-x:C1",
+    "name_reported": "None",
+    "aliases": [
+      "no-catalyst control",
+      "blank"
+    ],
+    "role": "blank_substrate",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_0378-3820(79)90016-x:C2",
+    "name_reported": "Harshaw 0402T Co/Mo/Al2O3 (SiO2-stabilized)",
+    "aliases": [
+      "commercial Co/Mo/Al2O3 catalyst",
+      "Co/Mo/Al2O3 catalyst",
+      "Harshaw Type 0402T"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "silica-stabilized alumina (5% SiO2)",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_0378-3820(79)90016-x:C3",
+    "name_reported": "low-temperature ash from Kentucky coal",
+    "aliases": [
+      "coal ash",
+      "low-temperature coal ash",
+      "low-temperature ash from Western Kentucky coal"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_0378-3820(87)90006-3:C1",
+    "name_reported": "no catalyst",
+    "aliases": [
+      "bare coke"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "oil coke",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_0378-3820(87)90006-3:C2",
+    "name_reported": "Li[HFe(CO)4]",
+    "aliases": [
+      "lithium hydridotetracarbonylferrate",
+      "lithium ferrate"
+    ],
+    "role": "target",
+    "series_name": "alkali metal hydridotetracarbonylferrates",
+    "variant_rule": "varying alkali metal cation",
+    "variant_value": "Li",
+    "substrate_or_support": "oil coke",
+    "labels_material_platform": [
+      "supported_organometallic_or_heterogenized_homogeneous"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_0378-3820(87)90006-3:C3",
+    "name_reported": "Na[HFe(CO)4]",
+    "aliases": [
+      "sodium hydridotetracarbonylferrate",
+      "sodium ferrate"
+    ],
+    "role": "target",
+    "series_name": "alkali metal hydridotetracarbonylferrates",
+    "variant_rule": "varying alkali metal cation",
+    "variant_value": "Na",
+    "substrate_or_support": "oil coke",
+    "labels_material_platform": [
+      "supported_organometallic_or_heterogenized_homogeneous"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_0378-3820(87)90006-3:C4",
+    "name_reported": "K[HFe(CO)4]",
+    "aliases": [
+      "potassium hydridotetracarbonylferrate",
+      "potassium ferrate"
+    ],
+    "role": "target",
+    "series_name": "alkali metal hydridotetracarbonylferrates",
+    "variant_rule": "varying alkali metal cation",
+    "variant_value": "K",
+    "substrate_or_support": "oil coke",
+    "labels_material_platform": [
+      "supported_organometallic_or_heterogenized_homogeneous"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_0378-3820(87)90006-3:C5",
+    "name_reported": "Rb[HFe(CO)4]",
+    "aliases": [
+      "rubidium hydridotetracarbonylferrate",
+      "rubidium ferrate"
+    ],
+    "role": "target",
+    "series_name": "alkali metal hydridotetracarbonylferrates",
+    "variant_rule": "varying alkali metal cation",
+    "variant_value": "Rb",
+    "substrate_or_support": "oil coke",
+    "labels_material_platform": [
+      "supported_organometallic_or_heterogenized_homogeneous"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_0378-3820(87)90006-3:C6",
+    "name_reported": "Cs[HFe(CO)4]",
+    "aliases": [
+      "cesium hydridotetracarbonylferrate",
+      "cesium ferrate"
+    ],
+    "role": "target",
+    "series_name": "alkali metal hydridotetracarbonylferrates",
+    "variant_rule": "varying alkali metal cation",
+    "variant_value": "Cs",
+    "substrate_or_support": "oil coke",
+    "labels_material_platform": [
+      "supported_organometallic_or_heterogenized_homogeneous"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_0378-3820(87)90006-3:C7",
+    "name_reported": "Li2CO3",
+    "aliases": [
+      "lithium carbonate"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "oil coke",
+    "labels_material_platform": [
+      "carbonates"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_0378-3820(87)90006-3:C8",
+    "name_reported": "Na2CO3",
+    "aliases": [
+      "sodium carbonate"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "oil coke",
+    "labels_material_platform": [
+      "carbonates"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_0378-3820(87)90006-3:C9",
+    "name_reported": "K2CO3",
+    "aliases": [
+      "potassium carbonate"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "oil coke",
+    "labels_material_platform": [
+      "carbonates"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_0378-3820(87)90006-3:C10",
+    "name_reported": "Rb2CO3",
+    "aliases": [
+      "rubidium carbonate"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "oil coke",
+    "labels_material_platform": [
+      "carbonates"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_0378-3820(87)90006-3:C11",
+    "name_reported": "Cs2CO3",
+    "aliases": [
+      "cesium carbonate"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "oil coke",
+    "labels_material_platform": [
+      "carbonates"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.06.001:C1",
+    "name_reported": "Amberlyst 15",
+    "aliases": [
+      "Amberlyst-15",
+      "commercial strong acid ion-exchange resin"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "solid_acids_bases_nonzeolite"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.06.001:C2",
+    "name_reported": "wet Amberlyst-15",
+    "aliases": [
+      "wet Amberlyst-15 with 3.20 wt.% of the moisture content"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "solid_acids_bases_nonzeolite"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.06.001:C3",
+    "name_reported": "absence of the catalyst",
+    "aliases": [
+      "without a catalyst"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "other"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.06.007:C1",
+    "name_reported": "raw coal",
+    "aliases": [
+      "WL raw coal",
+      "raw coal sample"
+    ],
+    "role": "baseline",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.06.007:C2",
+    "name_reported": "EDTA-inhibited coal",
+    "aliases": [
+      "EDTA-treated coal sample",
+      "inhibited coal sample",
+      "treated coal sample"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.06.007:C3",
+    "name_reported": "pyrolyzed coal",
+    "aliases": [
+      "pyrolyzed sample"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(97)00074-x:C1",
+    "name_reported": "NiMo/Al2O3",
+    "aliases": [
+      "presulfided NiMo/Al2O3"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "Al2O3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(97)00074-x:C2",
+    "name_reported": "Zeolyst Z-753",
+    "aliases": [
+      "Z-753",
+      "Zeolyst 753"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "zeolite",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(97)00074-x:C3",
+    "name_reported": "NiMo/zeolite",
+    "aliases": [
+      "presulfided NiMo/zeolite"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "zeolite",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles",
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites",
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(97)00074-x:C4",
+    "name_reported": "HZSM-5",
+    "aliases": [],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "zeolite",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(97)00074-x:C5",
+    "name_reported": "10% Z-753 in NiMo/Al2O3",
+    "aliases": [
+      "10% Z-753 in NiMo/Al2O3",
+      "10 wt.% Z-753 in NiMo/Al2O3"
+    ],
+    "role": "target",
+    "series_name": "hydrocracking catalyst in NiMo/Al2O3 series",
+    "variant_rule": "10 wt.% of hydrocracking catalyst in NiMo/Al2O3",
+    "variant_value": "Z-753",
+    "substrate_or_support": "Al2O3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles",
+      "zeolites_molecular_sieves",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites",
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(97)00074-x:C6",
+    "name_reported": "10% HZSM-5 in NiMo/Al2O3",
+    "aliases": [
+      "10% HZSM-5 in NiMo/Al2O3",
+      "10 wt.% HZSM-5 in NiMo/Al2O3"
+    ],
+    "role": "target",
+    "series_name": "hydrocracking catalyst in NiMo/Al2O3 series",
+    "variant_rule": "10 wt.% of hydrocracking catalyst in NiMo/Al2O3",
+    "variant_value": "HZSM-5",
+    "substrate_or_support": "Al2O3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles",
+      "zeolites_molecular_sieves",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites",
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(97)00074-x:C7",
+    "name_reported": "10% NiMo/zeolite in NiMo/Al2O3",
+    "aliases": [
+      "10% NiMo/zeolite in NiMo/Al2O3",
+      "10 wt.% NiMo/zeolite in NiMo/Al2O3"
+    ],
+    "role": "target",
+    "series_name": "hydrocracking catalyst in NiMo/Al2O3 series",
+    "variant_rule": "10 wt.% of hydrocracking catalyst in NiMo/Al2O3",
+    "variant_value": "NiMo/zeolite",
+    "substrate_or_support": "Al2O3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles",
+      "zeolites_molecular_sieves",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites",
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2010.04.002:C1",
+    "name_reported": "compound-lipase",
+    "aliases": [
+      "combined biocatalysts",
+      "compound-lipase (1.96%Novozym 435+2.04% Lipozyme TL IM)"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "composition ratio of Novozym 435 and Lipozyme TL IM",
+    "variant_value": "1.96% Novozym 435 + 2.04% Lipozyme TL IM (wt/wt)",
+    "substrate_or_support": "immobilized lipases",
+    "labels_material_platform": [
+      "bio_biocatalyst_immobilized"
+    ],
+    "labels_active_site_form": [
+      "enzyme_active_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2008.01.011:C1",
+    "name_reported": "ZnCl2",
+    "aliases": [],
+    "role": "target",
+    "series_name": "catalyzed steam gasification",
+    "variant_rule": "catalyst type",
+    "variant_value": "ZnCl2",
+    "substrate_or_support": "olive oil waste (orujillo)",
+    "labels_material_platform": [
+      "halides_oxyhalides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2008.01.011:C2",
+    "name_reported": "dolomite",
+    "aliases": [],
+    "role": "target",
+    "series_name": "catalyzed steam gasification",
+    "variant_rule": "catalyst type",
+    "variant_value": "dolomite",
+    "substrate_or_support": "olive oil waste (orujillo)",
+    "labels_material_platform": [
+      "carbonates"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2008.01.011:C3",
+    "name_reported": "uncatalyzed",
+    "aliases": [
+      "non-catalyzed"
+    ],
+    "role": "baseline",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "olive oil waste (orujillo)",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2014.02.021:C1",
+    "name_reported": "Ni/Al2O3/Ni foam",
+    "aliases": [
+      "Ni-Al2O3/Ni foam",
+      "metallic foam catalyst",
+      "Ni/γ-Al2O3/Ni foam"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "Al2O3/AIP molar ratio",
+    "variant_value": "5",
+    "substrate_or_support": "Ni foam",
+    "labels_material_platform": [
+      "composites_heterostructures",
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2014.02.021:C2",
+    "name_reported": "bare Al2O3",
+    "aliases": [
+      "bare Al2O3 bead"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "Al2O3",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2014.02.021:C3",
+    "name_reported": "bare Ni foam",
+    "aliases": [],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "Ni foam",
+    "labels_material_platform": [
+      "metals_alloys_intermetallics"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2014.02.021:C4",
+    "name_reported": "Al2O3/Ni foam",
+    "aliases": [
+      "γ-Al2O3/Ni foam"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "Al2O3/AIP molar ratio",
+    "variant_value": "5",
+    "substrate_or_support": "Ni foam",
+    "labels_material_platform": [
+      "composites_heterostructures",
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2014.02.021:C5",
+    "name_reported": "γ-Al2O3 pellets",
+    "aliases": [
+      "pellet catalyst",
+      "conventional pellet catalyst"
+    ],
+    "role": "baseline",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "Al2O3",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.09.028:C1",
+    "name_reported": "Amberlyst 70",
+    "aliases": [],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "solid_acids_bases_nonzeolite"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.01.026:C1",
+    "name_reported": "pre-sulphided NiMo/Al2O3",
+    "aliases": [
+      "NiMo/Al2O3",
+      "NiMo/γ-Al2O3",
+      "commercial pre-sulphided NiMo/Al2O3 catalyst"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "Al2O3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.01.026:C2",
+    "name_reported": "5% palladium supported on activated carbon",
+    "aliases": [
+      "Pd/C",
+      "Pd/C catalyst"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "activated carbon",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.01.030:C1",
+    "name_reported": "CeO2–ZrO2–Al2O3–FeOX",
+    "aliases": [
+      "FeOX-based catalyst"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "CeO2–ZrO2–Al2O3",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "redox_lattice_oxygen_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2011.05.026:C1",
+    "name_reported": "HPW/TiO2",
+    "aliases": [
+      "HPW/TiO2 samples",
+      "HPW/TiO2 calcined at different temperature"
+    ],
+    "role": "target",
+    "series_name": "HPW loading series",
+    "variant_rule": "HPW loading amount",
+    "variant_value": "20.0wt.% to 50.0wt.%",
+    "substrate_or_support": "TiO2",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2011.05.026:C2",
+    "name_reported": "HPW/TiO2 calcined at 150°C",
+    "aliases": [
+      "HPW/TiO2 calcined at 150°C"
+    ],
+    "role": "target",
+    "series_name": "Calcination temperature series",
+    "variant_rule": "calcination temperature",
+    "variant_value": "150°C",
+    "substrate_or_support": "TiO2",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2011.05.026:C3",
+    "name_reported": "HPW/TiO2 calcined at 200°C",
+    "aliases": [
+      "HPW/TiO2 calcined at 200°C"
+    ],
+    "role": "target",
+    "series_name": "Calcination temperature series",
+    "variant_rule": "calcination temperature",
+    "variant_value": "200°C",
+    "substrate_or_support": "TiO2",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2011.05.026:C4",
+    "name_reported": "HPW/TiO2 calcined at 300°C",
+    "aliases": [
+      "HPW/TiO2 calcined at 300°C"
+    ],
+    "role": "target",
+    "series_name": "Calcination temperature series",
+    "variant_rule": "calcination temperature",
+    "variant_value": "300°C",
+    "substrate_or_support": "TiO2",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2011.05.026:C5",
+    "name_reported": "HPW/TiO2 calcined at 400°C",
+    "aliases": [
+      "HPW/TiO2 calcined at 400°C"
+    ],
+    "role": "target",
+    "series_name": "Calcination temperature series",
+    "variant_rule": "calcination temperature",
+    "variant_value": "400°C",
+    "substrate_or_support": "TiO2",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2011.05.026:C6",
+    "name_reported": "HPW/TiO2 calcined at 500°C",
+    "aliases": [
+      "HPW/TiO2 calcined at 500°C"
+    ],
+    "role": "target",
+    "series_name": "Calcination temperature series",
+    "variant_rule": "calcination temperature",
+    "variant_value": "500°C",
+    "substrate_or_support": "TiO2",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.05.025:C1",
+    "name_reported": "fresh catalyst",
+    "aliases": [
+      "fresh V2O5–WO3/TiO2 SCR catalyst",
+      "fresh V2O5/TiO2 commercial catalyst"
+    ],
+    "role": "baseline",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "TiO2",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.05.025:C2",
+    "name_reported": "spent catalyst sample A",
+    "aliases": [
+      "sample A",
+      "front-end of the honeycomb catalyst"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "TiO2",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.05.025:C3",
+    "name_reported": "spent catalyst sample B",
+    "aliases": [
+      "sample B",
+      "back-end of the honeycomb catalyst"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "TiO2",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2014.11.037:C1",
+    "name_reported": "K0-Fe70Zr30",
+    "aliases": [
+      "Fe70Zr30"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "K2CO3 loading amount",
+    "variant_value": "0 wt.%",
+    "substrate_or_support": "ZrO2",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2014.11.037:C2",
+    "name_reported": "K2-Fe70Zr30",
+    "aliases": [],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "K2CO3 loading amount",
+    "variant_value": "2 wt.%",
+    "substrate_or_support": "ZrO2",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2014.11.037:C3",
+    "name_reported": "K6-Fe70Zr30",
+    "aliases": [],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "K2CO3 loading amount",
+    "variant_value": "6 wt.%",
+    "substrate_or_support": "ZrO2",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.05.003:C1",
+    "name_reported": "0.2wt.%Pt-10wt.%Ni/δ-Al2O3",
+    "aliases": [
+      "Pt‐Ni/δ-Al2O3",
+      "bimetallic OSR catalyst",
+      "Pt‐Ni bimetallic system"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "δ-Al2O3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.05.003:C2",
+    "name_reported": "2wt.%Au-1wt.%Re/ZrO2",
+    "aliases": [
+      "Au‐Re/ZrO2",
+      "bimetallic WGS catalyst"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "ZrO2",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2017.11.014:C1",
+    "name_reported": "calcined olivine",
+    "aliases": [
+      "olivine catalyst",
+      "olivine"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2017.11.014:C2",
+    "name_reported": "quartz sand",
+    "aliases": [
+      "inert bed material"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "other"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.03.002:C1",
+    "name_reported": "ZSM-5",
+    "aliases": [],
+    "role": "baseline",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.03.002:C2",
+    "name_reported": "0.5%Fe/ZSM-5",
+    "aliases": [],
+    "role": "target",
+    "series_name": "Fe-modified ZSM-5 zeolite catalyst",
+    "variant_rule": "Fe loading",
+    "variant_value": "0.5 wt%",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis",
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.03.002:C3",
+    "name_reported": "1%Fe/ZSM-5",
+    "aliases": [],
+    "role": "target",
+    "series_name": "Fe-modified ZSM-5 zeolite catalyst",
+    "variant_rule": "Fe loading",
+    "variant_value": "1 wt%",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis",
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.03.002:C4",
+    "name_reported": "2%Fe/ZSM-5",
+    "aliases": [],
+    "role": "target",
+    "series_name": "Fe-modified ZSM-5 zeolite catalyst",
+    "variant_rule": "Fe loading",
+    "variant_value": "2 wt%",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis",
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.03.002:C5",
+    "name_reported": "4%Fe/ZSM-5",
+    "aliases": [],
+    "role": "target",
+    "series_name": "Fe-modified ZSM-5 zeolite catalyst",
+    "variant_rule": "Fe loading",
+    "variant_value": "4 wt%",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis",
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.03.002:C6",
+    "name_reported": "8%Fe/ZSM-5",
+    "aliases": [],
+    "role": "target",
+    "series_name": "Fe-modified ZSM-5 zeolite catalyst",
+    "variant_rule": "Fe loading",
+    "variant_value": "8 wt%",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis",
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(98)00087-3:C1",
+    "name_reported": "CaO",
+    "aliases": [
+      "CaO catalyst",
+      "previously activated CaO"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "perforated plate for the catalyst support",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2008.03.001:C1",
+    "name_reported": "coal char",
+    "aliases": [
+      "pure coal char"
+    ],
+    "role": "baseline",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "char from Shangwan coal",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2008.03.001:C2",
+    "name_reported": "wheat straw char",
+    "aliases": [
+      "biomass char",
+      "straw char"
+    ],
+    "role": "baseline",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "char from wheat straw",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2008.03.001:C3",
+    "name_reported": "co-pyrolysis char from raw wheat straw/coal",
+    "aliases": [
+      "co-pyrolysis char",
+      "co-pyrolysis char from wheat straw/coal"
+    ],
+    "role": "target",
+    "series_name": "blending ratio series",
+    "variant_rule": "coal to wheat straw ratio",
+    "variant_value": "100:0, 80:20, 70:30, 50:50, 0:100",
+    "substrate_or_support": "char from co-pyrolysis of Shangwan coal and wheat straw",
+    "labels_material_platform": [
+      "carbon_based",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2008.03.001:C4",
+    "name_reported": "co-pyrolysis char from acid washed wheat straw/coal",
+    "aliases": [
+      "char from acid washed wheat straw/coal"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "char from co-pyrolysis of Shangwan coal and acid washed wheat straw",
+    "labels_material_platform": [
+      "carbon_based",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2008.03.001:C5",
+    "name_reported": "co-pyrolysis char prepared at 650 °C",
+    "aliases": [
+      "char prepared at 650 °C"
+    ],
+    "role": "target",
+    "series_name": "pyrolysis temperature series",
+    "variant_rule": "pyrolysis temperature",
+    "variant_value": "650 °C",
+    "substrate_or_support": "char from co-pyrolysis of Shangwan coal and wheat straw at 50:50 ratio",
+    "labels_material_platform": [
+      "carbon_based",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2008.03.001:C6",
+    "name_reported": "co-pyrolysis char prepared at 750 °C",
+    "aliases": [
+      "char prepared at 750 °C"
+    ],
+    "role": "target",
+    "series_name": "pyrolysis temperature series",
+    "variant_rule": "pyrolysis temperature",
+    "variant_value": "750 °C",
+    "substrate_or_support": "char from co-pyrolysis of Shangwan coal and wheat straw at 50:50 ratio",
+    "labels_material_platform": [
+      "carbon_based",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2008.03.001:C7",
+    "name_reported": "co-pyrolysis char prepared at 850 °C",
+    "aliases": [
+      "char prepared at 850 °C"
+    ],
+    "role": "target",
+    "series_name": "pyrolysis temperature series",
+    "variant_rule": "pyrolysis temperature",
+    "variant_value": "850 °C",
+    "substrate_or_support": "char from co-pyrolysis of Shangwan coal and wheat straw at 50:50 ratio",
+    "labels_material_platform": [
+      "carbon_based",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.03.014:C1",
+    "name_reported": "P/AC",
+    "aliases": [
+      "activated carbon with phosphorus-containing group"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "activated carbon",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.03.014:C2",
+    "name_reported": "S/AC",
+    "aliases": [
+      "sulfonated activated carbon"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "activated carbon",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.03.014:C3",
+    "name_reported": "IL/AC",
+    "aliases": [
+      "supported IL phase catalyst with activated carbon"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "activated carbon",
+    "labels_material_platform": [
+      "composites_heterostructures",
+      "carbon_based"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.03.014:C4",
+    "name_reported": "IL/Al2O3",
+    "aliases": [
+      "supported IL phase catalyst with alumina"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "γ-alumina",
+    "labels_material_platform": [
+      "composites_heterostructures",
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.03.014:C5",
+    "name_reported": "IL/SiO2",
+    "aliases": [
+      "supported IL phase catalyst with silica"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "silica",
+    "labels_material_platform": [
+      "composites_heterostructures",
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.04.035:C1",
+    "name_reported": "Ir/ZSM-5",
+    "aliases": [],
+    "role": "target",
+    "series_name": "Ir content series",
+    "variant_rule": "Ir content varies",
+    "variant_value": "0.02wt.%, 0.1wt.%, 1wt.%, 5wt.%",
+    "substrate_or_support": "ZSM-5",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.04.035:C2",
+    "name_reported": "Ir/SiO2",
+    "aliases": [],
+    "role": "target",
+    "series_name": "Ir content series",
+    "variant_rule": "Ir content varies",
+    "variant_value": "0.02wt.%, 0.1wt.%, 1wt.%, 5wt.%",
+    "substrate_or_support": "SiO2",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.04.035:C3",
+    "name_reported": "Ir/γ-Al2O3",
+    "aliases": [],
+    "role": "target",
+    "series_name": "Ir content series",
+    "variant_rule": "Ir content varies",
+    "variant_value": "0.02wt.%, 0.1wt.%, 1wt.%, 5wt.%",
+    "substrate_or_support": "γ-Al2O3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.04.035:C4",
+    "name_reported": "ZSM-5",
+    "aliases": [
+      "blank support"
+    ],
+    "role": "blank_substrate",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "ZSM-5",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.04.035:C5",
+    "name_reported": "SiO2",
+    "aliases": [
+      "blank support"
+    ],
+    "role": "blank_substrate",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "SiO2",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.04.035:C6",
+    "name_reported": "γ-Al2O3",
+    "aliases": [
+      "blank support"
+    ],
+    "role": "blank_substrate",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "γ-Al2O3",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.04.035:C7",
+    "name_reported": "Pt/γ-Al2O3",
+    "aliases": [],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "γ-Al2O3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2021.106768:C1",
+    "name_reported": "Ni/Mg-Al-O/AC",
+    "aliases": [
+      "Ni/Mg-Al-O/AC bifunctional catalyst"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "activated carbon",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites",
+      "base_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.01.021:C1",
+    "name_reported": "S2Z500-1",
+    "aliases": [
+      "S2O8 2−/ZrO2 calcined at 500°C for 1h"
+    ],
+    "role": "target",
+    "series_name": "S2Zx-y",
+    "variant_rule": "calcination temperature and duration",
+    "variant_value": "500°C, 1h",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "solid_acids_bases_nonzeolite"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.01.021:C2",
+    "name_reported": "S2Z500-3",
+    "aliases": [
+      "S2O8 2−/ZrO2 calcined at 500°C for 3h"
+    ],
+    "role": "target",
+    "series_name": "S2Zx-y",
+    "variant_rule": "calcination temperature and duration",
+    "variant_value": "500°C, 3h",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "solid_acids_bases_nonzeolite"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.01.021:C3",
+    "name_reported": "S2Z500-5",
+    "aliases": [
+      "S2O8 2−/ZrO2 calcined at 500°C for 5h"
+    ],
+    "role": "target",
+    "series_name": "S2Zx-y",
+    "variant_rule": "calcination temperature and duration",
+    "variant_value": "500°C, 5h",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "solid_acids_bases_nonzeolite"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.01.021:C4",
+    "name_reported": "S2Z600-1",
+    "aliases": [
+      "S2O8 2−/ZrO2 calcined at 600°C for 1h"
+    ],
+    "role": "target",
+    "series_name": "S2Zx-y",
+    "variant_rule": "calcination temperature and duration",
+    "variant_value": "600°C, 1h",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "solid_acids_bases_nonzeolite"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.01.021:C5",
+    "name_reported": "S2Z700",
+    "aliases": [
+      "S2O8 2−/ZrO2 calcined at 700°C"
+    ],
+    "role": "target",
+    "series_name": "S2Zx-y",
+    "variant_rule": "calcination temperature and duration",
+    "variant_value": "700°C, unspecified duration",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "solid_acids_bases_nonzeolite"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2017.08.002:C1",
+    "name_reported": "5% Ru/C",
+    "aliases": [
+      "Ru/C"
+    ],
+    "role": "target",
+    "series_name": "noble metal catalysts",
+    "variant_rule": "different noble metal catalysts",
+    "variant_value": "Ru/C",
+    "substrate_or_support": "C",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2017.08.002:C2",
+    "name_reported": "5% Pt/C",
+    "aliases": [
+      "Pt/C"
+    ],
+    "role": "target",
+    "series_name": "noble metal catalysts",
+    "variant_rule": "different noble metal catalysts",
+    "variant_value": "Pt/C",
+    "substrate_or_support": "C",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2017.08.002:C3",
+    "name_reported": "5% Pd/C",
+    "aliases": [
+      "Pd/C"
+    ],
+    "role": "target",
+    "series_name": "noble metal catalysts",
+    "variant_rule": "different noble metal catalysts",
+    "variant_value": "Pd/C",
+    "substrate_or_support": "C",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2017.08.002:C4",
+    "name_reported": "none catalyst",
+    "aliases": [
+      "without noble metal catalysts"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "other"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106711:C1",
+    "name_reported": "kaolin-promoted manganese ore oxygen carrier",
+    "aliases": [
+      "manganese ore promoted by kaolin",
+      "manganese ore supported by kaolin",
+      "oxygen carrier"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "kaolin",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "redox_lattice_oxygen_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.08.016:C1",
+    "name_reported": "NiMg/Al2O3",
+    "aliases": [
+      "commercial NiMg/Al2O3",
+      "NiMg/Al2O3 catalyst"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "Al2O3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107519:C1",
+    "name_reported": "Ru2Ni1-NCNFs",
+    "aliases": [
+      "RuxNiy-NCNFs"
+    ],
+    "role": "target",
+    "series_name": "RuxNiy-NCNFs",
+    "variant_rule": "Ru:Ni ratio",
+    "variant_value": "2:1",
+    "substrate_or_support": "N-doped carbon nanofibers",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2003.12.004:C1",
+    "name_reported": "catalyst prepared from Q-50 support",
+    "aliases": [
+      "Q-50 catalyst"
+    ],
+    "role": "baseline",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "Cariact Q-50 silica gel",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2003.12.004:C2",
+    "name_reported": "catalyst prepared from Q-3 support",
+    "aliases": [
+      "Q-3 catalyst"
+    ],
+    "role": "baseline",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "Cariact Q-3 silica gel",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2003.12.004:C3",
+    "name_reported": "silica bimodal pore catalyst",
+    "aliases": [
+      "silica bimodal catalyst",
+      "catalyst prepared from silica bimodal support"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "silica bimodal support",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2003.12.004:C4",
+    "name_reported": "zirconia bimodal pore catalyst",
+    "aliases": [
+      "zirconia bimodal catalyst",
+      "catalyst prepared from zirconia bimodal support"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "zirconia bimodal support",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2011.02.015:C1",
+    "name_reported": "Ni/YSZ anode",
+    "aliases": [
+      "conventional Ni/YSZ anode",
+      "Ni/YSZ anode used in this investigation"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "YSZ",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2011.06.007:C1",
+    "name_reported": "Ni–W/SBA-15-1",
+    "aliases": [
+      "sulfided Ni–W/SBA-15-1"
+    ],
+    "role": "target",
+    "series_name": "Ni–W/SBA-15 series",
+    "variant_rule": "different pore sizes",
+    "variant_value": "small pore size (3–7nm)",
+    "substrate_or_support": "SBA-15-1",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2011.06.007:C2",
+    "name_reported": "Ni–W/SBA-15-2",
+    "aliases": [
+      "sulfided Ni–W/SBA-15-2"
+    ],
+    "role": "target",
+    "series_name": "Ni–W/SBA-15 series",
+    "variant_rule": "different pore sizes",
+    "variant_value": "medium pore size (7–8nm)",
+    "substrate_or_support": "SBA-15-2",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2011.06.007:C3",
+    "name_reported": "Ni–W/SBA-15-3",
+    "aliases": [
+      "sulfided Ni–W/SBA-15-3"
+    ],
+    "role": "target",
+    "series_name": "Ni–W/SBA-15 series",
+    "variant_rule": "different pore sizes",
+    "variant_value": "largest pore size (5–80nm, average 15.7nm)",
+    "substrate_or_support": "SBA-15-3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2010.11.017:C1",
+    "name_reported": "CuO–CoO–Cr2O3 (CAT-A)",
+    "aliases": [
+      "CAT-A"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2010.11.017:C2",
+    "name_reported": "CuO–CoO–Cr2O3 + MFI Zeolite (CAT-B)",
+    "aliases": [
+      "CAT-B"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "MFI Zeolite (Si/Al=35)",
+    "labels_material_platform": [
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2013.11.018:C1",
+    "name_reported": "Na2ZrO3",
+    "aliases": [
+      "sodium zirconate"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "base_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.01.007:C1",
+    "name_reported": "cat-00-20-33-0",
+    "aliases": [],
+    "role": "target",
+    "series_name": "NiMo catalysts",
+    "variant_rule": "varied USY/γ-Al2O3 support composition, total metal loading, Ni/(Ni+Mo) molar ratio, EDTA/Ni molar ratio",
+    "variant_value": "0 wt% USY zeolite, 20 wt% total metal loading, Ni/(Ni+Mo)=0.33, EDTA/Ni=0",
+    "substrate_or_support": "γ-Al2O3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.01.007:C2",
+    "name_reported": "cat-00-20-33-2",
+    "aliases": [],
+    "role": "target",
+    "series_name": "NiMo catalysts",
+    "variant_rule": "varied USY/γ-Al2O3 support composition, total metal loading, Ni/(Ni+Mo) molar ratio, EDTA/Ni molar ratio",
+    "variant_value": "0 wt% USY zeolite, 20 wt% total metal loading, Ni/(Ni+Mo)=0.33, EDTA/Ni=2",
+    "substrate_or_support": "γ-Al2O3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.01.007:C3",
+    "name_reported": "cat-10-20-33-0",
+    "aliases": [],
+    "role": "target",
+    "series_name": "NiMo catalysts",
+    "variant_rule": "varied USY/γ-Al2O3 support composition, total metal loading, Ni/(Ni+Mo) molar ratio, EDTA/Ni molar ratio",
+    "variant_value": "10 wt% USY zeolite, 20 wt% total metal loading, Ni/(Ni+Mo)=0.33, EDTA/Ni=0",
+    "substrate_or_support": "USY/γ-Al2O3 composite support",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.01.007:C4",
+    "name_reported": "optimum catalyst",
+    "aliases": [
+      "most active catalyst"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "10 wt% USY zeolite, 18 wt% total metal loading, Ni/(Ni+Mo)=0.417, EDTA/Ni=2",
+    "substrate_or_support": "USY/γ-Al2O3 composite support",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.03.024:C1",
+    "name_reported": "Fe2O3",
+    "aliases": [
+      "fresh Fe2O3"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "redox_lattice_oxygen_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.03.024:C2",
+    "name_reported": "Fe2O3-500",
+    "aliases": [
+      "spent Fe2O3-500"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "redox_lattice_oxygen_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.03.024:C3",
+    "name_reported": "Fe2O3-600",
+    "aliases": [
+      "spent Fe2O3-600"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "redox_lattice_oxygen_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.03.024:C4",
+    "name_reported": "Fe2O3-700",
+    "aliases": [
+      "spent Fe2O3-700"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "redox_lattice_oxygen_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.03.024:C5",
+    "name_reported": "Fe2O3-800",
+    "aliases": [
+      "spent Fe2O3-800"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "redox_lattice_oxygen_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.03.024:C6",
+    "name_reported": "R500",
+    "aliases": [
+      "reduced sample R500"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "redox_lattice_oxygen_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.03.024:C7",
+    "name_reported": "R600",
+    "aliases": [
+      "reduced sample R600"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "redox_lattice_oxygen_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.03.024:C8",
+    "name_reported": "R700",
+    "aliases": [
+      "reduced sample R700"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "redox_lattice_oxygen_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.03.024:C9",
+    "name_reported": "R800",
+    "aliases": [
+      "reduced sample R800"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "redox_lattice_oxygen_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.02.022:C1",
+    "name_reported": "char from biomass",
+    "aliases": [
+      "H-form char catalyst from biomass",
+      "biomass derived char"
+    ],
+    "role": "target",
+    "series_name": "chars from acid-washed carbon materials",
+    "variant_rule": "parent carbon material type",
+    "variant_value": "biomass",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": [
+      "defect_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.02.022:C2",
+    "name_reported": "char from brown coal",
+    "aliases": [
+      "H-form char catalyst from brown coal",
+      "brown coal char"
+    ],
+    "role": "target",
+    "series_name": "chars from acid-washed carbon materials",
+    "variant_rule": "parent carbon material type",
+    "variant_value": "brown coal",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": [
+      "defect_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.02.022:C3",
+    "name_reported": "char from bituminous coal",
+    "aliases": [
+      "H-form char catalyst from bituminous coal",
+      "bituminous coal char"
+    ],
+    "role": "target",
+    "series_name": "chars from acid-washed carbon materials",
+    "variant_rule": "parent carbon material type",
+    "variant_value": "bituminous coal",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": [
+      "defect_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.02.022:C4",
+    "name_reported": "char from anthracite",
+    "aliases": [
+      "H-form char catalyst from anthracite",
+      "anthracite char"
+    ],
+    "role": "target",
+    "series_name": "chars from acid-washed carbon materials",
+    "variant_rule": "parent carbon material type",
+    "variant_value": "anthracite",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": [
+      "defect_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.02.022:C5",
+    "name_reported": "char from graphite",
+    "aliases": [
+      "H-form char catalyst from graphite",
+      "graphite char"
+    ],
+    "role": "target",
+    "series_name": "chars from acid-washed carbon materials",
+    "variant_rule": "parent carbon material type",
+    "variant_value": "graphite",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.02.022:C6",
+    "name_reported": "blank",
+    "aliases": [
+      "no catalysts"
+    ],
+    "role": "blank_substrate",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2017.02.005:C1",
+    "name_reported": "sulfided NiMo/γ-Al2O3 catalyst",
+    "aliases": [
+      "NiMo/γ-Al2O3 catalyst",
+      "commercial NiMo/γ-Al2O3 catalyst",
+      "sulfided commercial NiMo/γ-Al2O3 catalyst"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "γ-Al2O3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2015.01.003:C1",
+    "name_reported": "Mn–Na2WO4/SiO2",
+    "aliases": [
+      "catalyst without MCl"
+    ],
+    "role": "baseline",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "SiO2",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2015.01.003:C2",
+    "name_reported": "LiCl–Mn–Na2WO4/SiO2",
+    "aliases": [
+      "MCl–Mn–Na2WO4/SiO2 (M=Li)"
+    ],
+    "role": "target",
+    "series_name": "MCl–Mn–Na2WO4/SiO2",
+    "variant_rule": "type of alkali chloride promoter",
+    "variant_value": "LiCl",
+    "substrate_or_support": "SiO2",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2015.01.003:C3",
+    "name_reported": "NaCl–Mn–Na2WO4/SiO2",
+    "aliases": [
+      "MCl–Mn–Na2WO4/SiO2 (M=Na)"
+    ],
+    "role": "target",
+    "series_name": "MCl–Mn–Na2WO4/SiO2",
+    "variant_rule": "type of alkali chloride promoter",
+    "variant_value": "NaCl",
+    "substrate_or_support": "SiO2",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2015.01.003:C4",
+    "name_reported": "KCl–Mn–Na2WO4/SiO2",
+    "aliases": [
+      "MCl–Mn–Na2WO4/SiO2 (M=K)"
+    ],
+    "role": "target",
+    "series_name": "MCl–Mn–Na2WO4/SiO2",
+    "variant_rule": "type of alkali chloride promoter",
+    "variant_value": "KCl",
+    "substrate_or_support": "SiO2",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2015.01.003:C5",
+    "name_reported": "CsCl–Mn–Na2WO4/SiO2",
+    "aliases": [
+      "MCl–Mn–Na2WO4/SiO2 (M=Cs)"
+    ],
+    "role": "target",
+    "series_name": "MCl–Mn–Na2WO4/SiO2",
+    "variant_rule": "type of alkali chloride promoter",
+    "variant_value": "CsCl",
+    "substrate_or_support": "SiO2",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2015.01.003:C6",
+    "name_reported": "(NaCl+KCl)–Mn–Na2WO4/SiO2",
+    "aliases": [
+      "equimolar mixture of NaCl and KCl–Mn–Na2WO4/SiO2"
+    ],
+    "role": "target",
+    "series_name": "MCl–Mn–Na2WO4/SiO2",
+    "variant_rule": "type of alkali chloride promoter",
+    "variant_value": "equimolar mixture of NaCl and KCl",
+    "substrate_or_support": "SiO2",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2015.01.003:C7",
+    "name_reported": "NaCl–Mn/SiO2",
+    "aliases": [],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "SiO2",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2015.01.003:C8",
+    "name_reported": "Mn/SiO2",
+    "aliases": [],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "SiO2",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106388:C1",
+    "name_reported": "Fe/attapulgite powder",
+    "aliases": [
+      "Fe/AP"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "attapulgite powder",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106388:C2",
+    "name_reported": "Ni/attapulgite powder",
+    "aliases": [
+      "Ni/AP"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "attapulgite powder",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106388:C3",
+    "name_reported": "Fe-Ni/AP",
+    "aliases": [
+      "Fe-Ni/AP (Fe:Ni = 2:1)"
+    ],
+    "role": "target",
+    "series_name": "Fe-Ni/AP series",
+    "variant_rule": "different molar ratios of Fe to Ni",
+    "variant_value": "Fe:Ni = 2:1",
+    "substrate_or_support": "attapulgite powder",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106388:C4",
+    "name_reported": "Fe-Ni-S/AP",
+    "aliases": [
+      "Fe-Ni-S/AP (Fe:Ni = 2:1)"
+    ],
+    "role": "target",
+    "series_name": "Fe-Ni/AP series",
+    "variant_rule": "different molar ratios of Fe to Ni",
+    "variant_value": "Fe:Ni = 2:1",
+    "substrate_or_support": "attapulgite powder",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106388:C5",
+    "name_reported": "Fe-Ni-S/AC",
+    "aliases": [],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "activated carbon",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106388:C6",
+    "name_reported": "Fe-Ni-S/mordenite",
+    "aliases": [],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "mordenite",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106388:C7",
+    "name_reported": "Fe-Ni-S/ZSM-5",
+    "aliases": [],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "ZSM-5",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106388:C8",
+    "name_reported": "Fe-Ni-S/γ-Al2O3",
+    "aliases": [],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "γ-Al2O3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106388:C9",
+    "name_reported": "Fe-S/AP",
+    "aliases": [],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "attapulgite powder",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106388:C10",
+    "name_reported": "Ni-S/AP",
+    "aliases": [],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "attapulgite powder",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106388:C11",
+    "name_reported": "AP",
+    "aliases": [
+      "attapulgite powder"
+    ],
+    "role": "blank_substrate",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "attapulgite powder",
+    "labels_material_platform": [
+      "other"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2014.05.024:C1",
+    "name_reported": "Amberlyst 70",
+    "aliases": [
+      "solid acid catalyst",
+      "solid acid resin catalyst",
+      "porous resin catalyst"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "solid_acids_bases_nonzeolite"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106409:C1",
+    "name_reported": "RC-K",
+    "aliases": [
+      "KOH-loaded coal sample"
+    ],
+    "role": "target",
+    "series_name": "RC-K series",
+    "variant_rule": "residence time at 900°C",
+    "variant_value": "0, 30, 90 min",
+    "substrate_or_support": "coal",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106409:C2",
+    "name_reported": "CC-K",
+    "aliases": [
+      "KOH-loaded coal coke sample"
+    ],
+    "role": "target",
+    "series_name": "CC-K series",
+    "variant_rule": "residence time at 900°C",
+    "variant_value": "0, 30, 90 min",
+    "substrate_or_support": "coal coke",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106409:C3",
+    "name_reported": "RC",
+    "aliases": [
+      "raw coal sample"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "coal",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106409:C4",
+    "name_reported": "CC",
+    "aliases": [
+      "coal coke sample"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "coal coke",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.106248:C1",
+    "name_reported": "no catalyst",
+    "aliases": [
+      "absence of catalyst"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.106248:C2",
+    "name_reported": "CeO2-ZrO2",
+    "aliases": [
+      "CeO2-ZrO2 support"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "CeO2-ZrO2",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.106248:C3",
+    "name_reported": "Ni/CeO2-ZrO2-red",
+    "aliases": [
+      "10%Ni/CeO2-ZrO2-red"
+    ],
+    "role": "target",
+    "series_name": "Ni/CeO2-ZrO2-red",
+    "variant_rule": "Ni loading varied",
+    "variant_value": "1-10 wt%",
+    "substrate_or_support": "CeO2-ZrO2",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.106248:C4",
+    "name_reported": "Ni/CeO2-ZrO2-imp",
+    "aliases": [
+      "10%Ni/CeO2-ZrO2-imp"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "CeO2-ZrO2",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.106248:C5",
+    "name_reported": "Ni/CeO2-ZrO2-imp-red",
+    "aliases": [
+      "10%Ni/CeO2-ZrO2-imp-red"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "CeO2-ZrO2",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(00)00138-7:C1",
+    "name_reported": "Ni/Al coprecipitated catalyst",
+    "aliases": [
+      "Ni–Al coprecipitated catalyst",
+      "Ni/Al catalyst"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "sand",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(00)00138-7:C2",
+    "name_reported": "non-catalytic CO2 gasification",
+    "aliases": [
+      "without catalyst"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "sand",
+    "labels_material_platform": [
+      "other"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.05.027:C1",
+    "name_reported": "alkali-Co doped molybdenum sulfide catalyst",
+    "aliases": [
+      "catalyst I"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "silicon carbide",
+    "labels_material_platform": [
+      "sulfides_selenides_tellurides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2006.10.001:C1",
+    "name_reported": "Catalyst A",
+    "aliases": [
+      "parent nanoscale HZSM-5 catalyst"
+    ],
+    "role": "baseline",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "γ-alumina (pseudo-boehmite)",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2006.10.001:C2",
+    "name_reported": "Catalyst B",
+    "aliases": [],
+    "role": "target",
+    "series_name": "modified nanoscale HZSM-5 catalysts",
+    "variant_rule": "hydrothermal treatment temperature",
+    "variant_value": "not specified (but different from C3)",
+    "substrate_or_support": "γ-alumina (pseudo-boehmite)",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2006.10.001:C3",
+    "name_reported": "Catalyst C",
+    "aliases": [
+      "modified nanoscale ZSM-5 catalyst hydrothermally treated at 400 °C"
+    ],
+    "role": "target",
+    "series_name": "modified nanoscale HZSM-5 catalysts",
+    "variant_rule": "hydrothermal treatment temperature",
+    "variant_value": "400 °C",
+    "substrate_or_support": "γ-alumina (pseudo-boehmite)",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.02.017:C1",
+    "name_reported": "CuCo-R",
+    "aliases": [
+      "CuCo-R",
+      "Cu/Co-R"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "carbon nanotubes (CNTs)",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.02.017:C2",
+    "name_reported": "Cu-R",
+    "aliases": [
+      "Cu-R",
+      "Cu/Co-R"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "carbon nanotubes (CNTs)",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.02.017:C3",
+    "name_reported": "Co-R",
+    "aliases": [
+      "Co-R",
+      "Cu/Co-R"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "carbon nanotubes (CNTs)",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.02.017:C4",
+    "name_reported": "CuCo-C",
+    "aliases": [
+      "CuCo-C",
+      "Cu/Co-C"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "carbon nanotubes (CNTs)",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.02.017:C5",
+    "name_reported": "blank test without catalyst",
+    "aliases": [],
+    "role": "blank_substrate",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "other"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2010.09.036:C1",
+    "name_reported": "FeOx",
+    "aliases": [],
+    "role": "baseline",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "redox_lattice_oxygen_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2010.09.036:C2",
+    "name_reported": "Zr(10)–Al(7)–FeOx",
+    "aliases": [],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "redox_lattice_oxygen_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2010.09.036:C3",
+    "name_reported": "Ce(2.5)–Zr(7.5)–Al(7)–FeOx",
+    "aliases": [],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "redox_lattice_oxygen_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2010.09.036:C4",
+    "name_reported": "Ce(10)–Zr(10)–Al(20)–FeOx",
+    "aliases": [],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "redox_lattice_oxygen_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(96)01047-8:C1",
+    "name_reported": "tetralin",
+    "aliases": [
+      "tetralin alone"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(96)01047-8:C2",
+    "name_reported": "tetralin-ethanol mixture",
+    "aliases": [
+      "binary tetralin-ethanol mixture",
+      "tetralin(83%)+ethanol(17%)",
+      "tetralin(60%)+ethanol(40%)"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(96)01047-8:C3",
+    "name_reported": "tetralin-methanol mixture",
+    "aliases": [
+      "binary tetralin-methanol mixture",
+      "tetralin(83%)+methanol(17%)"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(96)01047-8:C4",
+    "name_reported": "tetralin-THF mixture",
+    "aliases": [
+      "binary tetralin-THF mixture",
+      "tetralin(83%)+THF(17%)"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(96)01047-8:C5",
+    "name_reported": "ethanol",
+    "aliases": [
+      "ethanol alone"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(96)01047-8:C6",
+    "name_reported": "methanol",
+    "aliases": [
+      "methanol alone"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(96)01047-8:C7",
+    "name_reported": "THF",
+    "aliases": [
+      "tetrahydrofuran alone"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.11.004:C1",
+    "name_reported": "HZSM-5",
+    "aliases": [
+      "parent HZSM-5",
+      "parent sample"
+    ],
+    "role": "baseline",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "zeolite",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.11.004:C2",
+    "name_reported": "HT400",
+    "aliases": [
+      "steam treated HZSM-5 at 400°C"
+    ],
+    "role": "target",
+    "series_name": "HTx",
+    "variant_rule": "steam treatment temperature",
+    "variant_value": "400°C",
+    "substrate_or_support": "zeolite",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.11.004:C3",
+    "name_reported": "HT450",
+    "aliases": [
+      "steam treated HZSM-5 at 450°C"
+    ],
+    "role": "target",
+    "series_name": "HTx",
+    "variant_rule": "steam treatment temperature",
+    "variant_value": "450°C",
+    "substrate_or_support": "zeolite",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.11.004:C4",
+    "name_reported": "HT500",
+    "aliases": [
+      "steam treated HZSM-5 at 500°C"
+    ],
+    "role": "target",
+    "series_name": "HTx",
+    "variant_rule": "steam treatment temperature",
+    "variant_value": "500°C",
+    "substrate_or_support": "zeolite",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.11.004:C5",
+    "name_reported": "HT550",
+    "aliases": [
+      "steam treated HZSM-5 at 550°C"
+    ],
+    "role": "target",
+    "series_name": "HTx",
+    "variant_rule": "steam treatment temperature",
+    "variant_value": "550°C",
+    "substrate_or_support": "zeolite",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2021.106767:C1",
+    "name_reported": "hemimorphite-HfO2/SiO2",
+    "aliases": [
+      "HM-HfO2/SiO2"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "SiO2",
+    "labels_material_platform": [
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2003.10.014:C1",
+    "name_reported": "Pt(10)/Al2O3",
+    "aliases": [],
+    "role": "target",
+    "series_name": "Pt/Al2O3 series",
+    "variant_rule": "Pt loading",
+    "variant_value": "1.5×10−4 mol/g-cat (2.9 mass%)",
+    "substrate_or_support": "Al2O3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2003.10.014:C2",
+    "name_reported": "Pt(1)/Al2O3",
+    "aliases": [],
+    "role": "target",
+    "series_name": "Pt/Al2O3 series",
+    "variant_rule": "Pt loading",
+    "variant_value": "1.5×10−5 mol/g-cat (0.3 mass%)",
+    "substrate_or_support": "Al2O3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2003.10.014:C3",
+    "name_reported": "Pt(0.3)/Al2O3",
+    "aliases": [],
+    "role": "target",
+    "series_name": "Pt/Al2O3 series",
+    "variant_rule": "Pt loading",
+    "variant_value": "4.5×10−6 mol/g-cat (0.09 mass%)",
+    "substrate_or_support": "Al2O3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2003.10.014:C4",
+    "name_reported": "Pt(0.1)/Al2O3",
+    "aliases": [],
+    "role": "target",
+    "series_name": "Pt/Al2O3 series",
+    "variant_rule": "Pt loading",
+    "variant_value": "1.5×10−6 mol/g-cat (0.03 mass%)",
+    "substrate_or_support": "Al2O3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2003.10.014:C5",
+    "name_reported": "Ni(10)/Al2O3",
+    "aliases": [],
+    "role": "target",
+    "series_name": "Ni/Al2O3 series",
+    "variant_rule": "Ni loading",
+    "variant_value": "1.5×10−4 mol/g-cat (0.9 mass%)",
+    "substrate_or_support": "Al2O3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2003.10.014:C6",
+    "name_reported": "Ni(30)/Al2O3",
+    "aliases": [],
+    "role": "target",
+    "series_name": "Ni/Al2O3 series",
+    "variant_rule": "Ni loading",
+    "variant_value": "4.5×10−4 mol/g-cat (2.7 mass%)",
+    "substrate_or_support": "Al2O3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2003.10.014:C7",
+    "name_reported": "G-91",
+    "aliases": [
+      "commercial steam reforming Ni catalyst"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "Al2O3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2003.10.014:C8",
+    "name_reported": "quartz sand",
+    "aliases": [],
+    "role": "blank_substrate",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "quartz",
+    "labels_material_platform": [
+      "other"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2009.11.003:C1",
+    "name_reported": "calcined sodium silicate",
+    "aliases": [
+      "sodium silicate calcined at 400°C for 2h",
+      "calcined sodium silicate prepared at 400°C for 2h"
+    ],
+    "role": "target",
+    "series_name": "calcination temperature series",
+    "variant_rule": "calcination temperature varied from 200°C to 500°C",
+    "variant_value": "400°C",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "solid_acids_bases_nonzeolite"
+    ],
+    "labels_active_site_form": [
+      "base_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2009.11.003:C2",
+    "name_reported": "non-calcined sodium silicate",
+    "aliases": [
+      "sodium silicate"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "solid_acids_bases_nonzeolite"
+    ],
+    "labels_active_site_form": [
+      "base_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.12.015:C1",
+    "name_reported": "Ni- p",
+    "aliases": [
+      "Ni catalyst",
+      "monometallic Ni"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "γ-Al2O3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.12.015:C2",
+    "name_reported": "Ni-Ru- p",
+    "aliases": [
+      "Ru promoted catalyst",
+      "Ni-Ru"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "γ-Al2O3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.12.015:C3",
+    "name_reported": "Ni- M",
+    "aliases": [
+      "Ni monolith"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "cordierite monolith",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.12.015:C4",
+    "name_reported": "Ni-Ru- M",
+    "aliases": [
+      "Ni-Ru monolith"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "cordierite monolith",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2009.02.007:C1",
+    "name_reported": "Ni/mayenite",
+    "aliases": [
+      "Ni/mayenite (5% wt.)",
+      "Ni/mayenite (4.7% wt.)"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "mayenite (Ca12Al14O33)",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2009.02.007:C2",
+    "name_reported": "mayenite alone",
+    "aliases": [
+      "initial mayenite"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "none",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2009.02.007:C3",
+    "name_reported": "Ni/CaO x /MgO1−x",
+    "aliases": [
+      "Ni/Ca x /MgO1−x"
+    ],
+    "role": "baseline",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "CaO x /MgO1−x",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2009.02.007:C4",
+    "name_reported": "NiO/mayenite",
+    "aliases": [
+      "NiO/mayenite"
+    ],
+    "role": "baseline",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "mayenite (Ca12Al14O33)",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107206:C1",
+    "name_reported": "KOH",
+    "aliases": [
+      "potassium hydroxide"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "not stated",
+    "labels_material_platform": [
+      "other"
+    ],
+    "labels_active_site_form": [
+      "base_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.07.014:C1",
+    "name_reported": "Pd/SBA-15",
+    "aliases": [],
+    "role": "target",
+    "series_name": "Pd/SBA-15 catalyst loading level series",
+    "variant_rule": "catalyst loading level (wt% of feed SO-FAMEs)",
+    "variant_value": "0.5, 0.75, 1",
+    "substrate_or_support": "SBA-15",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.07.014:C2",
+    "name_reported": "Pd/0.01Zr-SBA-15",
+    "aliases": [],
+    "role": "target",
+    "series_name": "Pd/xZr-SBA-15 series",
+    "variant_rule": "Zr/Si molar ratio (x)",
+    "variant_value": "0.01",
+    "substrate_or_support": "0.01Zr-SBA-15",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.07.014:C3",
+    "name_reported": "Pd/0.05Zr-SBA-15",
+    "aliases": [],
+    "role": "target",
+    "series_name": "Pd/xZr-SBA-15 series",
+    "variant_rule": "Zr/Si molar ratio (x)",
+    "variant_value": "0.05",
+    "substrate_or_support": "0.05Zr-SBA-15",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.07.014:C4",
+    "name_reported": "Pd/0.07Zr-SBA-15",
+    "aliases": [],
+    "role": "target",
+    "series_name": "Pd/xZr-SBA-15 series",
+    "variant_rule": "Zr/Si molar ratio (x)",
+    "variant_value": "0.07",
+    "substrate_or_support": "0.07Zr-SBA-15",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.07.014:C5",
+    "name_reported": "Pd/0.09Zr-SBA-15",
+    "aliases": [],
+    "role": "target",
+    "series_name": "Pd/xZr-SBA-15 series",
+    "variant_rule": "Zr/Si molar ratio (x)",
+    "variant_value": "0.09",
+    "substrate_or_support": "0.09Zr-SBA-15",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.07.014:C6",
+    "name_reported": "Pd/0.11Zr-SBA-15",
+    "aliases": [],
+    "role": "target",
+    "series_name": "Pd/xZr-SBA-15 series",
+    "variant_rule": "Zr/Si molar ratio (x)",
+    "variant_value": "0.11",
+    "substrate_or_support": "0.11Zr-SBA-15",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107257:C1",
+    "name_reported": "MIL-53 (Cu) derived@Y zeolite catalyst",
+    "aliases": [
+      "new MIL-53 (Cu) derived",
+      "process catalyst",
+      "MIL-53 (Cu) derived@Y zeolite"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "zeolite Y",
+    "labels_material_platform": [
+      "mof_cof_derived",
+      "zeolites_molecular_sieves",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites",
+      "defect_sites",
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107478:C1",
+    "name_reported": "anaerobic granular sludge",
+    "aliases": [
+      "sludge",
+      "anaerobic mixed cultures",
+      "enriched anaerobic mixed cultures"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "granular sludge",
+    "labels_material_platform": [
+      "bio_biocatalyst_immobilized"
+    ],
+    "labels_active_site_form": [
+      "enzyme_active_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2014.01.007:C1",
+    "name_reported": "10NiHT",
+    "aliases": [
+      "catalyst with 10% NiO"
+    ],
+    "role": "target",
+    "series_name": "Ni loading series",
+    "variant_rule": "NiO loading",
+    "variant_value": "10 wt.%",
+    "substrate_or_support": "Ni,Mg,Al-mixed oxides from hydrotalcite",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2014.01.007:C2",
+    "name_reported": "20NiHT",
+    "aliases": [
+      "catalyst with 20% NiO"
+    ],
+    "role": "target",
+    "series_name": "Ni loading series",
+    "variant_rule": "NiO loading",
+    "variant_value": "20 wt.%",
+    "substrate_or_support": "Ni,Mg,Al-mixed oxides from hydrotalcite",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2014.01.007:C3",
+    "name_reported": "silicon carbide",
+    "aliases": [
+      "blank test",
+      "only silicon carbide"
+    ],
+    "role": "blank_substrate",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "other"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107512:C1",
+    "name_reported": "HZSM-5",
+    "aliases": [],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107512:C2",
+    "name_reported": "Zn/HZSM-5",
+    "aliases": [],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107451:C1",
+    "name_reported": "Co-N-COF",
+    "aliases": [
+      "Co-N-COF electrocatalyst",
+      "Co-N-COF sample"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "carbon cloth",
+    "labels_material_platform": [
+      "mof_cof_frameworks",
+      "single_atom_or_isolated_site"
+    ],
+    "labels_active_site_form": [
+      "single_atom_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107451:C2",
+    "name_reported": "N-COF",
+    "aliases": [
+      "N-COF sample",
+      "N-COF material"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "carbon cloth",
+    "labels_material_platform": [
+      "mof_cof_frameworks"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2021.107159:C1",
+    "name_reported": "OC",
+    "aliases": [
+      "oxygen carrier"
+    ],
+    "role": "target",
+    "series_name": "particle size series",
+    "variant_rule": "particle size ranges",
+    "variant_value": "106–170 μm, 170–280 μm, 280–355 μm",
+    "substrate_or_support": "Al2O3",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "reconstructing_operando_transformed_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107426:C1",
+    "name_reported": "Char-500",
+    "aliases": [
+      "Char-500/A",
+      "Char-500/S"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "pyrolysis temperature",
+    "variant_value": "500 °C",
+    "substrate_or_support": "oil shale char",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": [
+      "defect_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107426:C2",
+    "name_reported": "De-Char-500",
+    "aliases": [
+      "De-Char-500/S",
+      "De-Char-500/A"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "pyrolysis temperature",
+    "variant_value": "500 °C",
+    "substrate_or_support": "demineralized oil shale char",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": [
+      "defect_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107426:C3",
+    "name_reported": "De-Char-600",
+    "aliases": [
+      "De-Char-600/S"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "pyrolysis temperature",
+    "variant_value": "600 °C",
+    "substrate_or_support": "demineralized oil shale char",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": [
+      "defect_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107426:C4",
+    "name_reported": "De-Char-700",
+    "aliases": [
+      "De-Char-700/S"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "pyrolysis temperature",
+    "variant_value": "700 °C",
+    "substrate_or_support": "demineralized oil shale char",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": [
+      "defect_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107426:C5",
+    "name_reported": "De-Char-800",
+    "aliases": [
+      "De-Char-800/S"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "pyrolysis temperature",
+    "variant_value": "800 °C",
+    "substrate_or_support": "demineralized oil shale char",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": [
+      "defect_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107426:C6",
+    "name_reported": "Oil Shale Ash",
+    "aliases": [
+      "A"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "bed material",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107426:C7",
+    "name_reported": "SiO2",
+    "aliases": [
+      "S"
+    ],
+    "role": "blank_substrate",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "bed material",
+    "labels_material_platform": [
+      "other"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107426:C8",
+    "name_reported": "CaO-SiO2",
+    "aliases": [
+      "CaO impregnated quartz sand"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "SiO2",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107426:C9",
+    "name_reported": "Fe2O3-SiO2",
+    "aliases": [
+      "Fe2O3 impregnated quartz sand"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "SiO2",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106581:C1",
+    "name_reported": "Ni1Nd9",
+    "aliases": [
+      "Ni x Nd1-x catalyst with Ni/Nd = 1:9"
+    ],
+    "role": "target",
+    "series_name": "Ni x Nd1-x catalysts",
+    "variant_rule": "Ni/Nd molar ratio",
+    "variant_value": "1:9",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106581:C2",
+    "name_reported": "Ni3Nd7",
+    "aliases": [
+      "Ni x Nd1-x catalyst with Ni/Nd = 3:7"
+    ],
+    "role": "target",
+    "series_name": "Ni x Nd1-x catalysts",
+    "variant_rule": "Ni/Nd molar ratio",
+    "variant_value": "3:7",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106581:C3",
+    "name_reported": "Ni5Nd5",
+    "aliases": [
+      "Ni x Nd1-x catalyst with Ni/Nd = 5:5"
+    ],
+    "role": "target",
+    "series_name": "Ni x Nd1-x catalysts",
+    "variant_rule": "Ni/Nd molar ratio",
+    "variant_value": "5:5",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106581:C4",
+    "name_reported": "Ni7Nd3",
+    "aliases": [
+      "Ni x Nd1-x catalyst with Ni/Nd = 7:3"
+    ],
+    "role": "target",
+    "series_name": "Ni x Nd1-x catalysts",
+    "variant_rule": "Ni/Nd molar ratio",
+    "variant_value": "7:3",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106581:C5",
+    "name_reported": "Ni9Nd1",
+    "aliases": [
+      "Ni x Nd1-x catalyst with Ni/Nd = 9:1"
+    ],
+    "role": "target",
+    "series_name": "Ni x Nd1-x catalysts",
+    "variant_rule": "Ni/Nd molar ratio",
+    "variant_value": "9:1",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106581:C6",
+    "name_reported": "Nd2O3",
+    "aliases": [],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107434:C1",
+    "name_reported": "PtCuMn multiple-pin nanoframes",
+    "aliases": [
+      "PtCuMn mp-NFs"
+    ],
+    "role": "target",
+    "series_name": "PtCuMn nanoframes",
+    "variant_rule": "morphology variation via synthesis conditions",
+    "variant_value": "multiple-pin nanoframe",
+    "substrate_or_support": "carbon black",
+    "labels_material_platform": [
+      "metals_alloys_intermetallics"
+    ],
+    "labels_active_site_form": [
+      "defect_sites",
+      "facet_or_crystal_plane_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107434:C2",
+    "name_reported": "PtCuMn external branch nanoframes",
+    "aliases": [
+      "PtCuMn eb-NFs"
+    ],
+    "role": "target",
+    "series_name": "PtCuMn nanoframes",
+    "variant_rule": "morphology variation via synthesis conditions",
+    "variant_value": "external branch nanoframe",
+    "substrate_or_support": "carbon black",
+    "labels_material_platform": [
+      "metals_alloys_intermetallics"
+    ],
+    "labels_active_site_form": [
+      "defect_sites",
+      "facet_or_crystal_plane_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107434:C3",
+    "name_reported": "PtCuMn cube nanoparticles",
+    "aliases": [
+      "PtCuMn cu-NPs"
+    ],
+    "role": "target",
+    "series_name": "PtCuMn alloys",
+    "variant_rule": "structure variation via structure-directing agent",
+    "variant_value": "cube nanoparticle",
+    "substrate_or_support": "carbon black",
+    "labels_material_platform": [
+      "metals_alloys_intermetallics"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107434:C4",
+    "name_reported": "Pt/C",
+    "aliases": [],
+    "role": "baseline",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "carbon",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106622:C1",
+    "name_reported": "Ni/biochar",
+    "aliases": [
+      "Ni/biochar catalyst",
+      "biochar-supported Ni catalyst"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "10 wt% Ni loading",
+    "variant_value": "10 wt%",
+    "substrate_or_support": "biochar",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles",
+      "carbon_based"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites",
+      "interface_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106622:C2",
+    "name_reported": "biochar",
+    "aliases": [
+      "biochar alone",
+      "biochar catalyst"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "biochar",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106622:C3",
+    "name_reported": "acid-washed biochar",
+    "aliases": [
+      "acid-washed biochar catalyst"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "acid-washed to remove AAEM species",
+    "variant_value": "acid-washed",
+    "substrate_or_support": "biochar",
+    "labels_material_platform": [
+      "carbon_based"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.03.031:C1",
+    "name_reported": "NiO/Mo2O3-ZSM-5",
+    "aliases": [
+      "supported catalyst on ZSM-5"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "ZSM-5",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles",
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.03.031:C2",
+    "name_reported": "no catalyst",
+    "aliases": [
+      "without the catalyst"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106576:C1",
+    "name_reported": "LD slag",
+    "aliases": [
+      "steel converter slag",
+      "basic oxygen furnace slag"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "defect_sites",
+      "interface_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106576:C2",
+    "name_reported": "ilmenite",
+    "aliases": [
+      "rock ilmenite"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106576:C3",
+    "name_reported": "sand",
+    "aliases": [
+      "silica sand",
+      "sea sand"
+    ],
+    "role": "baseline",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "other"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106576:C4",
+    "name_reported": "olivine",
+    "aliases": [],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.05.033:C1",
+    "name_reported": "NiAl",
+    "aliases": [],
+    "role": "baseline",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "ordered mesoporous alumina",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.05.033:C2",
+    "name_reported": "0.5-CuNiAl",
+    "aliases": [
+      "CuNiAl"
+    ],
+    "role": "target",
+    "series_name": "MNiAl",
+    "variant_rule": "secondary metal M = Cu",
+    "variant_value": "Cu",
+    "substrate_or_support": "ordered mesoporous alumina",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.05.033:C3",
+    "name_reported": "0.5-FeNiAl",
+    "aliases": [
+      "FeNiAl"
+    ],
+    "role": "target",
+    "series_name": "MNiAl",
+    "variant_rule": "secondary metal M = Fe",
+    "variant_value": "Fe",
+    "substrate_or_support": "ordered mesoporous alumina",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.05.033:C4",
+    "name_reported": "0.5-CoNiAl",
+    "aliases": [
+      "CoNiAl"
+    ],
+    "role": "target",
+    "series_name": "MNiAl",
+    "variant_rule": "secondary metal M = Co",
+    "variant_value": "Co",
+    "substrate_or_support": "ordered mesoporous alumina",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.05.033:C5",
+    "name_reported": "0.3-FeNiAl",
+    "aliases": [],
+    "role": "target",
+    "series_name": "x-FeNiAl",
+    "variant_rule": "Fe/Ni molar ratio",
+    "variant_value": "0.3",
+    "substrate_or_support": "ordered mesoporous alumina",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.05.033:C6",
+    "name_reported": "0.7-FeNiAl",
+    "aliases": [],
+    "role": "target",
+    "series_name": "x-FeNiAl",
+    "variant_rule": "Fe/Ni molar ratio",
+    "variant_value": "0.7",
+    "substrate_or_support": "ordered mesoporous alumina",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.05.033:C7",
+    "name_reported": "0.9-FeNiAl",
+    "aliases": [],
+    "role": "target",
+    "series_name": "x-FeNiAl",
+    "variant_rule": "Fe/Ni molar ratio",
+    "variant_value": "0.9",
+    "substrate_or_support": "ordered mesoporous alumina",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides",
+      "composites_heterostructures"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.05.033:C8",
+    "name_reported": "FeAl",
+    "aliases": [],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "ordered mesoporous alumina",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.106122:C1",
+    "name_reported": "HS200-400",
+    "aliases": [
+      "nano-ZSM-5 with SiO2/Al2O3 ratio of 400"
+    ],
+    "role": "target",
+    "series_name": "HS200 series",
+    "variant_rule": "SiO2/Al2O3 feed ratio",
+    "variant_value": "400",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.106122:C2",
+    "name_reported": "HS200-200",
+    "aliases": [
+      "nano-ZSM-5 with SiO2/Al2O3 ratio of 200"
+    ],
+    "role": "target",
+    "series_name": "HS200 series",
+    "variant_rule": "SiO2/Al2O3 feed ratio",
+    "variant_value": "200",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.106122:C3",
+    "name_reported": "HS200-100",
+    "aliases": [
+      "nano-ZSM-5 with SiO2/Al2O3 ratio of 100"
+    ],
+    "role": "target",
+    "series_name": "HS200 series",
+    "variant_rule": "SiO2/Al2O3 feed ratio",
+    "variant_value": "100",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.106122:C4",
+    "name_reported": "HS200-50",
+    "aliases": [
+      "nano-ZSM-5 with SiO2/Al2O3 ratio of 50"
+    ],
+    "role": "target",
+    "series_name": "HS200 series",
+    "variant_rule": "SiO2/Al2O3 feed ratio",
+    "variant_value": "50",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.106122:C5",
+    "name_reported": "HS200-25",
+    "aliases": [
+      "nano-ZSM-5 with SiO2/Al2O3 ratio of 25"
+    ],
+    "role": "target",
+    "series_name": "HS200 series",
+    "variant_rule": "SiO2/Al2O3 feed ratio",
+    "variant_value": "25",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.106122:C6",
+    "name_reported": "HS200-+∞",
+    "aliases": [
+      "nano-ZSM-5 prepared without NaAlO2 addition"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107415:C1",
+    "name_reported": "nanorod-OMS-2",
+    "aliases": [
+      "nanorod cryptomelane octahedral manganese oxide molecular sieve"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107415:C2",
+    "name_reported": "Mo(2.5 wt%)/nanorod-OMS-2",
+    "aliases": [
+      "MoOx/nanorod-OMS-2"
+    ],
+    "role": "target",
+    "series_name": "Mo(x wt%)/nanorod-OMS-2",
+    "variant_rule": "molybdenum loading",
+    "variant_value": "2.5 wt%",
+    "substrate_or_support": "nanorod-OMS-2",
+    "labels_material_platform": [
+      "composites_heterostructures",
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis",
+      "interface_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107415:C3",
+    "name_reported": "Mo(5 wt%)/nanorod-OMS-2",
+    "aliases": [
+      "MoOx/nanorod-OMS-2"
+    ],
+    "role": "target",
+    "series_name": "Mo(x wt%)/nanorod-OMS-2",
+    "variant_rule": "molybdenum loading",
+    "variant_value": "5 wt%",
+    "substrate_or_support": "nanorod-OMS-2",
+    "labels_material_platform": [
+      "composites_heterostructures",
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis",
+      "interface_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107415:C4",
+    "name_reported": "Mo(7.5 wt%)/nanorod-OMS-2",
+    "aliases": [
+      "MoOx/nanorod-OMS-2"
+    ],
+    "role": "target",
+    "series_name": "Mo(x wt%)/nanorod-OMS-2",
+    "variant_rule": "molybdenum loading",
+    "variant_value": "7.5 wt%",
+    "substrate_or_support": "nanorod-OMS-2",
+    "labels_material_platform": [
+      "composites_heterostructures",
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis",
+      "interface_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107415:C5",
+    "name_reported": "Mo(10 wt%)/nanorod-OMS-2",
+    "aliases": [
+      "MoOx/nanorod-OMS-2"
+    ],
+    "role": "target",
+    "series_name": "Mo(x wt%)/nanorod-OMS-2",
+    "variant_rule": "molybdenum loading",
+    "variant_value": "10 wt%",
+    "substrate_or_support": "nanorod-OMS-2",
+    "labels_material_platform": [
+      "composites_heterostructures",
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis",
+      "interface_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2006.01.006:C1",
+    "name_reported": "Ni–Mo/Al2O3",
+    "aliases": [
+      "Ni–Mo/Al2O3 catalyst",
+      "Ni–Mo/Al2O3 system"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "Al2O3",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites",
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107418:C1",
+    "name_reported": "Ni-0Ce",
+    "aliases": [
+      "Ni/SiO2"
+    ],
+    "role": "target",
+    "series_name": "Ni/CeO2/SiO2 series",
+    "variant_rule": "CeO2 content",
+    "variant_value": "0 wt% CeO2",
+    "substrate_or_support": "SiO2",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107418:C2",
+    "name_reported": "Ni-2.5Ce",
+    "aliases": [],
+    "role": "target",
+    "series_name": "Ni/CeO2/SiO2 series",
+    "variant_rule": "CeO2 content",
+    "variant_value": "2.5 wt% CeO2",
+    "substrate_or_support": "SiO2",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites",
+      "interface_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107418:C3",
+    "name_reported": "Ni-5Ce",
+    "aliases": [],
+    "role": "target",
+    "series_name": "Ni/CeO2/SiO2 series",
+    "variant_rule": "CeO2 content",
+    "variant_value": "5 wt% CeO2",
+    "substrate_or_support": "SiO2",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites",
+      "interface_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107418:C4",
+    "name_reported": "Ni-7.5Ce",
+    "aliases": [],
+    "role": "target",
+    "series_name": "Ni/CeO2/SiO2 series",
+    "variant_rule": "CeO2 content",
+    "variant_value": "7.5 wt% CeO2",
+    "substrate_or_support": "SiO2",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites",
+      "interface_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107418:C5",
+    "name_reported": "Ni-0Ce-IMP",
+    "aliases": [],
+    "role": "control",
+    "series_name": "IMP method series",
+    "variant_rule": "preparation method",
+    "variant_value": "IMP method",
+    "substrate_or_support": "SiO2",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107418:C6",
+    "name_reported": "Ni-5Ce-IMP",
+    "aliases": [],
+    "role": "control",
+    "series_name": "IMP method series",
+    "variant_rule": "preparation method",
+    "variant_value": "IMP method",
+    "substrate_or_support": "SiO2",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites",
+      "interface_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.04.006:C1",
+    "name_reported": "Acidithiobacillus caldus cells grown on sulfur powder",
+    "aliases": [
+      "A. caldus cells",
+      "cells"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "bio_biocatalyst_immobilized"
+    ],
+    "labels_active_site_form": [
+      "enzyme_active_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.04.006:C2",
+    "name_reported": "Acidithiobacillus caldus cells grown on pyrite",
+    "aliases": [
+      "A. caldus cells",
+      "cells"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "bio_biocatalyst_immobilized"
+    ],
+    "labels_active_site_form": [
+      "enzyme_active_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.04.006:C3",
+    "name_reported": "Acidithiobacillus caldus cells grown on coal",
+    "aliases": [
+      "A. caldus cells",
+      "cells"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "bio_biocatalyst_immobilized"
+    ],
+    "labels_active_site_form": [
+      "enzyme_active_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.04.006:C4",
+    "name_reported": "Acidithiobacillus caldus cells grown on thiosulfate",
+    "aliases": [
+      "A. caldus cells",
+      "cells"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "bio_biocatalyst_immobilized"
+    ],
+    "labels_active_site_form": [
+      "enzyme_active_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.04.006:C5",
+    "name_reported": "sterile control (without cells)",
+    "aliases": [
+      "parallel experiments",
+      "sterile control"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "other"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C1",
+    "name_reported": "FeyOx",
+    "aliases": [
+      "pure FeyOx",
+      "iron oxide"
+    ],
+    "role": "baseline",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C2",
+    "name_reported": "EuPW/FeyOx",
+    "aliases": [
+      "LnPW/FeyOx",
+      "rare earth Keggin-type tungstophosphorate doped iron oxide"
+    ],
+    "role": "target",
+    "series_name": "LnPW/FeyOx",
+    "variant_rule": "type of rare earth element",
+    "variant_value": "Eu",
+    "substrate_or_support": "FeyOx",
+    "labels_material_platform": [
+      "composites_heterostructures",
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C3",
+    "name_reported": "GdPW/FeyOx",
+    "aliases": [
+      "LnPW/FeyOx",
+      "rare earth Keggin-type tungstophosphorate doped iron oxide"
+    ],
+    "role": "target",
+    "series_name": "LnPW/FeyOx",
+    "variant_rule": "type of rare earth element",
+    "variant_value": "Gd",
+    "substrate_or_support": "FeyOx",
+    "labels_material_platform": [
+      "composites_heterostructures",
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C4",
+    "name_reported": "NdPW/FeyOx",
+    "aliases": [
+      "LnPW/FeyOx",
+      "rare earth Keggin-type tungstophosphorate doped iron oxide"
+    ],
+    "role": "target",
+    "series_name": "LnPW/FeyOx",
+    "variant_rule": "type of rare earth element",
+    "variant_value": "Nd",
+    "substrate_or_support": "FeyOx",
+    "labels_material_platform": [
+      "composites_heterostructures",
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C5",
+    "name_reported": "NdPW/FeyOx(20)",
+    "aliases": [
+      "NdPW/FeyOx(m)"
+    ],
+    "role": "target",
+    "series_name": "NdPW/FeyOx(m)",
+    "variant_rule": "mass fraction of NdPW",
+    "variant_value": "20%",
+    "substrate_or_support": "FeyOx",
+    "labels_material_platform": [
+      "composites_heterostructures",
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C6",
+    "name_reported": "NdPW/FeyOx(25)",
+    "aliases": [
+      "NdPW/FeyOx(m)",
+      "optimal catalyst"
+    ],
+    "role": "target",
+    "series_name": "NdPW/FeyOx(m)",
+    "variant_rule": "mass fraction of NdPW",
+    "variant_value": "25%",
+    "substrate_or_support": "FeyOx",
+    "labels_material_platform": [
+      "composites_heterostructures",
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C7",
+    "name_reported": "NdPW/FeyOx(33)",
+    "aliases": [
+      "NdPW/FeyOx(m)"
+    ],
+    "role": "target",
+    "series_name": "NdPW/FeyOx(m)",
+    "variant_rule": "mass fraction of NdPW",
+    "variant_value": "33%",
+    "substrate_or_support": "FeyOx",
+    "labels_material_platform": [
+      "composites_heterostructures",
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C8",
+    "name_reported": "HPW/FeyOx",
+    "aliases": [],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "FeyOx",
+    "labels_material_platform": [
+      "composites_heterostructures",
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C9",
+    "name_reported": "Nd(NO3)3/FeyOx",
+    "aliases": [],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "FeyOx",
+    "labels_material_platform": [
+      "composites_heterostructures",
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2013.05.002:C1",
+    "name_reported": "CaO",
+    "aliases": [
+      "lime catalyst",
+      "commercial CaO material",
+      "chalky-white lime"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "base_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106672:C1",
+    "name_reported": "ZnO-Fe3O4/AC",
+    "aliases": [
+      "zinc‑iron magnetic nanocatalyst supported on activated carbon",
+      "magnetically recoverable bimetallic nano-catalyst"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "activated carbon",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles",
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106672:C2",
+    "name_reported": "Amberlyst 16",
+    "aliases": [],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "solid_acids_bases_nonzeolite"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106672:C3",
+    "name_reported": "Amberlyte IR120",
+    "aliases": [
+      "amberlite IR120 H resin"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "solid_acids_bases_nonzeolite"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106672:C4",
+    "name_reported": "Dowex 50WX2",
+    "aliases": [
+      "dowex 50WX2 50–100(H)"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "solid_acids_bases_nonzeolite"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107472:C1",
+    "name_reported": "HY zeolite",
+    "aliases": [
+      "pristine HY"
+    ],
+    "role": "baseline",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107472:C2",
+    "name_reported": "deAl-Y zeolite",
+    "aliases": [
+      "dealuminized zeolite"
+    ],
+    "role": "target",
+    "series_name": "dealumination series",
+    "variant_rule": "sulfuric acid concentration",
+    "variant_value": "0.05 M",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107472:C3",
+    "name_reported": "Cr-deAl-Y",
+    "aliases": [
+      "modified catalyst"
+    ],
+    "role": "target",
+    "series_name": "ion exchange series",
+    "variant_rule": "CrCl3 concentration",
+    "variant_value": "5 mM",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107472:C4",
+    "name_reported": "recycled-Y",
+    "aliases": [
+      "recovered catalyst"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "zeolites_molecular_sieves"
+    ],
+    "labels_active_site_form": [
+      "acid_sites_bronsted_lewis"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C1",
+    "name_reported": "CuZnAl-0.5",
+    "aliases": [],
+    "role": "target",
+    "series_name": "CuZnAl-x",
+    "variant_rule": "etching time in hours",
+    "variant_value": "0.5",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metals_alloys_intermetallics"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C2",
+    "name_reported": "CuZnAl-1.5",
+    "aliases": [],
+    "role": "target",
+    "series_name": "CuZnAl-x",
+    "variant_rule": "etching time in hours",
+    "variant_value": "1.5",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metals_alloys_intermetallics"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C3",
+    "name_reported": "CuZnAl-2.5",
+    "aliases": [],
+    "role": "target",
+    "series_name": "CuZnAl-x",
+    "variant_rule": "etching time in hours",
+    "variant_value": "2.5",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metals_alloys_intermetallics"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C4",
+    "name_reported": "CuZnAl-3.5",
+    "aliases": [],
+    "role": "target",
+    "series_name": "CuZnAl-x",
+    "variant_rule": "etching time in hours",
+    "variant_value": "3.5",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metals_alloys_intermetallics"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C5",
+    "name_reported": "unetched CuZnAl alloy",
+    "aliases": [],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metals_alloys_intermetallics"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C6",
+    "name_reported": "Cu powder",
+    "aliases": [],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metals_alloys_intermetallics"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C7",
+    "name_reported": "Cu2O powder",
+    "aliases": [],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C8",
+    "name_reported": "CuO powder",
+    "aliases": [],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C9",
+    "name_reported": "Raney Ni",
+    "aliases": [],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metals_alloys_intermetallics"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C10",
+    "name_reported": "CuAl-1.5",
+    "aliases": [],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metals_alloys_intermetallics"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C11",
+    "name_reported": "CuZnAl-1.5(H2O)",
+    "aliases": [],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metals_alloys_intermetallics"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C12",
+    "name_reported": "CuZnAl-1.5(2-PrOH)",
+    "aliases": [],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metals_alloys_intermetallics"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C13",
+    "name_reported": "CuZnAl-1.5(EtOH)",
+    "aliases": [],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "",
+    "labels_material_platform": [
+      "metals_alloys_intermetallics"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107208:C1",
+    "name_reported": "Organosolv treatment without catalyst",
+    "aliases": [
+      "iPrOH",
+      "Organosolv"
+    ],
+    "role": "baseline",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "sugarcane bagasse",
+    "labels_material_platform": [
+      "other"
+    ],
+    "labels_active_site_form": []
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107208:C2",
+    "name_reported": "Raney-Ni",
+    "aliases": [
+      "Raney-Ni commercial catalyst",
+      "Ni",
+      "Raney-Ni® 2800",
+      "Ni + iPrOH"
+    ],
+    "role": "control",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "sugarcane bagasse",
+    "labels_material_platform": [
+      "metals_alloys_intermetallics"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107208:C3",
+    "name_reported": "bulk Mo2C",
+    "aliases": [
+      "Mo2C",
+      "Mo2C + iPrOH"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "sugarcane bagasse",
+    "labels_material_platform": [
+      "carbides"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107208:C4",
+    "name_reported": "Mo2C/AC",
+    "aliases": [
+      "Mo2C supported on activated carbon",
+      "Mo2C/AC + iPrOH"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "activated carbon (AC)",
+    "labels_material_platform": [
+      "carbides",
+      "carbon_based"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107208:C5",
+    "name_reported": "Mo2C/Al2O3",
+    "aliases": [
+      "Mo2C supported on γ-Al2O3",
+      "Mo2C/Al2O3 + iPrOH"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "γ-Al2O3",
+    "labels_material_platform": [
+      "carbides",
+      "metal_oxides_hydroxides_oxyhydroxides"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2021.107032:C1",
+    "name_reported": "Ni/PC",
+    "aliases": [],
+    "role": "target",
+    "series_name": "peat char-supported Ni catalysts",
+    "variant_rule": "different activation methods of peat char support",
+    "variant_value": "PC (no activation)",
+    "substrate_or_support": "peat char (PC)",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2021.107032:C2",
+    "name_reported": "Ni/APC",
+    "aliases": [],
+    "role": "target",
+    "series_name": "peat char-supported Ni catalysts",
+    "variant_rule": "different activation methods of peat char support",
+    "variant_value": "APC (KOH activation)",
+    "substrate_or_support": "peat char activated by KOH (APC)",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2021.107032:C3",
+    "name_reported": "Ni/CPC",
+    "aliases": [],
+    "role": "target",
+    "series_name": "peat char-supported Ni catalysts",
+    "variant_rule": "different activation methods of peat char support",
+    "variant_value": "CPC (CO2 activation)",
+    "substrate_or_support": "peat char activated by CO2 (CPC)",
+    "labels_material_platform": [
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106658:C1",
+    "name_reported": "freeze cast GDC membrane catalyst (with a 0.5% Rh loading)",
+    "aliases": [
+      "monolithic membrane catalyst",
+      "structured membrane catalyst",
+      "freeze cast membrane catalyst",
+      "GDC membrane catalyst"
+    ],
+    "role": "target",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "GDC (Ce0.8Gd0.2O2-d)",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides",
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106658:C2",
+    "name_reported": "conventional catalytic pellets",
+    "aliases": [
+      "reference catalyst",
+      "pelleted catalyst"
+    ],
+    "role": "baseline",
+    "series_name": "",
+    "variant_rule": "",
+    "variant_value": "",
+    "substrate_or_support": "GDC (Ce0.8Gd0.2O2-d)",
+    "labels_material_platform": [
+      "metal_oxides_hydroxides_oxyhydroxides",
+      "supported_metal_nanoparticles"
+    ],
+    "labels_active_site_form": [
+      "nanoparticle_sites"
+    ]
+  }
+]

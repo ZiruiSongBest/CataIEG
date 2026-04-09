@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<title>催化证据图 - 可视化示意</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, 'Segoe UI', sans-serif; background: #0d1117; color: #c9d1d9; overflow: auto; }
+
+  svg { display: block; margin: 0 auto; }
+
+  .title { text-anchor: middle; fill: #f0f6fc; font-size: 18px; font-weight: 700; }
+  .subtitle { text-anchor: middle; fill: #8b949e; font-size: 12px; }
+
+  /* Node styles */
+  .node-paper { fill: #1f6feb; }
+  .node-reaction { fill: #da3633; }
+  .node-catalyst { fill: #3fb950; }
+  .node-procedure { fill: #d29922; }
+  .node-char { fill: #a371f7; }
+  .node-perf { fill: #f78166; }
+  .node-op { fill: #f0883e; }
+  .node-metric { fill: #ff7b72; }
+  .node-ontology { fill: #79c0ff; stroke: #79c0ff; stroke-width: 2; fill-opacity: 0.2; }
+  .node-missing { fill: #484f58; stroke: #f85149; stroke-width: 2; stroke-dasharray: 4,3; }
+
+  .node-label { fill: #f0f6fc; font-size: 10px; text-anchor: middle; dominant-baseline: central; pointer-events: none; }
+  .node-label-small { fill: #c9d1d9; font-size: 8px; text-anchor: middle; dominant-baseline: central; }
+  .node-label-onto { fill: #79c0ff; font-size: 9px; text-anchor: middle; dominant-baseline: central; font-style: italic; }
+
+  .edge { stroke: #30363d; stroke-width: 1.2; fill: none; }
+  .edge-paper { stroke: #1f6feb; stroke-opacity: 0.5; }
+  .edge-instance { stroke: #8b949e; stroke-opacity: 0.7; }
+  .edge-ontology { stroke: #79c0ff; stroke-opacity: 0.4; stroke-dasharray: 3,3; }
+  .edge-missing { stroke: #f85149; stroke-opacity: 0.5; stroke-dasharray: 6,4; }
+  .edge-perf { stroke: #f78166; stroke-opacity: 0.6; }
+
+  .edge-label { fill: #8b949e; font-size: 7px; text-anchor: middle; }
+
+  .legend-box { fill: #161b22; stroke: #30363d; rx: 8; }
+  .legend-text { fill: #c9d1d9; font-size: 10px; }
+  .legend-title { fill: #f0f6fc; font-size: 11px; font-weight: 600; }
+
+  .section-label { fill: #8b949e; font-size: 11px; font-weight: 600; text-anchor: middle; letter-spacing: 1px; }
+  .section-box { fill: none; stroke: #21262d; stroke-width: 1; rx: 12; stroke-dasharray: 8,4; }
+
+  .missing-badge { fill: #f85149; font-size: 8px; font-weight: 700; text-anchor: middle; }
+
+  .info-panel {
+    max-width: 1200px; margin: 20px auto; padding: 24px;
+    background: #161b22; border: 1px solid #30363d; border-radius: 12px;
+  }
+  .info-panel h2 { color: #f0f6fc; margin-bottom: 12px; font-size: 16px; }
+  .info-panel p { color: #8b949e; line-height: 1.7; font-size: 13px; margin-bottom: 8px; }
+  .info-panel .highlight { color: #79c0ff; }
+  .info-panel .warn { color: #f85149; }
+  .info-panel .good { color: #3fb950; }
+</style>
+</head>
+<body>
+
+<svg width="1200" height="1350" viewBox="0 0 1200 1350">
+  <!-- Background -->
+  <rect width="1200" height="1350" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="600" y="35" class="title">催化证据图 (Catalysis Evidence Graph) — 单篇论文子图示意</text>
+  <text x="600" y="55" class="subtitle">DOI: 10.1016/j.fuproc.2022.107352 | Chemical Looping Oxidative Coupling of Methane (CLOCM)</text>
+
+  <!-- ===== SECTION: Paper (Top Center) ===== -->
+  <rect x="480" y="75" width="240" height="40" rx="8" class="node-paper"/>
+  <text x="600" y="95" class="node-label" style="font-size:11px; font-weight:600;">📄 Paper: 10.1016/j.fuproc.2022.107352</text>
+
+  <!-- ===== SECTION BOXES ===== -->
+  <!-- Reaction section -->
+  <rect x="20" y="140" width="260" height="200" class="section-box"/>
+  <text x="150" y="158" class="section-label">REACTION 反应</text>
+
+  <!-- Catalyst section -->
+  <rect x="310" y="140" width="280" height="260" class="section-box"/>
+  <text x="450" y="158" class="section-label">CATALYST 催化剂</text>
+
+  <!-- Procedure section -->
+  <rect x="620" y="140" width="260" height="200" class="section-box"/>
+  <text x="750" y="158" class="section-label">PROCEDURE 制备流程</text>
+
+  <!-- Char section -->
+  <rect x="920" y="140" width="260" height="260" class="section-box"/>
+  <text x="1050" y="158" class="section-label">CHARACTERIZATION 表征</text>
+
+  <!-- ===== REACTION NODE ===== -->
+  <rect x="45" y="175" width="210" height="50" rx="6" class="node-reaction"/>
+  <text x="150" y="192" class="node-label" style="font-size:9px;">⚗️ R1: Chemical Looping</text>
+  <text x="150" y="206" class="node-label-small">Oxidative Coupling of Methane</text>
+  <text x="150" y="218" class="node-label-small" style="fill:#8b949e;">domain: thermal | family: selective_oxidation</text>
+
+  <!-- Paper -> Reaction -->
+  <path d="M 520 115 L 200 175" class="edge edge-paper" marker-end="url(#arrow)"/>
+  <text x="340" y="138" class="edge-label">HAS_REACTION</text>
+
+  <!-- ===== CATALYST NODES ===== -->
+  <rect x="330" y="175" width="120" height="30" rx="5" class="node-catalyst"/>
+  <text x="390" y="193" class="node-label" style="font-size:9px;">🧪 C1: Mg6MnO8</text>
+
+  <rect x="460" y="175" width="120" height="30" rx="5" class="node-catalyst"/>
+  <text x="520" y="193" class="node-label" style="font-size:9px;">C2: 04Na-Mg6MnO8</text>
+
+  <rect x="330" y="215" width="120" height="30" rx="5" class="node-catalyst"/>
+  <text x="390" y="233" class="node-label" style="font-size:9px;">C3: 06Na-Mg6MnO8</text>
+
+  <rect x="460" y="215" width="120" height="30" rx="5" class="node-catalyst"/>
+  <text x="520" y="233" class="node-label" style="font-size:9px;">C4: 08Na-Mg6MnO8</text>
+
+  <rect x="330" y="255" width="120" height="30" rx="5" class="node-catalyst"/>
+  <text x="390" y="273" class="node-label" style="font-size:9px;">C5: 10Na-Mg6MnO8</text>
+
+  <text x="520" y="273" class="node-label-small" style="fill:#8b949e;">...C6-C10 (共10个)</text>
+
+  <!-- Paper -> Catalysts -->
+  <path d="M 560 115 L 450 175" class="edge edge-paper" marker-end="url(#arrow)"/>
+  <text x="530" y="138" class="edge-label">HAS_CATALYST</text>
+
+  <!-- Catalyst -> Reaction (TESTED_IN) -->
+  <path d="M 330 190 L 255 195" class="edge edge-instance" marker-end="url(#arrow)"/>
+  <text x="290" y="185" class="edge-label">TESTED_IN</text>
+
+  <!-- ===== PROCEDURE NODES ===== -->
+  <rect x="640" y="175" width="220" height="35" rx="5" class="node-procedure"/>
+  <text x="750" y="188" class="node-label" style="font-size:9px;">🔧 P1: catalyst_synthesis</text>
+  <text x="750" y="200" class="node-label-small">→ C1~C10</text>
+
+  <rect x="640" y="225" width="220" height="35" rx="5" class="node-procedure"/>
+  <text x="750" y="238" class="node-label" style="font-size:9px;">🔧 P2: shaping_and_deployment</text>
+  <text x="750" y="250" class="node-label-small">→ C1~C10, R1</text>
+
+  <!-- Paper -> Procedure -->
+  <path d="M 660 115 L 750 175" class="edge edge-paper" marker-end="url(#arrow)"/>
+  <text x="720" y="138" class="edge-label">HAS_PROCEDURE</text>
+
+  <!-- Procedure -> Catalyst -->
+  <path d="M 640 192 L 580 192" class="edge edge-instance" marker-end="url(#arrow)"/>
+  <text x="610" y="186" class="edge-label">APPLIES_TO</text>
+
+  <!-- Procedure -> Reaction -->
+  <path d="M 640 242 L 255 210" class="edge edge-instance" marker-end="url(#arrow)" style="stroke:#d29922;stroke-opacity:0.4;"/>
+  <text x="430" y="230" class="edge-label">SPECIFIC_TO</text>
+
+  <!-- ProcedureStep MISSING -->
+  <rect x="660" y="280" width="180" height="30" rx="5" class="node-missing"/>
+  <text x="750" y="298" class="node-label" style="font-size:9px; fill:#f85149;">❌ Steps 数据缺失</text>
+  <path d="M 750 260 L 750 280" class="edge edge-missing"/>
+
+  <!-- ===== CHARACTERIZATION NODES ===== -->
+  <rect x="940" y="175" width="220" height="25" rx="4" class="node-char"/>
+  <text x="1050" y="191" class="node-label" style="font-size:8px;">🔬 CR1: XRD | C1 | fresh</text>
+
+  <rect x="940" y="208" width="220" height="25" rx="4" class="node-char"/>
+  <text x="1050" y="224" class="node-label" style="font-size:8px;">CR2: XRD | C2 | fresh</text>
+
+  <rect x="940" y="241" width="220" height="25" rx="4" class="node-char"/>
+  <text x="1050" y="257" class="node-label" style="font-size:8px;">CR5: SEM | C1 | fresh</text>
+
+  <rect x="940" y="274" width="220" height="25" rx="4" class="node-char"/>
+  <text x="1050" y="290" class="node-label" style="font-size:8px;">CR10: XPS | C4 | fresh</text>
+
+  <text x="1050" y="318" class="node-label-small" style="fill:#8b949e;">...共34条表征记录</text>
+
+  <!-- Paper -> Char -->
+  <path d="M 680 115 L 1050 175" class="edge edge-paper" marker-end="url(#arrow)"/>
+  <text x="890" y="138" class="edge-label">HAS_CHARACTERIZATION</text>
+
+  <!-- Char -> Catalyst -->
+  <path d="M 940 187 L 580 190" class="edge edge-instance" marker-end="url(#arrow)" style="stroke:#a371f7;stroke-opacity:0.3;"/>
+  <text x="760" y="180" class="edge-label">APPLIES_TO_CATALYST</text>
+
+  <!-- ===== PERFORMANCE CHAIN ===== -->
+  <rect x="50" y="440" width="1100" height="310" class="section-box"/>
+  <text x="600" y="460" class="section-label">PERFORMANCE 性能测试链 (Dataset → OperatingPoint → Metric)</text>
+
+  <!-- Paper -> Performance -->
+  <path d="M 600 115 L 250 480" class="edge edge-paper" marker-end="url(#arrow)"/>
+  <text x="380" y="310" class="edge-label">HAS_PERFORMANCE_DATASET</text>
+
+  <!-- PerformanceDataset -->
+  <rect x="80" y="480" width="280" height="45" rx="6" class="node-perf"/>
+  <text x="220" y="498" class="node-label" style="font-size:10px;">📊 PR1: Activity Dataset</text>
+  <text x="220" y="514" class="node-label-small">reaction=R1 | type=activity</text>
+
+  <rect x="80" y="540" width="280" height="45" rx="6" class="node-perf"/>
+  <text x="220" y="558" class="node-label" style="font-size:10px;">📊 PR2: Activity Dataset (2)</text>
+  <text x="220" y="574" class="node-label-small">reaction=R1 | type=activity</text>
+
+  <text x="220" y="604" class="node-label-small" style="fill:#8b949e;">...共5个 PerformanceDataset</text>
+
+  <!-- Reaction -> PerformanceDataset -->
+  <path d="M 150 225 L 150 480" class="edge edge-instance" marker-end="url(#arrow)"/>
+  <text x="130" y="360" class="edge-label" transform="rotate(-90,130,360)">HAS_PERFORMANCE_DATASET</text>
+
+  <!-- OperatingPoint -->
+  <rect x="430" y="480" width="200" height="40" rx="5" class="node-op"/>
+  <text x="530" y="496" class="node-label" style="font-size:9px;">⚙️ OP1 (PR1)</text>
+  <text x="530" y="510" class="node-label-small">条件: T=850°C 等</text>
+
+  <rect x="430" y="535" width="200" height="40" rx="5" class="node-op"/>
+  <text x="530" y="551" class="node-label" style="font-size:9px;">⚙️ OP1 (PR2)</text>
+  <text x="530" y="565" class="node-label-small">条件: 不同催化剂对比</text>
+
+  <!-- Dataset -> OperatingPoint -->
+  <path d="M 360 500 L 430 500" class="edge edge-perf" marker-end="url(#arrow)"/>
+  <text x="395" y="493" class="edge-label">HAS_OP</text>
+  <path d="M 360 562 L 430 555" class="edge edge-perf" marker-end="url(#arrow)"/>
+
+  <!-- Metric nodes -->
+  <rect x="700" y="470" width="260" height="30" rx="4" class="node-metric"/>
+  <text x="830" y="489" class="node-label" style="font-size:8px;">📈 M1: C1 | yield=12.6% | CH₄ coupling</text>
+
+  <rect x="700" y="508" width="260" height="30" rx="4" class="node-metric"/>
+  <text x="830" y="527" class="node-label" style="font-size:8px;">📈 M2: C2 | yield=15.3% | CH₄ coupling</text>
+
+  <rect x="700" y="546" width="260" height="30" rx="4" class="node-metric"/>
+  <text x="830" y="565" class="node-label" style="font-size:8px;">📈 M3: C7 | yield=20.1% | CH₄ coupling</text>
+
+  <rect x="700" y="584" width="260" height="30" rx="4" class="node-metric"/>
+  <text x="830" y="603" class="node-label" style="font-size:8px;">📈 M4: C5 | selectivity=85.2% | C₂ products</text>
+
+  <text x="830" y="633" class="node-label-small" style="fill:#8b949e;">...每个 OP 下各催化剂的各项指标</text>
+
+  <!-- OperatingPoint -> Metric -->
+  <path d="M 630 500 L 700 485" class="edge edge-perf" marker-end="url(#arrow)"/>
+  <text x="665" y="485" class="edge-label">HAS_METRIC</text>
+  <path d="M 630 500 L 700 523" class="edge edge-perf" marker-end="url(#arrow)"/>
+  <path d="M 630 555 L 700 561" class="edge edge-perf" marker-end="url(#arrow)"/>
+  <path d="M 630 555 L 700 599" class="edge edge-perf" marker-end="url(#arrow)"/>
+
+  <!-- Metric -> Catalyst -->
+  <path d="M 830 470 L 390 400 L 390 285" class="edge edge-instance" marker-end="url(#arrow)" style="stroke:#3fb950;stroke-opacity:0.3;"/>
+  <text x="450" y="385" class="edge-label">FOR_CATALYST</text>
+
+  <!-- Metric -> Reaction -->
+  <path d="M 700 603 L 150 340 L 150 225" class="edge edge-instance" marker-end="url(#arrow)" style="stroke:#da3633;stroke-opacity:0.2;"/>
+  <text x="300" y="325" class="edge-label">UNDER_REACTION</text>
+
+  <!-- ===== ONTOLOGY LAYER ===== -->
+  <rect x="50" y="800" width="1100" height="230" class="section-box" style="stroke:#1f6feb;"/>
+  <text x="600" y="820" class="section-label" style="fill:#79c0ff;">ONTOLOGY 本体层 — 跨文献桥接的标准化概念</text>
+
+  <!-- Reaction ontology terms -->
+  <ellipse cx="120" cy="870" rx="70" ry="20" class="node-ontology"/>
+  <text x="120" y="873" class="node-label-onto">thermal_heterogeneous</text>
+  <text x="120" y="855" class="edge-label">reaction_domain</text>
+
+  <ellipse cx="300" cy="870" rx="70" ry="20" class="node-ontology"/>
+  <text x="300" y="873" class="node-label-onto">selective_oxidation</text>
+  <text x="300" y="855" class="edge-label">reaction_family</text>
+
+  <!-- Reaction -> Ontology -->
+  <path d="M 150 225 L 120 850" class="edge edge-ontology" marker-end="url(#arrow-onto)"/>
+  <path d="M 150 225 L 300 850" class="edge edge-ontology" marker-end="url(#arrow-onto)"/>
+
+  <!-- Procedure ontology -->
+  <ellipse cx="500" cy="870" rx="80" ry="20" class="node-ontology"/>
+  <text x="500" y="873" class="node-label-onto">catalyst_synthesis</text>
+  <text x="500" y="855" class="edge-label">procedure_type</text>
+
+  <path d="M 750 210 L 500 850" class="edge edge-ontology" marker-end="url(#arrow-onto)"/>
+
+  <!-- Char ontology -->
+  <ellipse cx="700" cy="870" rx="65" ry="20" class="node-ontology"/>
+  <text x="700" y="873" class="node-label-onto">crystal_structure</text>
+  <text x="700" y="855" class="edge-label">method_family</text>
+
+  <ellipse cx="860" cy="870" rx="65" ry="20" class="node-ontology"/>
+  <text x="860" y="873" class="node-label-onto">fresh_as_prepared</text>
+  <text x="860" y="855" class="edge-label">sample_state</text>
+
+  <path d="M 1050 300 L 700 850" class="edge edge-ontology" marker-end="url(#arrow-onto)"/>
+  <path d="M 1050 300 L 860 850" class="edge edge-ontology" marker-end="url(#arrow-onto)"/>
+
+  <!-- Metric ontology -->
+  <ellipse cx="1060" cy="870" rx="50" ry="20" class="node-ontology"/>
+  <text x="1060" y="873" class="node-label-onto">yield</text>
+  <text x="1060" y="855" class="edge-label">property_name</text>
+
+  <path d="M 960 485 L 1060 850" class="edge edge-ontology" marker-end="url(#arrow-onto)"/>
+
+  <!-- MISSING Catalyst Ontology -->
+  <rect x="100" y="930" width="350" height="80" rx="8" class="node-missing" style="fill:#1c1009;"/>
+  <text x="275" y="950" class="missing-badge" style="font-size:10px;">⚠️ CATALYST 本体映射 — 数据缺失！</text>
+  <ellipse cx="160" cy="985" rx="55" ry="16" class="node-missing"/>
+  <text x="160" y="988" class="node-label-onto" style="fill:#f85149;">material_platform?</text>
+  <ellipse cx="295" cy="985" rx="55" ry="16" class="node-missing"/>
+  <text x="295" y="988" class="node-label-onto" style="fill:#f85149;">active_site_form?</text>
+  <ellipse cx="415" cy="985" rx="40" ry="16" class="node-missing"/>
+  <text x="415" y="988" class="node-label-onto" style="fill:#f85149;">morphology?</text>
+
+  <path d="M 450 285 L 275 930" class="edge edge-missing" marker-end="url(#arrow-miss)"/>
+  <text x="380" y="620" class="edge-label" style="fill:#f85149;">需要从 name_reported 推断</text>
+
+  <!-- MISSING Mechanism -->
+  <rect x="530" y="930" width="300" height="80" rx="8" class="node-missing" style="fill:#1c1009;"/>
+  <text x="680" y="950" class="missing-badge" style="font-size:10px;">⚠️ MECHANISTIC CLAIM — 数据缺失！</text>
+  <rect x="560" y="965" width="110" height="25" rx="4" class="node-missing"/>
+  <text x="615" y="981" class="node-label" style="font-size:8px; fill:#f85149;">MechanisticClaim?</text>
+  <rect x="690" y="965" width="110" height="25" rx="4" class="node-missing"/>
+  <text x="745" y="981" class="node-label" style="font-size:8px; fill:#f85149;">EvidenceItem?</text>
+
+  <!-- ===== CROSS-PAPER BRIDGE (Conceptual) ===== -->
+  <rect x="50" y="1060" width="1100" height="120" class="section-box" style="stroke:#238636;"/>
+  <text x="600" y="1080" class="section-label" style="fill:#3fb950;">跨文献桥接 — 通过本体节点连接不同论文</text>
+
+  <!-- Paper 2 -->
+  <rect x="100" y="1095" width="200" height="30" rx="6" class="node-paper" style="fill-opacity:0.6;"/>
+  <text x="200" y="1113" class="node-label" style="font-size:9px;">📄 另一篇 OER 论文</text>
+
+  <!-- Paper 3 -->
+  <rect x="450" y="1095" width="200" height="30" rx="6" class="node-paper" style="fill-opacity:0.6;"/>
+  <text x="550" y="1113" class="node-label" style="font-size:9px;">📄 另一篇 selective_oxidation 论文</text>
+
+  <!-- Paper 4 -->
+  <rect x="800" y="1095" width="200" height="30" rx="6" class="node-paper" style="fill-opacity:0.6;"/>
+  <text x="900" y="1113" class="node-label" style="font-size:9px;">📄 另一篇 XRD 论文</text>
+
+  <!-- Cross-paper connections through ontology -->
+  <path d="M 200 1095 L 300 890" class="edge edge-ontology" marker-end="url(#arrow-onto)" style="stroke:#3fb950;"/>
+  <path d="M 550 1095 L 300 890" class="edge edge-ontology" marker-end="url(#arrow-onto)" style="stroke:#3fb950;"/>
+  <path d="M 900 1095 L 700 890" class="edge edge-ontology" marker-end="url(#arrow-onto)" style="stroke:#3fb950;"/>
+
+  <text x="350" y="1150" class="node-label-small" style="fill:#3fb950;">不同论文的反应/催化剂/表征 通过共享的本体节点"桥接"在一起</text>
+  <text x="750" y="1150" class="node-label-small" style="fill:#3fb950;">→ 这就是跨文献知识推理的基础</text>
+
+  <!-- ===== LEGEND ===== -->
+  <rect x="50" y="1200" width="1100" height="130" class="legend-box"/>
+  <text x="600" y="1225" class="legend-title" style="text-anchor:middle;">图例 Legend</text>
+
+  <!-- Node legend -->
+  <rect x="80" y="1240" width="14" height="14" rx="3" class="node-paper"/>
+  <text x="100" y="1252" class="legend-text">Paper 论文</text>
+  <rect x="80" y="1262" width="14" height="14" rx="3" class="node-reaction"/>
+  <text x="100" y="1274" class="legend-text">Reaction 反应</text>
+  <rect x="80" y="1284" width="14" height="14" rx="3" class="node-catalyst"/>
+  <text x="100" y="1296" class="legend-text">Catalyst 催化剂</text>
+  <rect x="80" y="1306" width="14" height="14" rx="3" class="node-procedure"/>
+  <text x="100" y="1318" class="legend-text">Procedure 制备流程</text>
+
+  <rect x="260" y="1240" width="14" height="14" rx="3" class="node-char"/>
+  <text x="280" y="1252" class="legend-text">Characterization 表征</text>
+  <rect x="260" y="1262" width="14" height="14" rx="3" class="node-perf"/>
+  <text x="280" y="1274" class="legend-text">PerformanceDataset 性能数据集</text>
+  <rect x="260" y="1284" width="14" height="14" rx="3" class="node-op"/>
+  <text x="280" y="1296" class="legend-text">OperatingPoint 操作点</text>
+  <rect x="260" y="1306" width="14" height="14" rx="3" class="node-metric"/>
+  <text x="280" y="1318" class="legend-text">Metric 性能指标</text>
+
+  <ellipse cx="517" cy="1247" rx="10" ry="7" class="node-ontology"/>
+  <text x="535" y="1252" class="legend-text">OntologyTerm 本体概念（跨文献桥接）</text>
+  <rect x="510" y="1262" width="14" height="14" rx="3" class="node-missing"/>
+  <text x="530" y="1274" class="legend-text" style="fill:#f85149;">数据缺失的节点/边</text>
+
+  <!-- Edge legend -->
+  <line x1="700" y1="1247" x2="740" y2="1247" class="edge edge-paper" style="stroke-width:2;"/>
+  <text x="750" y="1252" class="legend-text">Paper→Instance 边</text>
+  <line x1="700" y1="1269" x2="740" y2="1269" class="edge edge-instance" style="stroke-width:2;"/>
+  <text x="750" y="1274" class="legend-text">Instance→Instance 边</text>
+  <line x1="700" y1="1291" x2="740" y2="1291" class="edge edge-ontology" style="stroke-width:2;"/>
+  <text x="750" y="1296" class="legend-text">Instance→Ontology 映射边</text>
+  <line x1="700" y1="1313" x2="740" y2="1313" class="edge edge-missing" style="stroke-width:2;"/>
+  <text x="750" y="1318" class="legend-text" style="fill:#f85149;">缺失的边（需要补数据）</text>
+
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#8b949e"/>
+    </marker>
+    <marker id="arrow-onto" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#79c0ff"/>
+    </marker>
+    <marker id="arrow-miss" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#f85149"/>
+    </marker>
+  </defs>
+</svg>
+
+<div class="info-panel">
+  <h2>这张图在说什么？</h2>
+  <p>上图展示的是<strong>一篇论文</strong>（DOI: 10.1016/j.fuproc.2022.107352）在催化证据图中的"子图"。这篇论文研究了甲烷氧化偶联反应（CLOCM），用了10种不同掺杂比例的 Na-Mg₆MnO₈ 催化剂。</p>
+  <p>图中的结构分为三层：</p>
+  <p>1. <span class="good">实例层（Instance Layer）</span>：每篇论文内部的具体实体——哪些反应、哪些催化剂、怎么制备、做了什么表征、性能如何。这些实体之间有丰富的关系（催化剂被测试了哪些反应、制备流程对应哪些催化剂等）。</p>
+  <p>2. <span class="highlight">本体层（Ontology Layer）</span>：标准化的概念标签。不同论文中的 "OER反应" 都会连到同一个 onto:reaction_family:OER 节点。这是跨文献知识推理的关键桥梁。</p>
+  <p>3. <span class="warn">缺失部分</span>：当前数据中 Catalyst 的标签（material_platform, active_site_form 等）、Procedure 的具体步骤、以及整个机理层（MechanisticClaim + EvidenceItem）都是空的，需要补充才能构建完整的图。</p>
+  <p>当 500 篇论文的子图通过本体节点连接在一起时，就形成了一张大的<strong>催化证据图</strong>，可以用来发现"哪些催化剂可能适合哪些新反应"等跨文献知识。</p>
+</div>
+
+</body>
+</html>
