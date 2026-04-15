@@ -12,6 +12,10 @@ STATS_FILE = os.path.join(OUTPUT_DIR, "stats.json")
 CAT_NAMES_FOR_LLM = os.path.join(OUTPUT_DIR, "catalyst_names_for_llm.json")
 CAT_FAMILY_RESULT = os.path.join(OUTPUT_DIR, "catalyst_family_result.json")
 
+# ReactionTemplate LLM 归一化中间文件
+RXN_NAMES_FOR_LLM = os.path.join(OUTPUT_DIR, "reaction_names_for_llm.json")
+RXN_TEMPLATE_RESULT = os.path.join(OUTPUT_DIR, "reaction_template_result.json")
+
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 

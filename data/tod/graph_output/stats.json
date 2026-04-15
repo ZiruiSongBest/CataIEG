@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total_nodes": 6760,
-    "total_edges": 30607,
+    "total_nodes": 6727,
+    "total_edges": 30158,
     "unique_node_types": 14,
     "unique_edge_types": 46
   },
@@ -16,13 +16,13 @@
     "Catalyst": 364,
     "PerformanceDataset": 308,
     "Procedure": 292,
-    "CatalystFamily": 212,
+    "CatalystFamily": 192,
     "Reaction": 160,
-    "ReactionTemplate": 158,
+    "ReactionTemplate": 145,
     "Paper": 100
   },
   "edges_by_type": {
-    "SIMILAR_TO": 3035,
+    "SIMILAR_TO": 2613,
     "HAS_METRIC": 1626,
     "UNDER_REACTION": 1626,
     "TESTS_PROPERTY": 1626,
@@ -53,7 +53,7 @@
     "INSTANCE_OF_FAMILY": 364,
     "HAS_FORM_FACTOR": 344,
     "HAS_MORPHOLOGY_FORM": 338,
-    "TESTED_IN_TEMPLATE": 337,
+    "TESTED_IN_TEMPLATE": 310,
     "TESTS_PROPERTY_TYPE": 308,
     "HAS_PROCEDURE": 292,
     "IN_PROCEDURE_TYPE": 292,
@@ -91,25 +91,25 @@
     "reaction_domain": 4
   },
   "reaction_templates": {
-    "count": 158,
-    "avg_instances": 1.0126582278481013,
-    "max_instances": 2,
-    "singleton_count": 156
+    "count": 145,
+    "avg_instances": 1.103448275862069,
+    "max_instances": 3,
+    "singleton_count": 133
   },
   "catalyst_families": {
-    "count": 212,
-    "avg_instances": 1.7169811320754718,
-    "max_instances": 24,
-    "singleton_count": 164
+    "count": 192,
+    "avg_instances": 1.8958333333333333,
+    "max_instances": 15,
+    "singleton_count": 132
   },
   "co_studied_edges": {
     "count": 0,
     "avg_co_occurrence": 0
   },
   "similarity_edges": {
-    "count": 3035
+    "count": 2613
   },
   "tested_in_template_edges": {
-    "count": 337
+    "count": 310
   }
 }

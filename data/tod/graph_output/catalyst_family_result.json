@@ -1,1478 +1,3125 @@
 [
   {
-    "uid": "catalyst:10.1016_s0378-3820(97)00023-4:C1",
-    "canonical_name": "Rhodococcus rhodochrous"
-  },
-  {
-    "uid": "catalyst:10.1016_s0378-3820(97)00023-4:C2",
-    "canonical_name": "Pseudomonas sp."
-  },
-  {
-    "uid": "catalyst:10.1016_s0378-3820(97)00023-4:C3",
-    "canonical_name": "Desulfovibrio desulfuricans"
-  },
-  {
-    "uid": "catalyst:10.1016_s0378-3820(97)00023-4:C4",
-    "canonical_name": "Brevibacterium sp."
-  },
-  {
-    "uid": "catalyst:10.1016_s0378-3820(97)00023-4:C5",
-    "canonical_name": "Rhodococcus erythropolis"
-  },
-  {
-    "uid": "catalyst:10.1016_s0378-3820(97)00023-4:C6",
-    "canonical_name": "Pseudomonas sp."
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2017.07.013:C1",
-    "canonical_name": "Al"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2017.07.013:C2",
-    "canonical_name": "Al"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2017.07.013:C3",
-    "canonical_name": "Al"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2017.07.013:C4",
-    "canonical_name": "no_catalyst"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2007.08.004:C1",
-    "canonical_name": "fly-ash carbon"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2007.08.004:C2",
-    "canonical_name": "CaO"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2007.08.004:C3",
-    "canonical_name": "Ca(OH)2"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2007.08.004:C4",
-    "canonical_name": "activated carbon"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2010.08.003:C1",
-    "canonical_name": "Ni/ZrO2"
-  },
-  {
     "uid": "catalyst:10.1016_j.fuproc.2008.09.005:C1",
+    "canonical_catalyst_name": "KMnO4",
+    "canonical_catalyst_family": "KMnO4",
+    "canonical_aliases": [
+      "potassium permanganate",
+      "PP"
+    ],
     "canonical_name": "KMnO4"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2008.09.005:C2",
+    "canonical_catalyst_name": "zeolite",
+    "canonical_catalyst_family": "zeolite",
+    "canonical_aliases": [
+      "Z"
+    ],
     "canonical_name": "zeolite"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2008.09.005:C3",
+    "canonical_catalyst_name": "KMnO4-zeolite composite",
+    "canonical_catalyst_family": "KMnO4-zeolite composite",
+    "canonical_aliases": [
+      "potassium permanganate and zeolite",
+      "PPZ"
+    ],
     "canonical_name": "KMnO4-zeolite composite"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2008.09.005:C4",
+    "canonical_catalyst_name": "KMnO4 (microwave)",
+    "canonical_catalyst_family": "KMnO4",
+    "canonical_aliases": [
+      "potassium permanganate under microwave",
+      "PP-MW"
+    ],
     "canonical_name": "KMnO4"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2008.09.005:C5",
+    "canonical_catalyst_name": "zeolite (microwave)",
+    "canonical_catalyst_family": "zeolite",
+    "canonical_aliases": [
+      "zeolite under microwave",
+      "Z-MW"
+    ],
     "canonical_name": "zeolite"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2008.09.005:C6",
+    "canonical_catalyst_name": "KMnO4-zeolite composite (microwave)",
+    "canonical_catalyst_family": "KMnO4-zeolite composite",
+    "canonical_aliases": [
+      "potassium permanganate and zeolite under microwave",
+      "PPZ-MW"
+    ],
     "canonical_name": "KMnO4-zeolite composite"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2016.08.019:C1",
-    "canonical_name": "Ni/Al2O3"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2016.08.019:C2",
-    "canonical_name": "no_catalyst"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2004.12.001:C1",
-    "canonical_name": "Co/SiO2"
+    "uid": "catalyst:10.1016_j.fuproc.2010.08.003:C1",
+    "canonical_catalyst_name": "Ni/ZrO2",
+    "canonical_catalyst_family": "Ni/ZrO2",
+    "canonical_aliases": [],
+    "canonical_name": "Ni/ZrO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2011.08.022:C1",
-    "canonical_name": "V/montmorillonite"
+    "canonical_catalyst_name": "V-modified montmorillonite",
+    "canonical_catalyst_family": "metal-modified montmorillonite",
+    "canonical_aliases": [
+      "Mont-V",
+      "montmorillonite-vanadium additive"
+    ],
+    "canonical_name": "metal-modified montmorillonite"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2011.08.022:C2",
-    "canonical_name": "Co/montmorillonite"
+    "canonical_catalyst_name": "Co-modified montmorillonite",
+    "canonical_catalyst_family": "metal-modified montmorillonite",
+    "canonical_aliases": [
+      "montmorillonite-cobalt additive"
+    ],
+    "canonical_name": "metal-modified montmorillonite"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2011.08.022:C3",
-    "canonical_name": "Ni/montmorillonite"
+    "canonical_catalyst_name": "Ni-modified montmorillonite",
+    "canonical_catalyst_family": "metal-modified montmorillonite",
+    "canonical_aliases": [
+      "montmorillonite-nickel additive"
+    ],
+    "canonical_name": "metal-modified montmorillonite"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2011.08.022:C4",
-    "canonical_name": "Cu/montmorillonite"
+    "canonical_catalyst_name": "Cu-modified montmorillonite",
+    "canonical_catalyst_family": "metal-modified montmorillonite",
+    "canonical_aliases": [],
+    "canonical_name": "metal-modified montmorillonite"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2011.08.022:C5",
-    "canonical_name": "Mn/montmorillonite"
+    "canonical_catalyst_name": "Mn-modified montmorillonite",
+    "canonical_catalyst_family": "metal-modified montmorillonite",
+    "canonical_aliases": [],
+    "canonical_name": "metal-modified montmorillonite"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2012.01.002:C1",
-    "canonical_name": "Ni/Al2O3-coated cordierite"
+    "uid": "catalyst:10.1016_j.fuproc.2016.08.019:C1",
+    "canonical_catalyst_name": "Ni/calcium aluminate",
+    "canonical_catalyst_family": "Ni/calcium aluminate",
+    "canonical_aliases": [],
+    "canonical_name": "Ni/calcium aluminate"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.08.019:C2",
+    "canonical_catalyst_name": "uncatalyzed",
+    "canonical_catalyst_family": "no catalyst",
+    "canonical_aliases": [
+      "without catalyst"
+    ],
+    "canonical_name": "no catalyst"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2017.07.013:C1",
+    "canonical_catalyst_name": "Al (Al:RS = 1:3)",
+    "canonical_catalyst_family": "Al",
+    "canonical_aliases": [
+      "aluminum"
+    ],
+    "canonical_name": "Al"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2017.07.013:C2",
+    "canonical_catalyst_name": "Al (Al:RS = 2:3)",
+    "canonical_catalyst_family": "Al",
+    "canonical_aliases": [
+      "aluminum"
+    ],
+    "canonical_name": "Al"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2017.07.013:C3",
+    "canonical_catalyst_name": "Al (Al:RS = 3:3)",
+    "canonical_catalyst_family": "Al",
+    "canonical_aliases": [
+      "aluminum"
+    ],
+    "canonical_name": "Al"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2017.07.013:C4",
+    "canonical_catalyst_name": "no Al",
+    "canonical_catalyst_family": "no Al",
+    "canonical_aliases": [
+      "without the addition of Al"
+    ],
+    "canonical_name": "no Al"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2004.12.001:C1",
+    "canonical_catalyst_name": "22.2 wt.% Co/SiO2",
+    "canonical_catalyst_family": "Co/SiO2",
+    "canonical_aliases": [
+      "Co/SiO2"
+    ],
+    "canonical_name": "Co/SiO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2020.106585:C1",
+    "canonical_catalyst_name": "nano-CeO2",
+    "canonical_catalyst_family": "CeO2",
+    "canonical_aliases": [
+      "CeO2"
+    ],
     "canonical_name": "CeO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2020.106585:C2",
-    "canonical_name": "no_catalyst"
+    "canonical_catalyst_name": "non-catalytic control",
+    "canonical_catalyst_family": "no catalyst",
+    "canonical_aliases": [],
+    "canonical_name": "no catalyst"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106487:C1",
+    "canonical_catalyst_name": "Fe-based powder with 5 wt% Al2O3",
+    "canonical_catalyst_family": "Fe-based oxygen carrier",
+    "canonical_aliases": [
+      "iron oxide/Al2O3 oxygen carrier"
+    ],
+    "canonical_name": "Fe-based oxygen carrier"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106487:C2",
+    "canonical_catalyst_name": "pelletized Fe-based oxygen carrier",
+    "canonical_catalyst_family": "Fe-based oxygen carrier",
+    "canonical_aliases": [
+      "pelletized oxygen carriers"
+    ],
+    "canonical_name": "Fe-based oxygen carrier"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2007.08.004:C1",
+    "canonical_catalyst_name": "unburned carbon in flyash",
+    "canonical_catalyst_family": "carbon-based material",
+    "canonical_aliases": [
+      "UBC",
+      "unburned carbon"
+    ],
+    "canonical_name": "carbon-based material"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2007.08.004:C2",
+    "canonical_catalyst_name": "calcium in flyash",
+    "canonical_catalyst_family": "calcium-based material",
+    "canonical_aliases": [
+      "CaO",
+      "calcium oxide"
+    ],
+    "canonical_name": "calcium-based material"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2007.08.004:C3",
+    "canonical_catalyst_name": "hydrated lime",
+    "canonical_catalyst_family": "calcium-based material",
+    "canonical_aliases": [
+      "Ca(OH)2"
+    ],
+    "canonical_name": "calcium-based material"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2007.08.004:C4",
+    "canonical_catalyst_name": "activated carbon",
+    "canonical_catalyst_family": "carbon-based material",
+    "canonical_aliases": [],
+    "canonical_name": "carbon-based material"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.01.002:C1",
+    "canonical_catalyst_name": "Ni/cordierite-Al2O3 honeycomb",
+    "canonical_catalyst_family": "Ni/ceramic honeycomb",
+    "canonical_aliases": [
+      "Ni on ceramic honeycombs",
+      "Ni/Al2O3-coated cordierite"
+    ],
+    "canonical_name": "Ni/ceramic honeycomb"
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(97)00023-4:C1",
+    "canonical_catalyst_name": "Rhodococcus rhodochrous IGTS8",
+    "canonical_catalyst_family": "desulfurizing bacterium",
+    "canonical_aliases": [],
+    "canonical_name": "desulfurizing bacterium"
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(97)00023-4:C2",
+    "canonical_catalyst_name": "Pseudomonas sp.",
+    "canonical_catalyst_family": "desulfurizing bacterium",
+    "canonical_aliases": [],
+    "canonical_name": "desulfurizing bacterium"
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(97)00023-4:C3",
+    "canonical_catalyst_name": "Desulfovibrio desulfuricans",
+    "canonical_catalyst_family": "desulfurizing bacterium",
+    "canonical_aliases": [],
+    "canonical_name": "desulfurizing bacterium"
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(97)00023-4:C4",
+    "canonical_catalyst_name": "Brevibacterium sp. DO",
+    "canonical_catalyst_family": "desulfurizing bacterium",
+    "canonical_aliases": [],
+    "canonical_name": "desulfurizing bacterium"
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(97)00023-4:C5",
+    "canonical_catalyst_name": "Rhodococcus erythropolis D-1",
+    "canonical_catalyst_family": "desulfurizing bacterium",
+    "canonical_aliases": [],
+    "canonical_name": "desulfurizing bacterium"
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(97)00023-4:C6",
+    "canonical_catalyst_name": "immobilized Pseudomonas sp.",
+    "canonical_catalyst_family": "desulfurizing bacterium",
+    "canonical_aliases": [
+      "Pseudomonas sp. on hydrophilic natural supports"
+    ],
+    "canonical_name": "desulfurizing bacterium"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2004.10.008:C1",
+    "canonical_catalyst_name": "K2CO3/MoS2",
+    "canonical_catalyst_family": "alkali-promoted MoS2",
+    "canonical_aliases": [
+      "K-promoted MoS2"
+    ],
+    "canonical_name": "alkali-promoted MoS2"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2004.10.008:C2",
+    "canonical_catalyst_name": "Ni/K2CO3/MoS2",
+    "canonical_catalyst_family": "alkali-promoted MoS2",
+    "canonical_aliases": [
+      "Ni-modified K2CO3/MoS2",
+      "Ni-K-MoS2"
+    ],
+    "canonical_name": "alkali-promoted MoS2"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.05.014:C1",
+    "canonical_catalyst_name": "pre-sulphided NiMo/γ-Al2O3",
+    "canonical_catalyst_family": "NiMo/Al2O3",
+    "canonical_aliases": [
+      "NiMo/Al2O3",
+      "sulphided NiMo/γ-Al2O3"
+    ],
+    "canonical_name": "NiMo/Al2O3"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.10.012:C1",
+    "canonical_catalyst_name": "coke in cracking zones",
+    "canonical_catalyst_family": "carbon-based material",
+    "canonical_aliases": [
+      "hot biomass char",
+      "char",
+      "not fully converted carbon"
+    ],
+    "canonical_name": "carbon-based material"
   },
   {
     "uid": "catalyst:10.1016_s0378-3820(03)00071-7:C1",
-    "canonical_name": "Amberlyst-15"
+    "canonical_catalyst_name": "Amberlyst 15",
+    "canonical_catalyst_family": "sulfonic acid ion-exchange resin",
+    "canonical_aliases": [
+      "dry Amberlyst 15"
+    ],
+    "canonical_name": "sulfonic acid ion-exchange resin"
   },
   {
     "uid": "catalyst:10.1016_s0378-3820(03)00071-7:C2",
-    "canonical_name": "Amberlyst-15"
+    "canonical_catalyst_name": "wet Amberlyst 15",
+    "canonical_catalyst_family": "sulfonic acid ion-exchange resin",
+    "canonical_aliases": [],
+    "canonical_name": "sulfonic acid ion-exchange resin"
   },
   {
     "uid": "catalyst:10.1016_s0378-3820(03)00071-7:C3",
+    "canonical_catalyst_name": "HZSM-5",
+    "canonical_catalyst_family": "HZSM-5",
+    "canonical_aliases": [
+      "HZSM-5 zeolite"
+    ],
     "canonical_name": "HZSM-5"
   },
   {
     "uid": "catalyst:10.1016_s0378-3820(03)00071-7:C4",
-    "canonical_name": "Amberlyst-15"
+    "canonical_catalyst_name": "Amberlyst 15",
+    "canonical_catalyst_family": "sulfonic acid ion-exchange resin",
+    "canonical_aliases": [],
+    "canonical_name": "sulfonic acid ion-exchange resin"
   },
   {
     "uid": "catalyst:10.1016_s0378-3820(03)00071-7:C5",
-    "canonical_name": "Amberlyst-15/HZSM-5 composite"
+    "canonical_catalyst_name": "Amberlyst 15 + HZSM-5",
+    "canonical_catalyst_family": "mixed solid acid",
+    "canonical_aliases": [
+      "dual acid catalyst"
+    ],
+    "canonical_name": "mixed solid acid"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2004.10.008:C1",
-    "canonical_name": "K2CO3/MoS2"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2004.10.008:C2",
-    "canonical_name": "NiK2CO3/MoS2"
+    "uid": "catalyst:10.1016_j.fuproc.2022.107475:C1",
+    "canonical_catalyst_name": "CuO/Al2O3 + CaO",
+    "canonical_catalyst_family": "Cu-Ca composite oxygen carrier",
+    "canonical_aliases": [
+      "CaCu material",
+      "CaO/CuO system"
+    ],
+    "canonical_name": "Cu-Ca composite oxygen carrier"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2012.04.021:C1",
+    "canonical_catalyst_name": "Ni/Al2O3",
+    "canonical_catalyst_family": "Ni/Al2O3",
+    "canonical_aliases": [
+      "20wt.% Ni/Al2O3"
+    ],
     "canonical_name": "Ni/Al2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2012.04.021:C2",
+    "canonical_catalyst_name": "Al2O3",
+    "canonical_catalyst_family": "Al2O3",
+    "canonical_aliases": [],
     "canonical_name": "Al2O3"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2012.06.001:C1",
-    "canonical_name": "Amberlyst-15"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2012.06.001:C2",
-    "canonical_name": "Amberlyst-15"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2012.06.001:C3",
-    "canonical_name": "no_catalyst"
-  },
-  {
     "uid": "catalyst:10.1016_0378-3820(79)90016-x:C1",
-    "canonical_name": "no_catalyst"
+    "canonical_catalyst_name": "no-catalyst blank",
+    "canonical_catalyst_family": "no catalyst",
+    "canonical_aliases": [],
+    "canonical_name": "no catalyst"
   },
   {
     "uid": "catalyst:10.1016_0378-3820(79)90016-x:C2",
-    "canonical_name": "CoMo/Al2O3"
+    "canonical_catalyst_name": "Co/Mo/Al2O3-SiO2",
+    "canonical_catalyst_family": "Co-Mo/alumina",
+    "canonical_aliases": [
+      "Co/Mo/Al2O3 (SiO2-stabilized)"
+    ],
+    "canonical_name": "Co-Mo/alumina"
   },
   {
     "uid": "catalyst:10.1016_0378-3820(79)90016-x:C3",
-    "canonical_name": "coal_ash"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2020.106487:C1",
-    "canonical_name": "Fe2O3-Al2O3"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2020.106487:C2",
-    "canonical_name": "Fe2O3-Al2O3"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107475:C1",
-    "canonical_name": "CuO/Al2O3-CaO"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2012.10.012:C1",
-    "canonical_name": "biomass_char"
+    "canonical_catalyst_name": "low-temperature coal ash",
+    "canonical_catalyst_family": "coal ash",
+    "canonical_aliases": [],
+    "canonical_name": "coal ash"
   },
   {
     "uid": "catalyst:10.1016_0378-3820(87)90006-3:C1",
-    "canonical_name": "no_catalyst"
+    "canonical_catalyst_name": "bare oil coke",
+    "canonical_catalyst_family": "carbon support blank",
+    "canonical_aliases": [],
+    "canonical_name": "carbon support blank"
   },
   {
     "uid": "catalyst:10.1016_0378-3820(87)90006-3:C2",
-    "canonical_name": "Li[HFe(CO)4]/oil_coke"
+    "canonical_catalyst_name": "Li[HFe(CO)4]/oil coke",
+    "canonical_catalyst_family": "alkali metal hydridotetracarbonylferrate/oil coke",
+    "canonical_aliases": [
+      "lithium hydridotetracarbonylferrate/oil coke"
+    ],
+    "canonical_name": "alkali metal hydridotetracarbonylferrate/oil coke"
   },
   {
     "uid": "catalyst:10.1016_0378-3820(87)90006-3:C3",
-    "canonical_name": "Na[HFe(CO)4]/oil_coke"
+    "canonical_catalyst_name": "Na[HFe(CO)4]/oil coke",
+    "canonical_catalyst_family": "alkali metal hydridotetracarbonylferrate/oil coke",
+    "canonical_aliases": [
+      "sodium hydridotetracarbonylferrate/oil coke"
+    ],
+    "canonical_name": "alkali metal hydridotetracarbonylferrate/oil coke"
   },
   {
     "uid": "catalyst:10.1016_0378-3820(87)90006-3:C4",
-    "canonical_name": "K[HFe(CO)4]/oil_coke"
+    "canonical_catalyst_name": "K[HFe(CO)4]/oil coke",
+    "canonical_catalyst_family": "alkali metal hydridotetracarbonylferrate/oil coke",
+    "canonical_aliases": [
+      "potassium hydridotetracarbonylferrate/oil coke"
+    ],
+    "canonical_name": "alkali metal hydridotetracarbonylferrate/oil coke"
   },
   {
     "uid": "catalyst:10.1016_0378-3820(87)90006-3:C5",
-    "canonical_name": "Rb[HFe(CO)4]/oil_coke"
+    "canonical_catalyst_name": "Rb[HFe(CO)4]/oil coke",
+    "canonical_catalyst_family": "alkali metal hydridotetracarbonylferrate/oil coke",
+    "canonical_aliases": [
+      "rubidium hydridotetracarbonylferrate/oil coke"
+    ],
+    "canonical_name": "alkali metal hydridotetracarbonylferrate/oil coke"
   },
   {
     "uid": "catalyst:10.1016_0378-3820(87)90006-3:C6",
-    "canonical_name": "Cs[HFe(CO)4]/oil_coke"
+    "canonical_catalyst_name": "Cs[HFe(CO)4]/oil coke",
+    "canonical_catalyst_family": "alkali metal hydridotetracarbonylferrate/oil coke",
+    "canonical_aliases": [
+      "cesium hydridotetracarbonylferrate/oil coke"
+    ],
+    "canonical_name": "alkali metal hydridotetracarbonylferrate/oil coke"
   },
   {
     "uid": "catalyst:10.1016_0378-3820(87)90006-3:C7",
-    "canonical_name": "Li2CO3"
+    "canonical_catalyst_name": "Li2CO3",
+    "canonical_catalyst_family": "alkali metal carbonate",
+    "canonical_aliases": [
+      "lithium carbonate"
+    ],
+    "canonical_name": "alkali metal carbonate"
   },
   {
     "uid": "catalyst:10.1016_0378-3820(87)90006-3:C8",
-    "canonical_name": "Na2CO3"
+    "canonical_catalyst_name": "Na2CO3",
+    "canonical_catalyst_family": "alkali metal carbonate",
+    "canonical_aliases": [
+      "sodium carbonate"
+    ],
+    "canonical_name": "alkali metal carbonate"
   },
   {
     "uid": "catalyst:10.1016_0378-3820(87)90006-3:C9",
-    "canonical_name": "K2CO3"
+    "canonical_catalyst_name": "K2CO3",
+    "canonical_catalyst_family": "alkali metal carbonate",
+    "canonical_aliases": [
+      "potassium carbonate"
+    ],
+    "canonical_name": "alkali metal carbonate"
   },
   {
     "uid": "catalyst:10.1016_0378-3820(87)90006-3:C10",
-    "canonical_name": "Rb2CO3"
+    "canonical_catalyst_name": "Rb2CO3",
+    "canonical_catalyst_family": "alkali metal carbonate",
+    "canonical_aliases": [
+      "rubidium carbonate"
+    ],
+    "canonical_name": "alkali metal carbonate"
   },
   {
     "uid": "catalyst:10.1016_0378-3820(87)90006-3:C11",
-    "canonical_name": "Cs2CO3"
+    "canonical_catalyst_name": "Cs2CO3",
+    "canonical_catalyst_family": "alkali metal carbonate",
+    "canonical_aliases": [
+      "cesium carbonate"
+    ],
+    "canonical_name": "alkali metal carbonate"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.06.001:C1",
+    "canonical_catalyst_name": "Amberlyst-15",
+    "canonical_catalyst_family": "sulfonic acid ion-exchange resin",
+    "canonical_aliases": [
+      "Amberlyst 15"
+    ],
+    "canonical_name": "sulfonic acid ion-exchange resin"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.06.001:C2",
+    "canonical_catalyst_name": "wet Amberlyst-15",
+    "canonical_catalyst_family": "sulfonic acid ion-exchange resin",
+    "canonical_aliases": [
+      "Amberlyst-15 with 3.20 wt.% moisture"
+    ],
+    "canonical_name": "sulfonic acid ion-exchange resin"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2012.06.001:C3",
+    "canonical_catalyst_name": "no catalyst",
+    "canonical_catalyst_family": "no catalyst",
+    "canonical_aliases": [],
+    "canonical_name": "no catalyst"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2018.06.007:C1",
-    "canonical_name": "raw_coal"
+    "canonical_catalyst_name": "raw coal",
+    "canonical_catalyst_family": "coal",
+    "canonical_aliases": [
+      "WL raw coal"
+    ],
+    "canonical_name": "coal"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2018.06.007:C2",
-    "canonical_name": "EDTA-treated_coal"
+    "canonical_catalyst_name": "EDTA-treated coal",
+    "canonical_catalyst_family": "coal",
+    "canonical_aliases": [
+      "EDTA-inhibited coal"
+    ],
+    "canonical_name": "coal"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2018.06.007:C3",
-    "canonical_name": "pyrolyzed_coal"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2016.05.014:C1",
-    "canonical_name": "NiMo/Al2O3"
+    "canonical_catalyst_name": "pyrolyzed coal",
+    "canonical_catalyst_family": "coal",
+    "canonical_aliases": [],
+    "canonical_name": "coal"
   },
   {
     "uid": "catalyst:10.1016_s0378-3820(97)00074-x:C1",
+    "canonical_catalyst_name": "NiMo/Al2O3",
+    "canonical_catalyst_family": "NiMo/Al2O3",
+    "canonical_aliases": [
+      "presulfided NiMo/Al2O3"
+    ],
     "canonical_name": "NiMo/Al2O3"
   },
   {
     "uid": "catalyst:10.1016_s0378-3820(97)00074-x:C2",
-    "canonical_name": "USY"
+    "canonical_catalyst_name": "Zeolyst Z-753",
+    "canonical_catalyst_family": "zeolite",
+    "canonical_aliases": [
+      "Z-753",
+      "Zeolyst 753"
+    ],
+    "canonical_name": "zeolite"
   },
   {
     "uid": "catalyst:10.1016_s0378-3820(97)00074-x:C3",
-    "canonical_name": "NiMo/USY"
+    "canonical_catalyst_name": "NiMo/zeolite",
+    "canonical_catalyst_family": "NiMo/zeolite",
+    "canonical_aliases": [
+      "presulfided NiMo/zeolite"
+    ],
+    "canonical_name": "NiMo/zeolite"
   },
   {
     "uid": "catalyst:10.1016_s0378-3820(97)00074-x:C4",
-    "canonical_name": "HZSM-5"
+    "canonical_catalyst_name": "HZSM-5",
+    "canonical_catalyst_family": "zeolite",
+    "canonical_aliases": [],
+    "canonical_name": "zeolite"
   },
   {
     "uid": "catalyst:10.1016_s0378-3820(97)00074-x:C5",
-    "canonical_name": "NiMo/Al2O3+USY"
+    "canonical_catalyst_name": "10 wt.% Z-753 in NiMo/Al2O3",
+    "canonical_catalyst_family": "NiMo/Al2O3 + zeolite composite",
+    "canonical_aliases": [
+      "10% Z-753 in NiMo/Al2O3"
+    ],
+    "canonical_name": "NiMo/Al2O3 + zeolite composite"
   },
   {
     "uid": "catalyst:10.1016_s0378-3820(97)00074-x:C6",
-    "canonical_name": "NiMo/Al2O3+HZSM-5"
+    "canonical_catalyst_name": "10 wt.% HZSM-5 in NiMo/Al2O3",
+    "canonical_catalyst_family": "NiMo/Al2O3 + zeolite composite",
+    "canonical_aliases": [
+      "10% HZSM-5 in NiMo/Al2O3"
+    ],
+    "canonical_name": "NiMo/Al2O3 + zeolite composite"
   },
   {
     "uid": "catalyst:10.1016_s0378-3820(97)00074-x:C7",
-    "canonical_name": "NiMo/Al2O3+NiMo/USY"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2016.01.026:C1",
-    "canonical_name": "NiMo/Al2O3"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2016.01.026:C2",
-    "canonical_name": "Pd/activated_carbon"
+    "canonical_catalyst_name": "10 wt.% NiMo/zeolite in NiMo/Al2O3",
+    "canonical_catalyst_family": "NiMo/Al2O3 + zeolite composite",
+    "canonical_aliases": [
+      "10% NiMo/zeolite in NiMo/Al2O3"
+    ],
+    "canonical_name": "NiMo/Al2O3 + zeolite composite"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2010.04.002:C1",
-    "canonical_name": "Novozym435+LipozymeТLIM"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2012.09.028:C1",
-    "canonical_name": "Amberlyst-70"
+    "canonical_catalyst_name": "1.96% Novozym 435 + 2.04% Lipozyme TL IM",
+    "canonical_catalyst_family": "immobilized lipase blend",
+    "canonical_aliases": [
+      "compound-lipase"
+    ],
+    "canonical_name": "immobilized lipase blend"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2008.01.011:C1",
-    "canonical_name": "ZnCl2"
+    "canonical_catalyst_name": "ZnCl2",
+    "canonical_catalyst_family": "metal halide",
+    "canonical_aliases": [],
+    "canonical_name": "metal halide"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2008.01.011:C2",
-    "canonical_name": "dolomite"
+    "canonical_catalyst_name": "dolomite",
+    "canonical_catalyst_family": "carbonate mineral",
+    "canonical_aliases": [],
+    "canonical_name": "carbonate mineral"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2008.01.011:C3",
-    "canonical_name": "no_catalyst"
+    "canonical_catalyst_name": "no catalyst",
+    "canonical_catalyst_family": "no catalyst",
+    "canonical_aliases": [
+      "non-catalyzed",
+      "uncatalyzed"
+    ],
+    "canonical_name": "no catalyst"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2014.02.021:C1",
-    "canonical_name": "Ni/Al2O3/Ni-foam"
+    "canonical_catalyst_name": "Ni/Al2O3/Ni foam",
+    "canonical_catalyst_family": "metal/oxide/foam structured catalyst",
+    "canonical_aliases": [
+      "Ni-Al2O3/Ni foam",
+      "Ni/γ-Al2O3/Ni foam"
+    ],
+    "canonical_name": "metal/oxide/foam structured catalyst"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2014.02.021:C2",
+    "canonical_catalyst_name": "Al2O3",
+    "canonical_catalyst_family": "Al2O3",
+    "canonical_aliases": [
+      "bare Al2O3",
+      "bare Al2O3 bead"
+    ],
     "canonical_name": "Al2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2014.02.021:C3",
-    "canonical_name": "Ni-foam"
+    "canonical_catalyst_name": "Ni foam",
+    "canonical_catalyst_family": "Ni foam",
+    "canonical_aliases": [
+      "bare Ni foam"
+    ],
+    "canonical_name": "Ni foam"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2014.02.021:C4",
-    "canonical_name": "Al2O3/Ni-foam"
+    "canonical_catalyst_name": "γ-Al2O3/Ni foam",
+    "canonical_catalyst_family": "Al2O3/Ni foam",
+    "canonical_aliases": [
+      "Al2O3/Ni foam"
+    ],
+    "canonical_name": "Al2O3/Ni foam"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2014.02.021:C5",
+    "canonical_catalyst_name": "γ-Al2O3 pellets",
+    "canonical_catalyst_family": "Al2O3",
+    "canonical_aliases": [
+      "γ-Al2O3 pellet"
+    ],
     "canonical_name": "Al2O3"
   },
   {
+    "uid": "catalyst:10.1016_j.fuproc.2012.09.028:C1",
+    "canonical_catalyst_name": "Amberlyst 70",
+    "canonical_catalyst_family": "ion exchange resin",
+    "canonical_aliases": [],
+    "canonical_name": "ion exchange resin"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.01.026:C1",
+    "canonical_catalyst_name": "pre-sulphided NiMo/Al2O3",
+    "canonical_catalyst_family": "NiMo/Al2O3",
+    "canonical_aliases": [
+      "NiMo/Al2O3",
+      "NiMo/γ-Al2O3"
+    ],
+    "canonical_name": "NiMo/Al2O3"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.01.026:C2",
+    "canonical_catalyst_name": "5% Pd/C",
+    "canonical_catalyst_family": "Pd/C",
+    "canonical_aliases": [
+      "Pd/C",
+      "Pd/activated carbon"
+    ],
+    "canonical_name": "Pd/C"
+  },
+  {
     "uid": "catalyst:10.1016_j.fuproc.2016.01.030:C1",
-    "canonical_name": "CeZrAlFe-oxide"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2016.05.003:C1",
-    "canonical_name": "NiPt/Al2O3"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2016.05.003:C2",
-    "canonical_name": "AuRe/ZrO2"
+    "canonical_catalyst_name": "CeO2-ZrO2-Al2O3-FeOx",
+    "canonical_catalyst_family": "CeO2-ZrO2-Al2O3-FeOx",
+    "canonical_aliases": [
+      "FeOx/CeO2-ZrO2-Al2O3"
+    ],
+    "canonical_name": "CeO2-ZrO2-Al2O3-FeOx"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2011.05.026:C1",
+    "canonical_catalyst_name": "HPW/TiO2",
+    "canonical_catalyst_family": "HPW/TiO2",
+    "canonical_aliases": [],
     "canonical_name": "HPW/TiO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2011.05.026:C2",
+    "canonical_catalyst_name": "HPW/TiO2 calcined at 150°C",
+    "canonical_catalyst_family": "HPW/TiO2",
+    "canonical_aliases": [],
     "canonical_name": "HPW/TiO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2011.05.026:C3",
+    "canonical_catalyst_name": "HPW/TiO2 calcined at 200°C",
+    "canonical_catalyst_family": "HPW/TiO2",
+    "canonical_aliases": [],
     "canonical_name": "HPW/TiO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2011.05.026:C4",
+    "canonical_catalyst_name": "HPW/TiO2 calcined at 300°C",
+    "canonical_catalyst_family": "HPW/TiO2",
+    "canonical_aliases": [],
     "canonical_name": "HPW/TiO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2011.05.026:C5",
+    "canonical_catalyst_name": "HPW/TiO2 calcined at 400°C",
+    "canonical_catalyst_family": "HPW/TiO2",
+    "canonical_aliases": [],
     "canonical_name": "HPW/TiO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2011.05.026:C6",
+    "canonical_catalyst_name": "HPW/TiO2 calcined at 500°C",
+    "canonical_catalyst_family": "HPW/TiO2",
+    "canonical_aliases": [],
     "canonical_name": "HPW/TiO2"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2014.11.037:C1",
-    "canonical_name": "FeZr-oxide"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2014.11.037:C2",
-    "canonical_name": "FeZr-oxide"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2014.11.037:C3",
-    "canonical_name": "FeZr-oxide"
-  },
-  {
     "uid": "catalyst:10.1016_j.fuproc.2012.05.025:C1",
-    "canonical_name": "VW/TiO2"
+    "canonical_catalyst_name": "V2O5-WO3/TiO2",
+    "canonical_catalyst_family": "V2O5-WO3/TiO2",
+    "canonical_aliases": [
+      "V2O5/TiO2"
+    ],
+    "canonical_name": "V2O5-WO3/TiO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2012.05.025:C2",
-    "canonical_name": "VW/TiO2"
+    "canonical_catalyst_name": "spent V2O5-WO3/TiO2 (front-end)",
+    "canonical_catalyst_family": "V2O5-WO3/TiO2",
+    "canonical_aliases": [
+      "spent V2O5-WO3/TiO2 sample A"
+    ],
+    "canonical_name": "V2O5-WO3/TiO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2012.05.025:C3",
-    "canonical_name": "VW/TiO2"
+    "canonical_catalyst_name": "spent V2O5-WO3/TiO2 (back-end)",
+    "canonical_catalyst_family": "V2O5-WO3/TiO2",
+    "canonical_aliases": [
+      "spent V2O5-WO3/TiO2 sample B"
+    ],
+    "canonical_name": "V2O5-WO3/TiO2"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2018.03.002:C1",
-    "canonical_name": "HZSM-5"
+    "uid": "catalyst:10.1016_j.fuproc.2014.11.037:C1",
+    "canonical_catalyst_name": "Fe70Zr30",
+    "canonical_catalyst_family": "K-Fe70Zr30",
+    "canonical_aliases": [
+      "K0-Fe70Zr30"
+    ],
+    "canonical_name": "K-Fe70Zr30"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2018.03.002:C2",
-    "canonical_name": "Fe/ZSM-5"
+    "uid": "catalyst:10.1016_j.fuproc.2014.11.037:C2",
+    "canonical_catalyst_name": "K2-Fe70Zr30",
+    "canonical_catalyst_family": "K-Fe70Zr30",
+    "canonical_aliases": [],
+    "canonical_name": "K-Fe70Zr30"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2018.03.002:C3",
-    "canonical_name": "Fe/ZSM-5"
+    "uid": "catalyst:10.1016_j.fuproc.2014.11.037:C3",
+    "canonical_catalyst_name": "K6-Fe70Zr30",
+    "canonical_catalyst_family": "K-Fe70Zr30",
+    "canonical_aliases": [],
+    "canonical_name": "K-Fe70Zr30"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2018.03.002:C4",
-    "canonical_name": "Fe/ZSM-5"
+    "uid": "catalyst:10.1016_j.fuproc.2016.05.003:C1",
+    "canonical_catalyst_name": "0.2wt.%Pt-10wt.%Ni/δ-Al2O3",
+    "canonical_catalyst_family": "Pt-Ni/δ-Al2O3",
+    "canonical_aliases": [
+      "Pt-Ni/δ-Al2O3"
+    ],
+    "canonical_name": "Pt-Ni/δ-Al2O3"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2018.03.002:C5",
-    "canonical_name": "Fe/ZSM-5"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2018.03.002:C6",
-    "canonical_name": "Fe/ZSM-5"
+    "uid": "catalyst:10.1016_j.fuproc.2016.05.003:C2",
+    "canonical_catalyst_name": "2wt.%Au-1wt.%Re/ZrO2",
+    "canonical_catalyst_family": "Au-Re/ZrO2",
+    "canonical_aliases": [
+      "Au-Re/ZrO2"
+    ],
+    "canonical_name": "Au-Re/ZrO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2017.11.014:C1",
+    "canonical_catalyst_name": "calcined olivine",
+    "canonical_catalyst_family": "olivine",
+    "canonical_aliases": [
+      "olivine"
+    ],
     "canonical_name": "olivine"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2017.11.014:C2",
+    "canonical_catalyst_name": "quartz sand",
+    "canonical_catalyst_family": "quartz sand",
+    "canonical_aliases": [
+      "inert bed material"
+    ],
     "canonical_name": "quartz sand"
   },
   {
+    "uid": "catalyst:10.1016_j.fuproc.2018.03.002:C1",
+    "canonical_catalyst_name": "ZSM-5",
+    "canonical_catalyst_family": "HZSM-5",
+    "canonical_aliases": [],
+    "canonical_name": "HZSM-5"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.03.002:C2",
+    "canonical_catalyst_name": "0.5%Fe/ZSM-5",
+    "canonical_catalyst_family": "Fe/ZSM-5",
+    "canonical_aliases": [],
+    "canonical_name": "Fe/ZSM-5"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.03.002:C3",
+    "canonical_catalyst_name": "1%Fe/ZSM-5",
+    "canonical_catalyst_family": "Fe/ZSM-5",
+    "canonical_aliases": [],
+    "canonical_name": "Fe/ZSM-5"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.03.002:C4",
+    "canonical_catalyst_name": "2%Fe/ZSM-5",
+    "canonical_catalyst_family": "Fe/ZSM-5",
+    "canonical_aliases": [],
+    "canonical_name": "Fe/ZSM-5"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.03.002:C5",
+    "canonical_catalyst_name": "4%Fe/ZSM-5",
+    "canonical_catalyst_family": "Fe/ZSM-5",
+    "canonical_aliases": [],
+    "canonical_name": "Fe/ZSM-5"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.03.002:C6",
+    "canonical_catalyst_name": "8%Fe/ZSM-5",
+    "canonical_catalyst_family": "Fe/ZSM-5",
+    "canonical_aliases": [],
+    "canonical_name": "Fe/ZSM-5"
+  },
+  {
     "uid": "catalyst:10.1016_s0378-3820(98)00087-3:C1",
+    "canonical_catalyst_name": "CaO",
+    "canonical_catalyst_family": "CaO",
+    "canonical_aliases": [
+      "previously activated CaO"
+    ],
     "canonical_name": "CaO"
   },
   {
+    "uid": "catalyst:10.1016_j.fuproc.2008.03.001:C1",
+    "canonical_catalyst_name": "coal char",
+    "canonical_catalyst_family": "char",
+    "canonical_aliases": [
+      "pure coal char"
+    ],
+    "canonical_name": "char"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2008.03.001:C2",
+    "canonical_catalyst_name": "wheat straw char",
+    "canonical_catalyst_family": "char",
+    "canonical_aliases": [
+      "biomass char",
+      "straw char"
+    ],
+    "canonical_name": "char"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2008.03.001:C3",
+    "canonical_catalyst_name": "co-pyrolysis char from wheat straw/coal",
+    "canonical_catalyst_family": "co-pyrolysis char",
+    "canonical_aliases": [
+      "co-pyrolysis char"
+    ],
+    "canonical_name": "co-pyrolysis char"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2008.03.001:C4",
+    "canonical_catalyst_name": "co-pyrolysis char from acid-washed wheat straw/coal",
+    "canonical_catalyst_family": "co-pyrolysis char",
+    "canonical_aliases": [],
+    "canonical_name": "co-pyrolysis char"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2008.03.001:C5",
+    "canonical_catalyst_name": "co-pyrolysis char (wheat straw/coal, 650 °C)",
+    "canonical_catalyst_family": "co-pyrolysis char",
+    "canonical_aliases": [
+      "char prepared at 650 °C"
+    ],
+    "canonical_name": "co-pyrolysis char"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2008.03.001:C6",
+    "canonical_catalyst_name": "co-pyrolysis char (wheat straw/coal, 750 °C)",
+    "canonical_catalyst_family": "co-pyrolysis char",
+    "canonical_aliases": [
+      "char prepared at 750 °C"
+    ],
+    "canonical_name": "co-pyrolysis char"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2008.03.001:C7",
+    "canonical_catalyst_name": "co-pyrolysis char (wheat straw/coal, 850 °C)",
+    "canonical_catalyst_family": "co-pyrolysis char",
+    "canonical_aliases": [
+      "char prepared at 850 °C"
+    ],
+    "canonical_name": "co-pyrolysis char"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.03.014:C1",
+    "canonical_catalyst_name": "P/AC",
+    "canonical_catalyst_family": "functionalized activated carbon",
+    "canonical_aliases": [
+      "phosphorus-functionalized activated carbon"
+    ],
+    "canonical_name": "functionalized activated carbon"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.03.014:C2",
+    "canonical_catalyst_name": "S/AC",
+    "canonical_catalyst_family": "functionalized activated carbon",
+    "canonical_aliases": [
+      "sulfonated activated carbon"
+    ],
+    "canonical_name": "functionalized activated carbon"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.03.014:C3",
+    "canonical_catalyst_name": "IL/AC",
+    "canonical_catalyst_family": "supported ionic liquid phase",
+    "canonical_aliases": [
+      "supported IL/AC"
+    ],
+    "canonical_name": "supported ionic liquid phase"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.03.014:C4",
+    "canonical_catalyst_name": "IL/γ-Al2O3",
+    "canonical_catalyst_family": "supported ionic liquid phase",
+    "canonical_aliases": [
+      "supported IL/Al2O3"
+    ],
+    "canonical_name": "supported ionic liquid phase"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.03.014:C5",
+    "canonical_catalyst_name": "IL/SiO2",
+    "canonical_catalyst_family": "supported ionic liquid phase",
+    "canonical_aliases": [
+      "supported IL phase/SiO2"
+    ],
+    "canonical_name": "supported ionic liquid phase"
+  },
+  {
     "uid": "catalyst:10.1016_j.fuproc.2012.04.035:C1",
+    "canonical_catalyst_name": "Ir/ZSM-5",
+    "canonical_catalyst_family": "Ir/ZSM-5",
+    "canonical_aliases": [],
     "canonical_name": "Ir/ZSM-5"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2012.04.035:C2",
+    "canonical_catalyst_name": "Ir/SiO2",
+    "canonical_catalyst_family": "Ir/SiO2",
+    "canonical_aliases": [],
     "canonical_name": "Ir/SiO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2012.04.035:C3",
+    "canonical_catalyst_name": "Ir/γ-Al2O3",
+    "canonical_catalyst_family": "Ir/Al2O3",
+    "canonical_aliases": [],
     "canonical_name": "Ir/Al2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2012.04.035:C4",
+    "canonical_catalyst_name": "ZSM-5",
+    "canonical_catalyst_family": "HZSM-5",
+    "canonical_aliases": [],
     "canonical_name": "HZSM-5"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2012.04.035:C5",
+    "canonical_catalyst_name": "SiO2",
+    "canonical_catalyst_family": "SiO2",
+    "canonical_aliases": [],
     "canonical_name": "SiO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2012.04.035:C6",
+    "canonical_catalyst_name": "γ-Al2O3",
+    "canonical_catalyst_family": "Al2O3",
+    "canonical_aliases": [],
     "canonical_name": "Al2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2012.04.035:C7",
+    "canonical_catalyst_name": "Pt/γ-Al2O3",
+    "canonical_catalyst_family": "Pt/Al2O3",
+    "canonical_aliases": [],
     "canonical_name": "Pt/Al2O3"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2019.03.014:C1",
-    "canonical_name": "P/activated carbon"
+    "uid": "catalyst:10.1016_j.fuproc.2021.106768:C1",
+    "canonical_catalyst_name": "Ni/Mg-Al-O/AC",
+    "canonical_catalyst_family": "Ni/Mg-Al-O/AC",
+    "canonical_aliases": [
+      "Ni/Mg-Al mixed oxide/activated carbon"
+    ],
+    "canonical_name": "Ni/Mg-Al-O/AC"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2019.03.014:C2",
-    "canonical_name": "S/activated carbon"
+    "uid": "catalyst:10.1016_j.fuproc.2016.01.021:C1",
+    "canonical_catalyst_name": "S2O8²⁻/ZrO2",
+    "canonical_catalyst_family": "S2O8²⁻/ZrO2",
+    "canonical_aliases": [
+      "persulfate/ZrO2",
+      "sulfated zirconia"
+    ],
+    "canonical_name": "S2O8²⁻/ZrO2"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2019.03.014:C3",
-    "canonical_name": "IL/activated carbon"
+    "uid": "catalyst:10.1016_j.fuproc.2016.01.021:C2",
+    "canonical_catalyst_name": "S2O8²⁻/ZrO2",
+    "canonical_catalyst_family": "S2O8²⁻/ZrO2",
+    "canonical_aliases": [
+      "persulfate/ZrO2",
+      "sulfated zirconia"
+    ],
+    "canonical_name": "S2O8²⁻/ZrO2"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2019.03.014:C4",
-    "canonical_name": "IL/Al2O3"
+    "uid": "catalyst:10.1016_j.fuproc.2016.01.021:C3",
+    "canonical_catalyst_name": "S2O8²⁻/ZrO2",
+    "canonical_catalyst_family": "S2O8²⁻/ZrO2",
+    "canonical_aliases": [
+      "persulfate/ZrO2",
+      "sulfated zirconia"
+    ],
+    "canonical_name": "S2O8²⁻/ZrO2"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2019.03.014:C5",
-    "canonical_name": "IL/SiO2"
+    "uid": "catalyst:10.1016_j.fuproc.2016.01.021:C4",
+    "canonical_catalyst_name": "S2O8²⁻/ZrO2",
+    "canonical_catalyst_family": "S2O8²⁻/ZrO2",
+    "canonical_aliases": [
+      "persulfate/ZrO2",
+      "sulfated zirconia"
+    ],
+    "canonical_name": "S2O8²⁻/ZrO2"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2008.03.001:C1",
-    "canonical_name": "coal_char"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2008.03.001:C2",
-    "canonical_name": "wheat_straw_char"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2008.03.001:C3",
-    "canonical_name": "coal_wheat_straw_co-pyrolysis_char"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2008.03.001:C4",
-    "canonical_name": "coal_wheat_straw_co-pyrolysis_char"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2008.03.001:C5",
-    "canonical_name": "coal_wheat_straw_co-pyrolysis_char"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2008.03.001:C6",
-    "canonical_name": "coal_wheat_straw_co-pyrolysis_char"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2008.03.001:C7",
-    "canonical_name": "coal_wheat_straw_co-pyrolysis_char"
+    "uid": "catalyst:10.1016_j.fuproc.2016.01.021:C5",
+    "canonical_catalyst_name": "S2O8²⁻/ZrO2",
+    "canonical_catalyst_family": "S2O8²⁻/ZrO2",
+    "canonical_aliases": [
+      "persulfate/ZrO2",
+      "sulfated zirconia"
+    ],
+    "canonical_name": "S2O8²⁻/ZrO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2017.08.002:C1",
+    "canonical_catalyst_name": "5% Ru/C",
+    "canonical_catalyst_family": "Ru/C",
+    "canonical_aliases": [
+      "Ru/C"
+    ],
     "canonical_name": "Ru/C"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2017.08.002:C2",
+    "canonical_catalyst_name": "5% Pt/C",
+    "canonical_catalyst_family": "Pt/C",
+    "canonical_aliases": [
+      "Pt/C"
+    ],
     "canonical_name": "Pt/C"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2017.08.002:C3",
+    "canonical_catalyst_name": "5% Pd/C",
+    "canonical_catalyst_family": "Pd/C",
+    "canonical_aliases": [
+      "Pd/C"
+    ],
     "canonical_name": "Pd/C"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2017.08.002:C4",
-    "canonical_name": "no_catalyst"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2021.106768:C1",
-    "canonical_name": "Ni/MgAlO/AC"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2018.08.016:C1",
-    "canonical_name": "NiMg/Al2O3"
+    "canonical_catalyst_name": "no catalyst",
+    "canonical_catalyst_family": "no catalyst",
+    "canonical_aliases": [],
+    "canonical_name": "no catalyst"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2020.106711:C1",
-    "canonical_name": "MnOx/kaolin"
+    "canonical_catalyst_name": "kaolin-promoted manganese ore",
+    "canonical_catalyst_family": "promoted manganese ore",
+    "canonical_aliases": [
+      "kaolin/manganese ore oxygen carrier"
+    ],
+    "canonical_name": "promoted manganese ore"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2016.01.021:C1",
-    "canonical_name": "S2O8/ZrO2"
+    "uid": "catalyst:10.1016_j.fuproc.2018.08.016:C1",
+    "canonical_catalyst_name": "NiMg/Al2O3",
+    "canonical_catalyst_family": "NiMg/Al2O3",
+    "canonical_aliases": [],
+    "canonical_name": "NiMg/Al2O3"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2016.01.021:C2",
-    "canonical_name": "S2O8/ZrO2"
+    "uid": "catalyst:10.1016_j.fuproc.2022.107519:C1",
+    "canonical_catalyst_name": "Ru2Ni1/N-doped carbon nanofibers",
+    "canonical_catalyst_family": "RuNi/N-doped carbon nanofibers",
+    "canonical_aliases": [
+      "Ru2Ni1-NCNFs",
+      "RuxNiy-NCNFs"
+    ],
+    "canonical_name": "RuNi/N-doped carbon nanofibers"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2016.01.021:C3",
-    "canonical_name": "S2O8/ZrO2"
+    "uid": "catalyst:10.1016_j.fuproc.2003.12.004:C1",
+    "canonical_catalyst_name": "catalyst/Q-50 silica gel",
+    "canonical_catalyst_family": "catalyst/silica gel",
+    "canonical_aliases": [
+      "Q-50 catalyst"
+    ],
+    "canonical_name": "catalyst/silica gel"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2016.01.021:C4",
-    "canonical_name": "S2O8/ZrO2"
+    "uid": "catalyst:10.1016_j.fuproc.2003.12.004:C2",
+    "canonical_catalyst_name": "catalyst/Q-3 silica gel",
+    "canonical_catalyst_family": "catalyst/silica gel",
+    "canonical_aliases": [
+      "Q-3 catalyst"
+    ],
+    "canonical_name": "catalyst/silica gel"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2016.01.021:C5",
-    "canonical_name": "S2O8/ZrO2"
+    "uid": "catalyst:10.1016_j.fuproc.2003.12.004:C3",
+    "canonical_catalyst_name": "catalyst/bimodal pore silica",
+    "canonical_catalyst_family": "catalyst/silica",
+    "canonical_aliases": [
+      "silica bimodal pore catalyst"
+    ],
+    "canonical_name": "catalyst/silica"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2003.12.004:C4",
+    "canonical_catalyst_name": "catalyst/bimodal pore ZrO2",
+    "canonical_catalyst_family": "catalyst/ZrO2",
+    "canonical_aliases": [
+      "zirconia bimodal pore catalyst"
+    ],
+    "canonical_name": "catalyst/ZrO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2011.02.015:C1",
+    "canonical_catalyst_name": "Ni/YSZ",
+    "canonical_catalyst_family": "Ni/YSZ",
+    "canonical_aliases": [
+      "Ni/YSZ anode"
+    ],
     "canonical_name": "Ni/YSZ"
   },
   {
+    "uid": "catalyst:10.1016_j.fuproc.2011.06.007:C1",
+    "canonical_catalyst_name": "Ni-W/SBA-15-1",
+    "canonical_catalyst_family": "Ni-W/SBA-15",
+    "canonical_aliases": [
+      "sulfided Ni-W/SBA-15-1"
+    ],
+    "canonical_name": "Ni-W/SBA-15"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2011.06.007:C2",
+    "canonical_catalyst_name": "Ni-W/SBA-15-2",
+    "canonical_catalyst_family": "Ni-W/SBA-15",
+    "canonical_aliases": [
+      "sulfided Ni-W/SBA-15-2"
+    ],
+    "canonical_name": "Ni-W/SBA-15"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2011.06.007:C3",
+    "canonical_catalyst_name": "Ni-W/SBA-15-3",
+    "canonical_catalyst_family": "Ni-W/SBA-15",
+    "canonical_aliases": [
+      "sulfided Ni-W/SBA-15-3"
+    ],
+    "canonical_name": "Ni-W/SBA-15"
+  },
+  {
     "uid": "catalyst:10.1016_j.fuproc.2010.11.017:C1",
-    "canonical_name": "CuCoСr-oxide"
+    "canonical_catalyst_name": "CuO-CoO-Cr2O3",
+    "canonical_catalyst_family": "CuO-CoO-Cr2O3",
+    "canonical_aliases": [
+      "CAT-A"
+    ],
+    "canonical_name": "CuO-CoO-Cr2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2010.11.017:C2",
-    "canonical_name": "CuCoCr-oxide/HZSM-5"
+    "canonical_catalyst_name": "CuO-CoO-Cr2O3/MFI zeolite",
+    "canonical_catalyst_family": "CuO-CoO-Cr2O3/zeolite composite",
+    "canonical_aliases": [
+      "CAT-B",
+      "CuO-CoO-Cr2O3 + MFI zeolite"
+    ],
+    "canonical_name": "CuO-CoO-Cr2O3/zeolite composite"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2013.11.018:C1",
+    "canonical_catalyst_name": "Na2ZrO3",
+    "canonical_catalyst_family": "Na2ZrO3",
+    "canonical_aliases": [
+      "sodium zirconate"
+    ],
+    "canonical_name": "Na2ZrO3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.01.007:C1",
+    "canonical_catalyst_name": "NiMo/γ-Al2O3 (EDTA/Ni=0)",
+    "canonical_catalyst_family": "NiMo/Al2O3",
+    "canonical_aliases": [
+      "cat-00-20-33-0"
+    ],
     "canonical_name": "NiMo/Al2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.01.007:C2",
+    "canonical_catalyst_name": "NiMo/γ-Al2O3 (EDTA/Ni=2)",
+    "canonical_catalyst_family": "NiMo/Al2O3",
+    "canonical_aliases": [
+      "cat-00-20-33-2"
+    ],
     "canonical_name": "NiMo/Al2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.01.007:C3",
-    "canonical_name": "NiMo/USY-Al2O3"
+    "canonical_catalyst_name": "NiMo/USY-γ-Al2O3 (EDTA/Ni=0)",
+    "canonical_catalyst_family": "NiMo/USY-γ-Al2O3",
+    "canonical_aliases": [
+      "cat-10-20-33-0"
+    ],
+    "canonical_name": "NiMo/USY-γ-Al2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.01.007:C4",
-    "canonical_name": "NiMo/USY-Al2O3"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2003.12.004:C1",
-    "canonical_name": "catalyst/SiO2"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2003.12.004:C2",
-    "canonical_name": "catalyst/SiO2"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2003.12.004:C3",
-    "canonical_name": "catalyst/SiO2"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2003.12.004:C4",
-    "canonical_name": "catalyst/ZrO2"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2011.06.007:C1",
-    "canonical_name": "NiW/SBA-15"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2011.06.007:C2",
-    "canonical_name": "NiW/SBA-15"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2011.06.007:C3",
-    "canonical_name": "NiW/SBA-15"
+    "canonical_catalyst_name": "NiMo/USY-γ-Al2O3 (Ni/(Ni+Mo)=0.417, EDTA/Ni=2)",
+    "canonical_catalyst_family": "NiMo/USY-γ-Al2O3",
+    "canonical_aliases": [
+      "optimum catalyst"
+    ],
+    "canonical_name": "NiMo/USY-γ-Al2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.03.024:C1",
+    "canonical_catalyst_name": "Fe2O3",
+    "canonical_catalyst_family": "Fe2O3",
+    "canonical_aliases": [
+      "fresh Fe2O3"
+    ],
     "canonical_name": "Fe2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.03.024:C2",
+    "canonical_catalyst_name": "Fe2O3-500",
+    "canonical_catalyst_family": "Fe2O3",
+    "canonical_aliases": [
+      "spent Fe2O3-500"
+    ],
     "canonical_name": "Fe2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.03.024:C3",
+    "canonical_catalyst_name": "Fe2O3-600",
+    "canonical_catalyst_family": "Fe2O3",
+    "canonical_aliases": [
+      "spent Fe2O3-600"
+    ],
     "canonical_name": "Fe2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.03.024:C4",
+    "canonical_catalyst_name": "Fe2O3-700",
+    "canonical_catalyst_family": "Fe2O3",
+    "canonical_aliases": [
+      "spent Fe2O3-700"
+    ],
     "canonical_name": "Fe2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.03.024:C5",
+    "canonical_catalyst_name": "Fe2O3-800",
+    "canonical_catalyst_family": "Fe2O3",
+    "canonical_aliases": [
+      "spent Fe2O3-800"
+    ],
     "canonical_name": "Fe2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.03.024:C6",
+    "canonical_catalyst_name": "R500",
+    "canonical_catalyst_family": "Fe2O3",
+    "canonical_aliases": [
+      "reduced sample R500"
+    ],
     "canonical_name": "Fe2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.03.024:C7",
-    "canonical_name": "R600"
+    "canonical_catalyst_name": "R600",
+    "canonical_catalyst_family": "Fe2O3",
+    "canonical_aliases": [
+      "reduced sample R600"
+    ],
+    "canonical_name": "Fe2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.03.024:C8",
-    "canonical_name": "R700"
+    "canonical_catalyst_name": "R700",
+    "canonical_catalyst_family": "Fe2O3",
+    "canonical_aliases": [
+      "reduced sample R700"
+    ],
+    "canonical_name": "Fe2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.03.024:C9",
-    "canonical_name": "R800"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2014.05.024:C1",
-    "canonical_name": "Amberlyst 70"
+    "canonical_catalyst_name": "R800",
+    "canonical_catalyst_family": "Fe2O3",
+    "canonical_aliases": [
+      "reduced sample R800"
+    ],
+    "canonical_name": "Fe2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2018.02.022:C1",
-    "canonical_name": "biomass-char"
+    "canonical_catalyst_name": "biomass char",
+    "canonical_catalyst_family": "acid-washed carbon char",
+    "canonical_aliases": [
+      "biomass-derived char",
+      "H-form biomass char"
+    ],
+    "canonical_name": "acid-washed carbon char"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2018.02.022:C2",
-    "canonical_name": "brown-coal-char"
+    "canonical_catalyst_name": "brown coal char",
+    "canonical_catalyst_family": "acid-washed carbon char",
+    "canonical_aliases": [
+      "H-form brown coal char"
+    ],
+    "canonical_name": "acid-washed carbon char"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2018.02.022:C3",
-    "canonical_name": "bituminous-coal-char"
+    "canonical_catalyst_name": "bituminous coal char",
+    "canonical_catalyst_family": "acid-washed carbon char",
+    "canonical_aliases": [
+      "H-form bituminous coal char"
+    ],
+    "canonical_name": "acid-washed carbon char"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2018.02.022:C4",
-    "canonical_name": "anthracite-char"
+    "canonical_catalyst_name": "anthracite char",
+    "canonical_catalyst_family": "acid-washed carbon char",
+    "canonical_aliases": [
+      "H-form anthracite char"
+    ],
+    "canonical_name": "acid-washed carbon char"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2018.02.022:C5",
-    "canonical_name": "graphite-char"
+    "canonical_catalyst_name": "graphite char",
+    "canonical_catalyst_family": "acid-washed carbon char",
+    "canonical_aliases": [
+      "H-form graphite char"
+    ],
+    "canonical_name": "acid-washed carbon char"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2018.02.022:C6",
-    "canonical_name": "no_catalyst"
+    "canonical_catalyst_name": "blank",
+    "canonical_catalyst_family": "no catalyst",
+    "canonical_aliases": [
+      "no catalyst"
+    ],
+    "canonical_name": "no catalyst"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107519:C1",
-    "canonical_name": "RuNi/N-doped-carbon-nanofibers"
+    "uid": "catalyst:10.1016_j.fuproc.2017.02.005:C1",
+    "canonical_catalyst_name": "sulfided NiMo/γ-Al2O3",
+    "canonical_catalyst_family": "NiMo/Al2O3",
+    "canonical_aliases": [
+      "NiMo/γ-Al2O3"
+    ],
+    "canonical_name": "NiMo/Al2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2015.01.003:C1",
-    "canonical_name": "MnNaW/SiO2"
+    "canonical_catalyst_name": "Mn–Na2WO4/SiO2",
+    "canonical_catalyst_family": "Mn–Na2WO4/SiO2",
+    "canonical_aliases": [
+      "Mn-Na2WO4/SiO2 without MCl"
+    ],
+    "canonical_name": "Mn–Na2WO4/SiO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2015.01.003:C2",
-    "canonical_name": "LiClMnNaW/SiO2"
+    "canonical_catalyst_name": "LiCl–Mn–Na2WO4/SiO2",
+    "canonical_catalyst_family": "MCl–Mn–Na2WO4/SiO2",
+    "canonical_aliases": [
+      "MCl–Mn–Na2WO4/SiO2 (M=Li)"
+    ],
+    "canonical_name": "MCl–Mn–Na2WO4/SiO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2015.01.003:C3",
-    "canonical_name": "NaClMnNaW/SiO2"
+    "canonical_catalyst_name": "NaCl–Mn–Na2WO4/SiO2",
+    "canonical_catalyst_family": "MCl–Mn–Na2WO4/SiO2",
+    "canonical_aliases": [
+      "MCl–Mn–Na2WO4/SiO2 (M=Na)"
+    ],
+    "canonical_name": "MCl–Mn–Na2WO4/SiO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2015.01.003:C4",
-    "canonical_name": "KClMnNaW/SiO2"
+    "canonical_catalyst_name": "KCl–Mn–Na2WO4/SiO2",
+    "canonical_catalyst_family": "MCl–Mn–Na2WO4/SiO2",
+    "canonical_aliases": [
+      "MCl–Mn–Na2WO4/SiO2 (M=K)"
+    ],
+    "canonical_name": "MCl–Mn–Na2WO4/SiO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2015.01.003:C5",
-    "canonical_name": "CsClMnNaW/SiO2"
+    "canonical_catalyst_name": "CsCl–Mn–Na2WO4/SiO2",
+    "canonical_catalyst_family": "MCl–Mn–Na2WO4/SiO2",
+    "canonical_aliases": [
+      "MCl–Mn–Na2WO4/SiO2 (M=Cs)"
+    ],
+    "canonical_name": "MCl–Mn–Na2WO4/SiO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2015.01.003:C6",
-    "canonical_name": "NaClKClMnNaW/SiO2"
+    "canonical_catalyst_name": "(NaCl+KCl)–Mn–Na2WO4/SiO2",
+    "canonical_catalyst_family": "MCl–Mn–Na2WO4/SiO2",
+    "canonical_aliases": [
+      "equimolar (NaCl+KCl)–Mn–Na2WO4/SiO2"
+    ],
+    "canonical_name": "MCl–Mn–Na2WO4/SiO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2015.01.003:C7",
-    "canonical_name": "NaClMn/SiO2"
+    "canonical_catalyst_name": "NaCl–Mn/SiO2",
+    "canonical_catalyst_family": "Mn/SiO2",
+    "canonical_aliases": [],
+    "canonical_name": "Mn/SiO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2015.01.003:C8",
+    "canonical_catalyst_name": "Mn/SiO2",
+    "canonical_catalyst_family": "Mn/SiO2",
+    "canonical_aliases": [],
     "canonical_name": "Mn/SiO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2020.106388:C1",
+    "canonical_catalyst_name": "Fe/attapulgite",
+    "canonical_catalyst_family": "Fe/attapulgite",
+    "canonical_aliases": [
+      "Fe/AP"
+    ],
     "canonical_name": "Fe/attapulgite"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2020.106388:C2",
+    "canonical_catalyst_name": "Ni/attapulgite",
+    "canonical_catalyst_family": "Ni/attapulgite",
+    "canonical_aliases": [
+      "Ni/AP"
+    ],
     "canonical_name": "Ni/attapulgite"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2020.106388:C3",
-    "canonical_name": "FeNi/attapulgite"
+    "canonical_catalyst_name": "Fe-Ni/attapulgite (Fe:Ni = 2:1)",
+    "canonical_catalyst_family": "Fe-Ni/attapulgite",
+    "canonical_aliases": [
+      "Fe-Ni/AP",
+      "Fe-Ni/AP (Fe:Ni = 2:1)"
+    ],
+    "canonical_name": "Fe-Ni/attapulgite"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2020.106388:C4",
-    "canonical_name": "FeNiS/attapulgite"
+    "canonical_catalyst_name": "Fe-Ni-S/attapulgite (Fe:Ni = 2:1)",
+    "canonical_catalyst_family": "Fe-Ni-S/attapulgite",
+    "canonical_aliases": [
+      "Fe-Ni-S/AP",
+      "Fe-Ni-S/AP (Fe:Ni = 2:1)"
+    ],
+    "canonical_name": "Fe-Ni-S/attapulgite"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2020.106388:C5",
-    "canonical_name": "FeNiS/activated-carbon"
+    "canonical_catalyst_name": "Fe-Ni-S/activated carbon",
+    "canonical_catalyst_family": "Fe-Ni-S/activated carbon",
+    "canonical_aliases": [
+      "Fe-Ni-S/AC"
+    ],
+    "canonical_name": "Fe-Ni-S/activated carbon"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2020.106388:C6",
-    "canonical_name": "FeNiS/mordenite"
+    "canonical_catalyst_name": "Fe-Ni-S/mordenite",
+    "canonical_catalyst_family": "Fe-Ni-S/mordenite",
+    "canonical_aliases": [],
+    "canonical_name": "Fe-Ni-S/mordenite"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2020.106388:C7",
-    "canonical_name": "FeNiS/ZSM-5"
+    "canonical_catalyst_name": "Fe-Ni-S/ZSM-5",
+    "canonical_catalyst_family": "Fe-Ni-S/ZSM-5",
+    "canonical_aliases": [],
+    "canonical_name": "Fe-Ni-S/ZSM-5"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2020.106388:C8",
-    "canonical_name": "FeNiS/Al2O3"
+    "canonical_catalyst_name": "Fe-Ni-S/γ-Al2O3",
+    "canonical_catalyst_family": "Fe-Ni-S/Al2O3",
+    "canonical_aliases": [],
+    "canonical_name": "Fe-Ni-S/Al2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2020.106388:C9",
-    "canonical_name": "FeS/attapulgite"
+    "canonical_catalyst_name": "Fe-S/attapulgite",
+    "canonical_catalyst_family": "Fe-S/attapulgite",
+    "canonical_aliases": [
+      "Fe-S/AP"
+    ],
+    "canonical_name": "Fe-S/attapulgite"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2020.106388:C10",
-    "canonical_name": "NiS/attapulgite"
+    "canonical_catalyst_name": "Ni-S/attapulgite",
+    "canonical_catalyst_family": "Ni-S/attapulgite",
+    "canonical_aliases": [
+      "Ni-S/AP"
+    ],
+    "canonical_name": "Ni-S/attapulgite"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2020.106388:C11",
+    "canonical_catalyst_name": "attapulgite",
+    "canonical_catalyst_family": "attapulgite",
+    "canonical_aliases": [
+      "AP",
+      "attapulgite powder"
+    ],
     "canonical_name": "attapulgite"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2017.02.005:C1",
-    "canonical_name": "NiMo/Al2O3"
+    "uid": "catalyst:10.1016_j.fuproc.2014.05.024:C1",
+    "canonical_catalyst_name": "Amberlyst 70",
+    "canonical_catalyst_family": "Amberlyst resin",
+    "canonical_aliases": [
+      "solid acid resin"
+    ],
+    "canonical_name": "Amberlyst resin"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2020.106409:C1",
-    "canonical_name": "KOH-coal-char"
+    "canonical_catalyst_name": "KOH/coal",
+    "canonical_catalyst_family": "KOH/coal",
+    "canonical_aliases": [
+      "RC-K",
+      "KOH-loaded coal"
+    ],
+    "canonical_name": "KOH/coal"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2020.106409:C2",
-    "canonical_name": "KOH-coal-coke-char"
+    "canonical_catalyst_name": "KOH/coal coke",
+    "canonical_catalyst_family": "KOH/coal coke",
+    "canonical_aliases": [
+      "CC-K",
+      "KOH-loaded coal coke"
+    ],
+    "canonical_name": "KOH/coal coke"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2020.106409:C3",
-    "canonical_name": "coal-char"
+    "canonical_catalyst_name": "raw coal",
+    "canonical_catalyst_family": "raw coal",
+    "canonical_aliases": [
+      "RC"
+    ],
+    "canonical_name": "raw coal"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2020.106409:C4",
-    "canonical_name": "coal-coke-char"
+    "canonical_catalyst_name": "coal coke",
+    "canonical_catalyst_family": "coal coke",
+    "canonical_aliases": [
+      "CC"
+    ],
+    "canonical_name": "coal coke"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.106248:C1",
-    "canonical_name": "no_catalyst"
+    "canonical_catalyst_name": "no catalyst",
+    "canonical_catalyst_family": "no catalyst",
+    "canonical_aliases": [
+      "absence of catalyst"
+    ],
+    "canonical_name": "no catalyst"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.106248:C2",
+    "canonical_catalyst_name": "CeO2-ZrO2",
+    "canonical_catalyst_family": "CeO2-ZrO2",
+    "canonical_aliases": [],
     "canonical_name": "CeO2-ZrO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.106248:C3",
+    "canonical_catalyst_name": "Ni/CeO2-ZrO2-red",
+    "canonical_catalyst_family": "Ni/CeO2-ZrO2",
+    "canonical_aliases": [
+      "10%Ni/CeO2-ZrO2-red"
+    ],
     "canonical_name": "Ni/CeO2-ZrO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.106248:C4",
+    "canonical_catalyst_name": "Ni/CeO2-ZrO2-imp",
+    "canonical_catalyst_family": "Ni/CeO2-ZrO2",
+    "canonical_aliases": [
+      "10%Ni/CeO2-ZrO2-imp"
+    ],
     "canonical_name": "Ni/CeO2-ZrO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.106248:C5",
+    "canonical_catalyst_name": "Ni/CeO2-ZrO2 (impregnated, reduced)",
+    "canonical_catalyst_family": "Ni/CeO2-ZrO2",
+    "canonical_aliases": [
+      "10%Ni/CeO2-ZrO2-imp-red"
+    ],
     "canonical_name": "Ni/CeO2-ZrO2"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2013.11.018:C1",
-    "canonical_name": "Na2ZrO3"
+    "uid": "catalyst:10.1016_s0378-3820(00)00138-7:C1",
+    "canonical_catalyst_name": "Ni-Al coprecipitate",
+    "canonical_catalyst_family": "Ni-Al mixed oxide",
+    "canonical_aliases": [
+      "Ni/Al coprecipitated catalyst",
+      "Ni-Al coprecipitated catalyst"
+    ],
+    "canonical_name": "Ni-Al mixed oxide"
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(00)00138-7:C2",
+    "canonical_catalyst_name": "no catalyst",
+    "canonical_catalyst_family": "no catalyst",
+    "canonical_aliases": [
+      "without catalyst",
+      "non-catalytic CO2 gasification"
+    ],
+    "canonical_name": "no catalyst"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.05.027:C1",
+    "canonical_catalyst_name": "alkali-Co doped MoS2/SiC",
+    "canonical_catalyst_family": "alkali-Co doped MoS2",
+    "canonical_aliases": [
+      "catalyst I"
+    ],
+    "canonical_name": "alkali-Co doped MoS2"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2006.10.001:C1",
+    "canonical_catalyst_name": "nanoscale HZSM-5/γ-Al2O3",
+    "canonical_catalyst_family": "nanoscale HZSM-5/γ-Al2O3",
+    "canonical_aliases": [
+      "parent nanoscale HZSM-5 catalyst",
+      "Catalyst A"
+    ],
+    "canonical_name": "nanoscale HZSM-5/γ-Al2O3"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2006.10.001:C2",
+    "canonical_catalyst_name": "hydrothermally modified nanoscale HZSM-5/γ-Al2O3",
+    "canonical_catalyst_family": "nanoscale HZSM-5/γ-Al2O3",
+    "canonical_aliases": [
+      "Catalyst B"
+    ],
+    "canonical_name": "nanoscale HZSM-5/γ-Al2O3"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2006.10.001:C3",
+    "canonical_catalyst_name": "nanoscale HZSM-5/γ-Al2O3 (hydrothermally treated, 400°C)",
+    "canonical_catalyst_family": "nanoscale HZSM-5/γ-Al2O3",
+    "canonical_aliases": [
+      "Catalyst C",
+      "modified nanoscale ZSM-5 catalyst hydrothermally treated at 400°C"
+    ],
+    "canonical_name": "nanoscale HZSM-5/γ-Al2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.02.017:C1",
+    "canonical_catalyst_name": "CuCo/CNT (reduced)",
+    "canonical_catalyst_family": "CuCo/CNT",
+    "canonical_aliases": [
+      "CuCo-R"
+    ],
     "canonical_name": "CuCo/CNT"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.02.017:C2",
+    "canonical_catalyst_name": "Cu/CNT (reduced)",
+    "canonical_catalyst_family": "Cu/CNT",
+    "canonical_aliases": [
+      "Cu-R"
+    ],
     "canonical_name": "Cu/CNT"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.02.017:C3",
+    "canonical_catalyst_name": "Co/CNT (reduced)",
+    "canonical_catalyst_family": "Co/CNT",
+    "canonical_aliases": [
+      "Co-R"
+    ],
     "canonical_name": "Co/CNT"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.02.017:C4",
+    "canonical_catalyst_name": "CuCo/CNT (calcined)",
+    "canonical_catalyst_family": "CuCo/CNT",
+    "canonical_aliases": [
+      "CuCo-C"
+    ],
     "canonical_name": "CuCo/CNT"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.02.017:C5",
-    "canonical_name": "no_catalyst"
-  },
-  {
-    "uid": "catalyst:10.1016_s0378-3820(00)00138-7:C1",
-    "canonical_name": "NiAl-oxide"
-  },
-  {
-    "uid": "catalyst:10.1016_s0378-3820(00)00138-7:C2",
-    "canonical_name": "no_catalyst"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2006.10.001:C1",
-    "canonical_name": "HZSM-5"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2006.10.001:C2",
-    "canonical_name": "HZSM-5"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2006.10.001:C3",
-    "canonical_name": "HZSM-5"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2016.05.027:C1",
-    "canonical_name": "CoMo-sulfide/SiC"
+    "canonical_catalyst_name": "no catalyst",
+    "canonical_catalyst_family": "no catalyst",
+    "canonical_aliases": [
+      "blank test without catalyst"
+    ],
+    "canonical_name": "no catalyst"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2010.09.036:C1",
-    "canonical_name": "FeOx"
+    "canonical_catalyst_name": "FeOx",
+    "canonical_catalyst_family": "FeOx-based mixed oxide",
+    "canonical_aliases": [],
+    "canonical_name": "FeOx-based mixed oxide"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2010.09.036:C2",
-    "canonical_name": "AlZrFeOx"
+    "canonical_catalyst_name": "Zr(10)-Al(7)-FeOx",
+    "canonical_catalyst_family": "FeOx-based mixed oxide",
+    "canonical_aliases": [],
+    "canonical_name": "FeOx-based mixed oxide"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2010.09.036:C3",
-    "canonical_name": "AlCeZrFeOx"
+    "canonical_catalyst_name": "Ce(2.5)-Zr(7.5)-Al(7)-FeOx",
+    "canonical_catalyst_family": "FeOx-based mixed oxide",
+    "canonical_aliases": [],
+    "canonical_name": "FeOx-based mixed oxide"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2010.09.036:C4",
-    "canonical_name": "AlCeZrFeOx"
+    "canonical_catalyst_name": "Ce(10)-Zr(10)-Al(20)-FeOx",
+    "canonical_catalyst_family": "FeOx-based mixed oxide",
+    "canonical_aliases": [],
+    "canonical_name": "FeOx-based mixed oxide"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2016.12.015:C1",
-    "canonical_name": "Ni/Al2O3"
+    "uid": "catalyst:10.1016_s0378-3820(96)01047-8:C1",
+    "canonical_catalyst_name": "tetralin",
+    "canonical_catalyst_family": "tetralin-based fuel",
+    "canonical_aliases": [],
+    "canonical_name": "tetralin-based fuel"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2016.12.015:C2",
-    "canonical_name": "NiRu/Al2O3"
+    "uid": "catalyst:10.1016_s0378-3820(96)01047-8:C2",
+    "canonical_catalyst_name": "tetralin-ethanol mixture",
+    "canonical_catalyst_family": "tetralin-alcohol mixture",
+    "canonical_aliases": [
+      "binary tetralin-ethanol mixture",
+      "tetralin(83%)+ethanol(17%)",
+      "tetralin(60%)+ethanol(40%)"
+    ],
+    "canonical_name": "tetralin-alcohol mixture"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2016.12.015:C3",
-    "canonical_name": "Ni/Al2O3-cordierite"
+    "uid": "catalyst:10.1016_s0378-3820(96)01047-8:C3",
+    "canonical_catalyst_name": "tetralin-methanol mixture",
+    "canonical_catalyst_family": "tetralin-alcohol mixture",
+    "canonical_aliases": [
+      "binary tetralin-methanol mixture",
+      "tetralin(83%)+methanol(17%)"
+    ],
+    "canonical_name": "tetralin-alcohol mixture"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2016.12.015:C4",
-    "canonical_name": "NiRu/Al2O3-cordierite"
+    "uid": "catalyst:10.1016_s0378-3820(96)01047-8:C4",
+    "canonical_catalyst_name": "tetralin-THF mixture",
+    "canonical_catalyst_family": "tetralin-solvent mixture",
+    "canonical_aliases": [
+      "binary tetralin-THF mixture",
+      "tetralin(83%)+THF(17%)"
+    ],
+    "canonical_name": "tetralin-solvent mixture"
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(96)01047-8:C5",
+    "canonical_catalyst_name": "ethanol",
+    "canonical_catalyst_family": "ethanol",
+    "canonical_aliases": [
+      "ethanol alone"
+    ],
+    "canonical_name": "ethanol"
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(96)01047-8:C6",
+    "canonical_catalyst_name": "methanol",
+    "canonical_catalyst_family": "methanol",
+    "canonical_aliases": [
+      "methanol alone"
+    ],
+    "canonical_name": "methanol"
+  },
+  {
+    "uid": "catalyst:10.1016_s0378-3820(96)01047-8:C7",
+    "canonical_catalyst_name": "THF",
+    "canonical_catalyst_family": "THF",
+    "canonical_aliases": [
+      "tetrahydrofuran"
+    ],
+    "canonical_name": "THF"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2012.11.004:C1",
+    "canonical_catalyst_name": "HZSM-5",
+    "canonical_catalyst_family": "HZSM-5",
+    "canonical_aliases": [
+      "parent HZSM-5"
+    ],
     "canonical_name": "HZSM-5"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2012.11.004:C2",
+    "canonical_catalyst_name": "steam-treated HZSM-5 (400°C)",
+    "canonical_catalyst_family": "HZSM-5",
+    "canonical_aliases": [
+      "HT400"
+    ],
     "canonical_name": "HZSM-5"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2012.11.004:C3",
+    "canonical_catalyst_name": "steam-treated HZSM-5 (450°C)",
+    "canonical_catalyst_family": "HZSM-5",
+    "canonical_aliases": [
+      "HT450"
+    ],
     "canonical_name": "HZSM-5"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2012.11.004:C4",
+    "canonical_catalyst_name": "steam-treated HZSM-5 (500°C)",
+    "canonical_catalyst_family": "HZSM-5",
+    "canonical_aliases": [
+      "HT500"
+    ],
     "canonical_name": "HZSM-5"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2012.11.004:C5",
+    "canonical_catalyst_name": "steam-treated HZSM-5 (550°C)",
+    "canonical_catalyst_family": "HZSM-5",
+    "canonical_aliases": [
+      "HT550"
+    ],
     "canonical_name": "HZSM-5"
   },
   {
+    "uid": "catalyst:10.1016_j.fuproc.2021.106767:C1",
+    "canonical_catalyst_name": "hemimorphite-HfO2/SiO2",
+    "canonical_catalyst_family": "hemimorphite-HfO2/SiO2",
+    "canonical_aliases": [
+      "HM-HfO2/SiO2"
+    ],
+    "canonical_name": "hemimorphite-HfO2/SiO2"
+  },
+  {
     "uid": "catalyst:10.1016_j.fuproc.2003.10.014:C1",
+    "canonical_catalyst_name": "2.9% Pt/Al2O3",
+    "canonical_catalyst_family": "Pt/Al2O3",
+    "canonical_aliases": [
+      "Pt(10)/Al2O3"
+    ],
     "canonical_name": "Pt/Al2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2003.10.014:C2",
+    "canonical_catalyst_name": "0.3% Pt/Al2O3",
+    "canonical_catalyst_family": "Pt/Al2O3",
+    "canonical_aliases": [
+      "Pt(1)/Al2O3"
+    ],
     "canonical_name": "Pt/Al2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2003.10.014:C3",
+    "canonical_catalyst_name": "0.09% Pt/Al2O3",
+    "canonical_catalyst_family": "Pt/Al2O3",
+    "canonical_aliases": [
+      "Pt(0.3)/Al2O3"
+    ],
     "canonical_name": "Pt/Al2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2003.10.014:C4",
+    "canonical_catalyst_name": "0.03% Pt/Al2O3",
+    "canonical_catalyst_family": "Pt/Al2O3",
+    "canonical_aliases": [
+      "Pt(0.1)/Al2O3"
+    ],
     "canonical_name": "Pt/Al2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2003.10.014:C5",
+    "canonical_catalyst_name": "0.9% Ni/Al2O3",
+    "canonical_catalyst_family": "Ni/Al2O3",
+    "canonical_aliases": [
+      "Ni(10)/Al2O3"
+    ],
     "canonical_name": "Ni/Al2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2003.10.014:C6",
+    "canonical_catalyst_name": "2.7% Ni/Al2O3",
+    "canonical_catalyst_family": "Ni/Al2O3",
+    "canonical_aliases": [
+      "Ni(30)/Al2O3"
+    ],
     "canonical_name": "Ni/Al2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2003.10.014:C7",
+    "canonical_catalyst_name": "Ni/Al2O3",
+    "canonical_catalyst_family": "Ni/Al2O3",
+    "canonical_aliases": [
+      "G-91"
+    ],
     "canonical_name": "Ni/Al2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2003.10.014:C8",
-    "canonical_name": "no_catalyst"
-  },
-  {
-    "uid": "catalyst:10.1016_s0378-3820(96)01047-8:C1",
-    "canonical_name": "no_catalyst"
-  },
-  {
-    "uid": "catalyst:10.1016_s0378-3820(96)01047-8:C2",
-    "canonical_name": "no_catalyst"
-  },
-  {
-    "uid": "catalyst:10.1016_s0378-3820(96)01047-8:C3",
-    "canonical_name": "no_catalyst"
-  },
-  {
-    "uid": "catalyst:10.1016_s0378-3820(96)01047-8:C4",
-    "canonical_name": "no_catalyst"
-  },
-  {
-    "uid": "catalyst:10.1016_s0378-3820(96)01047-8:C5",
-    "canonical_name": "no_catalyst"
-  },
-  {
-    "uid": "catalyst:10.1016_s0378-3820(96)01047-8:C6",
-    "canonical_name": "no_catalyst"
-  },
-  {
-    "uid": "catalyst:10.1016_s0378-3820(96)01047-8:C7",
-    "canonical_name": "no_catalyst"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2021.106767:C1",
-    "canonical_name": "hemimorphite-HfO2/SiO2"
+    "canonical_catalyst_name": "quartz sand",
+    "canonical_catalyst_family": "quartz sand",
+    "canonical_aliases": [],
+    "canonical_name": "quartz sand"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2009.11.003:C1",
+    "canonical_catalyst_name": "sodium silicate calcined at 400°C",
+    "canonical_catalyst_family": "calcined sodium silicate",
+    "canonical_aliases": [
+      "calcined sodium silicate (400°C)"
+    ],
     "canonical_name": "calcined sodium silicate"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2009.11.003:C2",
+    "canonical_catalyst_name": "sodium silicate",
+    "canonical_catalyst_family": "sodium silicate",
+    "canonical_aliases": [
+      "non-calcined sodium silicate"
+    ],
     "canonical_name": "sodium silicate"
   },
   {
+    "uid": "catalyst:10.1016_j.fuproc.2016.12.015:C1",
+    "canonical_catalyst_name": "Ni/γ-Al2O3",
+    "canonical_catalyst_family": "Ni/Al2O3",
+    "canonical_aliases": [
+      "monometallic Ni/γ-Al2O3"
+    ],
+    "canonical_name": "Ni/Al2O3"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.12.015:C2",
+    "canonical_catalyst_name": "Ni-Ru/γ-Al2O3",
+    "canonical_catalyst_family": "Ni-Ru/Al2O3",
+    "canonical_aliases": [
+      "Ru-promoted Ni/γ-Al2O3"
+    ],
+    "canonical_name": "Ni-Ru/Al2O3"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.12.015:C3",
+    "canonical_catalyst_name": "Ni/cordierite monolith",
+    "canonical_catalyst_family": "Ni/cordierite",
+    "canonical_aliases": [
+      "Ni monolith"
+    ],
+    "canonical_name": "Ni/cordierite"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2016.12.015:C4",
+    "canonical_catalyst_name": "Ni-Ru/cordierite monolith",
+    "canonical_catalyst_family": "Ni-Ru/cordierite",
+    "canonical_aliases": [
+      "Ni-Ru monolith"
+    ],
+    "canonical_name": "Ni-Ru/cordierite"
+  },
+  {
     "uid": "catalyst:10.1016_j.fuproc.2009.02.007:C1",
+    "canonical_catalyst_name": "Ni/mayenite",
+    "canonical_catalyst_family": "Ni/mayenite",
+    "canonical_aliases": [
+      "Ni/Ca12Al14O33"
+    ],
     "canonical_name": "Ni/mayenite"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2009.02.007:C2",
+    "canonical_catalyst_name": "mayenite",
+    "canonical_catalyst_family": "mayenite",
+    "canonical_aliases": [
+      "Ca12Al14O33"
+    ],
     "canonical_name": "mayenite"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2009.02.007:C3",
-    "canonical_name": "Ni/CaO-MgO"
+    "canonical_catalyst_name": "Ni/CaOx/MgO1−x",
+    "canonical_catalyst_family": "Ni/CaO-MgO mixed oxide",
+    "canonical_aliases": [
+      "Ni/CaxMgO1−x"
+    ],
+    "canonical_name": "Ni/CaO-MgO mixed oxide"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2009.02.007:C4",
-    "canonical_name": "NiO/mayenite"
+    "canonical_catalyst_name": "NiO/mayenite",
+    "canonical_catalyst_family": "Ni/mayenite",
+    "canonical_aliases": [
+      "NiO/Ca12Al14O33"
+    ],
+    "canonical_name": "Ni/mayenite"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107206:C1",
+    "canonical_catalyst_name": "KOH",
+    "canonical_catalyst_family": "KOH",
+    "canonical_aliases": [
+      "potassium hydroxide"
+    ],
+    "canonical_name": "KOH"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2018.07.014:C1",
+    "canonical_catalyst_name": "Pd/SBA-15",
+    "canonical_catalyst_family": "Pd/SBA-15",
+    "canonical_aliases": [],
     "canonical_name": "Pd/SBA-15"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2018.07.014:C2",
+    "canonical_catalyst_name": "Pd/0.01Zr-SBA-15",
+    "canonical_catalyst_family": "Pd/Zr-SBA-15",
+    "canonical_aliases": [],
     "canonical_name": "Pd/Zr-SBA-15"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2018.07.014:C3",
+    "canonical_catalyst_name": "Pd/0.05Zr-SBA-15",
+    "canonical_catalyst_family": "Pd/Zr-SBA-15",
+    "canonical_aliases": [],
     "canonical_name": "Pd/Zr-SBA-15"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2018.07.014:C4",
+    "canonical_catalyst_name": "Pd/0.07Zr-SBA-15",
+    "canonical_catalyst_family": "Pd/Zr-SBA-15",
+    "canonical_aliases": [],
     "canonical_name": "Pd/Zr-SBA-15"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2018.07.014:C5",
+    "canonical_catalyst_name": "Pd/0.09Zr-SBA-15",
+    "canonical_catalyst_family": "Pd/Zr-SBA-15",
+    "canonical_aliases": [],
     "canonical_name": "Pd/Zr-SBA-15"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2018.07.014:C6",
+    "canonical_catalyst_name": "Pd/0.11Zr-SBA-15",
+    "canonical_catalyst_family": "Pd/Zr-SBA-15",
+    "canonical_aliases": [],
     "canonical_name": "Pd/Zr-SBA-15"
   },
   {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107257:C1",
+    "canonical_catalyst_name": "MIL-53(Cu)-derived@zeolite Y",
+    "canonical_catalyst_family": "MOF-derived Cu composite/zeolite Y",
+    "canonical_aliases": [
+      "MIL-53(Cu) derived@Y zeolite"
+    ],
+    "canonical_name": "MOF-derived Cu composite/zeolite Y"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107478:C1",
+    "canonical_catalyst_name": "anaerobic granular sludge",
+    "canonical_catalyst_family": "anaerobic mixed culture biocatalyst",
+    "canonical_aliases": [
+      "enriched anaerobic mixed cultures"
+    ],
+    "canonical_name": "anaerobic mixed culture biocatalyst"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2014.01.007:C1",
+    "canonical_catalyst_name": "10 wt.% NiO/Ni-Mg-Al mixed oxide (hydrotalcite-derived)",
+    "canonical_catalyst_family": "NiO/Ni-Mg-Al hydrotalcite-derived mixed oxide",
+    "canonical_aliases": [
+      "10NiHT"
+    ],
+    "canonical_name": "NiO/Ni-Mg-Al hydrotalcite-derived mixed oxide"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2014.01.007:C2",
+    "canonical_catalyst_name": "20 wt.% NiO/Ni-Mg-Al mixed oxide (hydrotalcite-derived)",
+    "canonical_catalyst_family": "NiO/Ni-Mg-Al hydrotalcite-derived mixed oxide",
+    "canonical_aliases": [
+      "20NiHT"
+    ],
+    "canonical_name": "NiO/Ni-Mg-Al hydrotalcite-derived mixed oxide"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2014.01.007:C3",
+    "canonical_catalyst_name": "SiC",
+    "canonical_catalyst_family": "SiC",
+    "canonical_aliases": [
+      "silicon carbide"
+    ],
+    "canonical_name": "SiC"
+  },
+  {
     "uid": "catalyst:10.1016_j.fuproc.2022.107512:C1",
+    "canonical_catalyst_name": "HZSM-5",
+    "canonical_catalyst_family": "HZSM-5",
+    "canonical_aliases": [],
     "canonical_name": "HZSM-5"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2022.107512:C2",
+    "canonical_catalyst_name": "Zn/HZSM-5",
+    "canonical_catalyst_family": "Zn/HZSM-5",
+    "canonical_aliases": [],
     "canonical_name": "Zn/HZSM-5"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107206:C1",
-    "canonical_name": "KOH"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107478:C1",
-    "canonical_name": "anaerobic granular sludge"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2014.01.007:C1",
-    "canonical_name": "NiMgAl-oxide"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2014.01.007:C2",
-    "canonical_name": "NiMgAl-oxide"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2014.01.007:C3",
-    "canonical_name": "silicon carbide"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2020.106581:C1",
-    "canonical_name": "NiNd-oxide"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2020.106581:C2",
-    "canonical_name": "NiNd-oxide"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2020.106581:C3",
-    "canonical_name": "NiNd-oxide"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2020.106581:C4",
-    "canonical_name": "NiNd-oxide"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2020.106581:C5",
-    "canonical_name": "NiNd-oxide"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2020.106581:C6",
-    "canonical_name": "Nd2O3"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107257:C1",
-    "canonical_name": "Cu/zeolite-Y"
-  },
-  {
     "uid": "catalyst:10.1016_j.fuproc.2022.107451:C1",
+    "canonical_catalyst_name": "Co-N-COF",
+    "canonical_catalyst_family": "Co-N-COF",
+    "canonical_aliases": [
+      "Co-N-COF electrocatalyst"
+    ],
     "canonical_name": "Co-N-COF"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2022.107451:C2",
+    "canonical_catalyst_name": "N-COF",
+    "canonical_catalyst_family": "N-COF",
+    "canonical_aliases": [],
     "canonical_name": "N-COF"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2021.107159:C1",
+    "canonical_catalyst_name": "OC/Al2O3",
+    "canonical_catalyst_family": "OC/Al2O3",
+    "canonical_aliases": [
+      "oxygen carrier/Al2O3"
+    ],
     "canonical_name": "OC/Al2O3"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2020.106622:C1",
-    "canonical_name": "Ni/biochar"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2020.106622:C2",
-    "canonical_name": "biochar"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2020.106622:C3",
-    "canonical_name": "biochar"
-  },
-  {
     "uid": "catalyst:10.1016_j.fuproc.2022.107426:C1",
+    "canonical_catalyst_name": "Char-500",
+    "canonical_catalyst_family": "oil shale char",
+    "canonical_aliases": [
+      "Char-500/A",
+      "Char-500/S"
+    ],
     "canonical_name": "oil shale char"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2022.107426:C2",
+    "canonical_catalyst_name": "De-Char-500",
+    "canonical_catalyst_family": "demineralized oil shale char",
+    "canonical_aliases": [
+      "De-Char-500/S",
+      "De-Char-500/A"
+    ],
     "canonical_name": "demineralized oil shale char"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2022.107426:C3",
+    "canonical_catalyst_name": "De-Char-600",
+    "canonical_catalyst_family": "demineralized oil shale char",
+    "canonical_aliases": [
+      "De-Char-600/S"
+    ],
     "canonical_name": "demineralized oil shale char"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2022.107426:C4",
+    "canonical_catalyst_name": "De-Char-700",
+    "canonical_catalyst_family": "demineralized oil shale char",
+    "canonical_aliases": [
+      "De-Char-700/S"
+    ],
     "canonical_name": "demineralized oil shale char"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2022.107426:C5",
+    "canonical_catalyst_name": "De-Char-800",
+    "canonical_catalyst_family": "demineralized oil shale char",
+    "canonical_aliases": [
+      "De-Char-800/S"
+    ],
     "canonical_name": "demineralized oil shale char"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2022.107426:C6",
-    "canonical_name": "Oil Shale Ash"
+    "canonical_catalyst_name": "oil shale ash",
+    "canonical_catalyst_family": "oil shale ash",
+    "canonical_aliases": [],
+    "canonical_name": "oil shale ash"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2022.107426:C7",
+    "canonical_catalyst_name": "SiO2",
+    "canonical_catalyst_family": "SiO2",
+    "canonical_aliases": [],
     "canonical_name": "SiO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2022.107426:C8",
-    "canonical_name": "CaO/SiO2"
+    "canonical_catalyst_name": "CaO-SiO2",
+    "canonical_catalyst_family": "CaO-SiO2",
+    "canonical_aliases": [
+      "CaO impregnated quartz sand"
+    ],
+    "canonical_name": "CaO-SiO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2022.107426:C9",
-    "canonical_name": "Fe2O3/SiO2"
+    "canonical_catalyst_name": "Fe2O3-SiO2",
+    "canonical_catalyst_family": "Fe2O3-SiO2",
+    "canonical_aliases": [
+      "Fe2O3 impregnated quartz sand"
+    ],
+    "canonical_name": "Fe2O3-SiO2"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2019.05.033:C1",
-    "canonical_name": "NiAl-oxide"
+    "uid": "catalyst:10.1016_j.fuproc.2020.106581:C1",
+    "canonical_catalyst_name": "Ni1Nd9",
+    "canonical_catalyst_family": "NixNd1-x mixed oxide",
+    "canonical_aliases": [
+      "Ni0.1Nd0.9 mixed oxide"
+    ],
+    "canonical_name": "NixNd1-x mixed oxide"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2019.05.033:C2",
-    "canonical_name": "CuNiAl-oxide"
+    "uid": "catalyst:10.1016_j.fuproc.2020.106581:C2",
+    "canonical_catalyst_name": "Ni3Nd7",
+    "canonical_catalyst_family": "NixNd1-x mixed oxide",
+    "canonical_aliases": [
+      "Ni0.3Nd0.7 mixed oxide"
+    ],
+    "canonical_name": "NixNd1-x mixed oxide"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2019.05.033:C3",
-    "canonical_name": "FeNiAl-oxide"
+    "uid": "catalyst:10.1016_j.fuproc.2020.106581:C3",
+    "canonical_catalyst_name": "Ni5Nd5",
+    "canonical_catalyst_family": "NixNd1-x mixed oxide",
+    "canonical_aliases": [
+      "Ni0.5Nd0.5 mixed oxide"
+    ],
+    "canonical_name": "NixNd1-x mixed oxide"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2019.05.033:C4",
-    "canonical_name": "CoNiAl-oxide"
+    "uid": "catalyst:10.1016_j.fuproc.2020.106581:C4",
+    "canonical_catalyst_name": "Ni7Nd3",
+    "canonical_catalyst_family": "NixNd1-x mixed oxide",
+    "canonical_aliases": [
+      "Ni0.7Nd0.3 mixed oxide"
+    ],
+    "canonical_name": "NixNd1-x mixed oxide"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2019.05.033:C5",
-    "canonical_name": "FeNiAl-oxide"
+    "uid": "catalyst:10.1016_j.fuproc.2020.106581:C5",
+    "canonical_catalyst_name": "Ni9Nd1",
+    "canonical_catalyst_family": "NixNd1-x mixed oxide",
+    "canonical_aliases": [
+      "Ni0.9Nd0.1 mixed oxide"
+    ],
+    "canonical_name": "NixNd1-x mixed oxide"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2019.05.033:C6",
-    "canonical_name": "FeNiAl-oxide"
+    "uid": "catalyst:10.1016_j.fuproc.2020.106581:C6",
+    "canonical_catalyst_name": "Nd2O3",
+    "canonical_catalyst_family": "Nd2O3",
+    "canonical_aliases": [],
+    "canonical_name": "Nd2O3"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2019.05.033:C7",
-    "canonical_name": "FeNiAl-oxide"
+    "uid": "catalyst:10.1016_j.fuproc.2022.107434:C1",
+    "canonical_catalyst_name": "PtCuMn multiple-pin nanoframes/C",
+    "canonical_catalyst_family": "PtCuMn nanoframes/C",
+    "canonical_aliases": [
+      "PtCuMn mp-NFs/C"
+    ],
+    "canonical_name": "PtCuMn nanoframes/C"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2019.05.033:C8",
-    "canonical_name": "FeAl-oxide"
+    "uid": "catalyst:10.1016_j.fuproc.2022.107434:C2",
+    "canonical_catalyst_name": "PtCuMn external branch nanoframes/C",
+    "canonical_catalyst_family": "PtCuMn nanoframes/C",
+    "canonical_aliases": [
+      "PtCuMn eb-NFs/C"
+    ],
+    "canonical_name": "PtCuMn nanoframes/C"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107434:C3",
+    "canonical_catalyst_name": "PtCuMn cube nanoparticles/C",
+    "canonical_catalyst_family": "PtCuMn/C",
+    "canonical_aliases": [
+      "PtCuMn cu-NPs/C"
+    ],
+    "canonical_name": "PtCuMn/C"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107434:C4",
+    "canonical_catalyst_name": "Pt/C",
+    "canonical_catalyst_family": "Pt/C",
+    "canonical_aliases": [],
+    "canonical_name": "Pt/C"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106622:C1",
+    "canonical_catalyst_name": "10 wt% Ni/biochar",
+    "canonical_catalyst_family": "Ni/biochar",
+    "canonical_aliases": [
+      "Ni/biochar"
+    ],
+    "canonical_name": "Ni/biochar"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106622:C2",
+    "canonical_catalyst_name": "biochar",
+    "canonical_catalyst_family": "biochar",
+    "canonical_aliases": [],
+    "canonical_name": "biochar"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106622:C3",
+    "canonical_catalyst_name": "acid-washed biochar",
+    "canonical_catalyst_family": "biochar",
+    "canonical_aliases": [],
+    "canonical_name": "biochar"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.03.031:C1",
+    "canonical_catalyst_name": "NiO/Mo2O3-ZSM-5",
+    "canonical_catalyst_family": "NiO/Mo2O3-ZSM-5",
+    "canonical_aliases": [
+      "NiO-Mo2O3/ZSM-5"
+    ],
+    "canonical_name": "NiO/Mo2O3-ZSM-5"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2018.03.031:C2",
+    "canonical_catalyst_name": "no catalyst",
+    "canonical_catalyst_family": "no catalyst",
+    "canonical_aliases": [],
+    "canonical_name": "no catalyst"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2020.106576:C1",
-    "canonical_name": "LD-slag"
+    "canonical_catalyst_name": "LD slag",
+    "canonical_catalyst_family": "steel slag",
+    "canonical_aliases": [
+      "steel converter slag",
+      "basic oxygen furnace slag"
+    ],
+    "canonical_name": "steel slag"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2020.106576:C2",
+    "canonical_catalyst_name": "ilmenite",
+    "canonical_catalyst_family": "ilmenite",
+    "canonical_aliases": [],
     "canonical_name": "ilmenite"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2020.106576:C3",
-    "canonical_name": "no_catalyst"
+    "canonical_catalyst_name": "sand",
+    "canonical_catalyst_family": "sand",
+    "canonical_aliases": [
+      "silica sand",
+      "sea sand"
+    ],
+    "canonical_name": "sand"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2020.106576:C4",
+    "canonical_catalyst_name": "olivine",
+    "canonical_catalyst_family": "olivine",
+    "canonical_aliases": [],
     "canonical_name": "olivine"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107434:C1",
-    "canonical_name": "PtCuMn/carbon-black"
+    "uid": "catalyst:10.1016_j.fuproc.2019.05.033:C1",
+    "canonical_catalyst_name": "NiAl",
+    "canonical_catalyst_family": "NiAl/ordered mesoporous alumina",
+    "canonical_aliases": [],
+    "canonical_name": "NiAl/ordered mesoporous alumina"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107434:C2",
-    "canonical_name": "PtCuMn/carbon-black"
+    "uid": "catalyst:10.1016_j.fuproc.2019.05.033:C2",
+    "canonical_catalyst_name": "0.5-CuNiAl",
+    "canonical_catalyst_family": "MNiAl/ordered mesoporous alumina",
+    "canonical_aliases": [
+      "CuNiAl"
+    ],
+    "canonical_name": "MNiAl/ordered mesoporous alumina"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107434:C3",
-    "canonical_name": "PtCuMn/carbon-black"
+    "uid": "catalyst:10.1016_j.fuproc.2019.05.033:C3",
+    "canonical_catalyst_name": "0.5-FeNiAl",
+    "canonical_catalyst_family": "MNiAl/ordered mesoporous alumina",
+    "canonical_aliases": [
+      "FeNiAl"
+    ],
+    "canonical_name": "MNiAl/ordered mesoporous alumina"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107434:C4",
-    "canonical_name": "Pt/C"
+    "uid": "catalyst:10.1016_j.fuproc.2019.05.033:C4",
+    "canonical_catalyst_name": "0.5-CoNiAl",
+    "canonical_catalyst_family": "MNiAl/ordered mesoporous alumina",
+    "canonical_aliases": [
+      "CoNiAl"
+    ],
+    "canonical_name": "MNiAl/ordered mesoporous alumina"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.05.033:C5",
+    "canonical_catalyst_name": "0.3-FeNiAl",
+    "canonical_catalyst_family": "FeNiAl/ordered mesoporous alumina",
+    "canonical_aliases": [],
+    "canonical_name": "FeNiAl/ordered mesoporous alumina"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.05.033:C6",
+    "canonical_catalyst_name": "0.7-FeNiAl",
+    "canonical_catalyst_family": "FeNiAl/ordered mesoporous alumina",
+    "canonical_aliases": [],
+    "canonical_name": "FeNiAl/ordered mesoporous alumina"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.05.033:C7",
+    "canonical_catalyst_name": "0.9-FeNiAl",
+    "canonical_catalyst_family": "FeNiAl/ordered mesoporous alumina",
+    "canonical_aliases": [],
+    "canonical_name": "FeNiAl/ordered mesoporous alumina"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2019.05.033:C8",
+    "canonical_catalyst_name": "FeAl",
+    "canonical_catalyst_family": "FeAl/ordered mesoporous alumina",
+    "canonical_aliases": [],
+    "canonical_name": "FeAl/ordered mesoporous alumina"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.106122:C1",
+    "canonical_catalyst_name": "nano-ZSM-5 (SiO2/Al2O3=400)",
+    "canonical_catalyst_family": "HZSM-5",
+    "canonical_aliases": [
+      "ZSM-5 SiO2/Al2O3=400"
+    ],
     "canonical_name": "HZSM-5"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.106122:C2",
+    "canonical_catalyst_name": "nano-ZSM-5 (SiO2/Al2O3=200)",
+    "canonical_catalyst_family": "HZSM-5",
+    "canonical_aliases": [
+      "ZSM-5 SiO2/Al2O3=200"
+    ],
     "canonical_name": "HZSM-5"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.106122:C3",
+    "canonical_catalyst_name": "nano-ZSM-5 (SiO2/Al2O3=100)",
+    "canonical_catalyst_family": "HZSM-5",
+    "canonical_aliases": [
+      "ZSM-5 SiO2/Al2O3=100"
+    ],
     "canonical_name": "HZSM-5"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.106122:C4",
+    "canonical_catalyst_name": "nano-ZSM-5 (SiO2/Al2O3=50)",
+    "canonical_catalyst_family": "HZSM-5",
+    "canonical_aliases": [
+      "ZSM-5 SiO2/Al2O3=50"
+    ],
     "canonical_name": "HZSM-5"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.106122:C5",
+    "canonical_catalyst_name": "nano-ZSM-5 (SiO2/Al2O3=25)",
+    "canonical_catalyst_family": "HZSM-5",
+    "canonical_aliases": [
+      "ZSM-5 SiO2/Al2O3=25"
+    ],
     "canonical_name": "HZSM-5"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2019.106122:C6",
+    "canonical_catalyst_name": "nano-ZSM-5 (Al-free)",
+    "canonical_catalyst_family": "HZSM-5",
+    "canonical_aliases": [
+      "silicalite-1",
+      "nano-ZSM-5 without NaAlO2"
+    ],
     "canonical_name": "HZSM-5"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2022.107415:C1",
+    "canonical_catalyst_name": "nanorod-OMS-2",
+    "canonical_catalyst_family": "OMS-2",
+    "canonical_aliases": [
+      "nanorod cryptomelane",
+      "nanorod octahedral manganese oxide molecular sieve"
+    ],
     "canonical_name": "OMS-2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2022.107415:C2",
-    "canonical_name": "Mo/OMS-2"
+    "canonical_catalyst_name": "2.5 wt% Mo/nanorod-OMS-2",
+    "canonical_catalyst_family": "Mo/nanorod-OMS-2",
+    "canonical_aliases": [
+      "MoOx/nanorod-OMS-2 (2.5 wt% Mo)"
+    ],
+    "canonical_name": "Mo/nanorod-OMS-2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2022.107415:C3",
-    "canonical_name": "Mo/OMS-2"
+    "canonical_catalyst_name": "5 wt% Mo/nanorod-OMS-2",
+    "canonical_catalyst_family": "Mo/nanorod-OMS-2",
+    "canonical_aliases": [
+      "MoOx/nanorod-OMS-2 (5 wt% Mo)"
+    ],
+    "canonical_name": "Mo/nanorod-OMS-2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2022.107415:C4",
-    "canonical_name": "Mo/OMS-2"
+    "canonical_catalyst_name": "7.5 wt% Mo/nanorod-OMS-2",
+    "canonical_catalyst_family": "Mo/nanorod-OMS-2",
+    "canonical_aliases": [
+      "MoOx/nanorod-OMS-2 (7.5 wt% Mo)"
+    ],
+    "canonical_name": "Mo/nanorod-OMS-2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2022.107415:C5",
-    "canonical_name": "Mo/OMS-2"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2018.03.031:C1",
-    "canonical_name": "NiMo/ZSM-5"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2018.03.031:C2",
-    "canonical_name": "no_catalyst"
+    "canonical_catalyst_name": "10 wt% Mo/nanorod-OMS-2",
+    "canonical_catalyst_family": "Mo/nanorod-OMS-2",
+    "canonical_aliases": [
+      "MoOx/nanorod-OMS-2 (10 wt% Mo)"
+    ],
+    "canonical_name": "Mo/nanorod-OMS-2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2006.01.006:C1",
-    "canonical_name": "NiMo/Al2O3"
+    "canonical_catalyst_name": "Ni-Mo/Al2O3",
+    "canonical_catalyst_family": "Ni-Mo/Al2O3",
+    "canonical_aliases": [],
+    "canonical_name": "Ni-Mo/Al2O3"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2022.107418:C1",
-    "canonical_name": "Ni/SiO2"
+    "canonical_catalyst_name": "Ni/SiO2",
+    "canonical_catalyst_family": "Ni/CeO2/SiO2",
+    "canonical_aliases": [
+      "Ni-0Ce"
+    ],
+    "canonical_name": "Ni/CeO2/SiO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2022.107418:C2",
+    "canonical_catalyst_name": "Ni/2.5 wt% CeO2/SiO2",
+    "canonical_catalyst_family": "Ni/CeO2/SiO2",
+    "canonical_aliases": [
+      "Ni-2.5Ce"
+    ],
     "canonical_name": "Ni/CeO2/SiO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2022.107418:C3",
+    "canonical_catalyst_name": "Ni/5 wt% CeO2/SiO2",
+    "canonical_catalyst_family": "Ni/CeO2/SiO2",
+    "canonical_aliases": [
+      "Ni-5Ce"
+    ],
     "canonical_name": "Ni/CeO2/SiO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2022.107418:C4",
+    "canonical_catalyst_name": "Ni/7.5 wt% CeO2/SiO2",
+    "canonical_catalyst_family": "Ni/CeO2/SiO2",
+    "canonical_aliases": [
+      "Ni-7.5Ce"
+    ],
     "canonical_name": "Ni/CeO2/SiO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2022.107418:C5",
-    "canonical_name": "Ni/SiO2"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107418:C6",
+    "canonical_catalyst_name": "Ni/SiO2 (IMP)",
+    "canonical_catalyst_family": "Ni/CeO2/SiO2",
+    "canonical_aliases": [
+      "Ni-0Ce-IMP"
+    ],
     "canonical_name": "Ni/CeO2/SiO2"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C1",
-    "canonical_name": "Fe2O3"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C2",
-    "canonical_name": "EuPW/Fe2O3"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C3",
-    "canonical_name": "GdPW/FeyOx"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C4",
-    "canonical_name": "NdPW/FeyOx"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C5",
-    "canonical_name": "NdPW/FeyOx"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C6",
-    "canonical_name": "NdPW/FeyOx"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C7",
-    "canonical_name": "NdPW/FeyOx"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C8",
-    "canonical_name": "HPW/FeyOx"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C9",
-    "canonical_name": "Nd(NO3)3/FeyOx"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2020.106672:C1",
-    "canonical_name": "ZnFe-oxide/activated carbon"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2020.106672:C2",
-    "canonical_name": "Amberlyst 16"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2020.106672:C3",
-    "canonical_name": "Amberlite IR120"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2020.106672:C4",
-    "canonical_name": "Dowex 50WX2"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107208:C1",
-    "canonical_name": "no_catalyst"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107208:C2",
-    "canonical_name": "Raney-Ni"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107208:C3",
-    "canonical_name": "Mo2C"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107208:C4",
-    "canonical_name": "Mo2C/activated carbon"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107208:C5",
-    "canonical_name": "Mo2C/Al2O3"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C1",
-    "canonical_name": "CuZnAl-alloy"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C2",
-    "canonical_name": "CuZnAl-alloy"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C3",
-    "canonical_name": "CuZnAl-alloy"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C4",
-    "canonical_name": "CuZnAl-alloy"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C5",
-    "canonical_name": "CuZnAl-alloy"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C6",
-    "canonical_name": "Cu"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C7",
-    "canonical_name": "Cu2O"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C8",
-    "canonical_name": "CuO"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C9",
-    "canonical_name": "Raney-Ni"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C10",
-    "canonical_name": "CuAl-alloy"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C11",
-    "canonical_name": "CuZnAl-alloy"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C12",
-    "canonical_name": "CuZnAl-alloy"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C13",
-    "canonical_name": "CuZnAl-alloy"
+    "uid": "catalyst:10.1016_j.fuproc.2022.107418:C6",
+    "canonical_catalyst_name": "Ni/5 wt% CeO2/SiO2 (IMP)",
+    "canonical_catalyst_family": "Ni/CeO2/SiO2",
+    "canonical_aliases": [
+      "Ni-5Ce-IMP"
+    ],
+    "canonical_name": "Ni/CeO2/SiO2"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2012.04.006:C1",
+    "canonical_catalyst_name": "Acidithiobacillus caldus grown on sulfur",
+    "canonical_catalyst_family": "Acidithiobacillus caldus",
+    "canonical_aliases": [
+      "A. caldus (sulfur-grown)"
+    ],
     "canonical_name": "Acidithiobacillus caldus"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2012.04.006:C2",
+    "canonical_catalyst_name": "Acidithiobacillus caldus grown on pyrite",
+    "canonical_catalyst_family": "Acidithiobacillus caldus",
+    "canonical_aliases": [
+      "A. caldus (pyrite-grown)"
+    ],
     "canonical_name": "Acidithiobacillus caldus"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2012.04.006:C3",
+    "canonical_catalyst_name": "Acidithiobacillus caldus cells (coal-grown)",
+    "canonical_catalyst_family": "Acidithiobacillus caldus",
+    "canonical_aliases": [
+      "A. caldus cells (coal-grown)"
+    ],
     "canonical_name": "Acidithiobacillus caldus"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2012.04.006:C4",
+    "canonical_catalyst_name": "Acidithiobacillus caldus cells (thiosulfate-grown)",
+    "canonical_catalyst_family": "Acidithiobacillus caldus",
+    "canonical_aliases": [
+      "A. caldus cells (thiosulfate-grown)"
+    ],
     "canonical_name": "Acidithiobacillus caldus"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2012.04.006:C5",
-    "canonical_name": "no_catalyst"
+    "canonical_catalyst_name": "sterile control (no cells)",
+    "canonical_catalyst_family": "sterile control (no cells)",
+    "canonical_aliases": [],
+    "canonical_name": "sterile control (no cells)"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107472:C1",
-    "canonical_name": "HY"
+    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C1",
+    "canonical_catalyst_name": "FeyOx",
+    "canonical_catalyst_family": "iron oxide",
+    "canonical_aliases": [
+      "iron oxide"
+    ],
+    "canonical_name": "iron oxide"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107472:C2",
-    "canonical_name": "HY"
+    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C2",
+    "canonical_catalyst_name": "EuPW/FeyOx",
+    "canonical_catalyst_family": "LnPW/FeyOx",
+    "canonical_aliases": [
+      "Eu-Keggin tungstophosphorate/FeyOx"
+    ],
+    "canonical_name": "LnPW/FeyOx"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107472:C3",
-    "canonical_name": "Cr-HY"
+    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C3",
+    "canonical_catalyst_name": "GdPW/FeyOx",
+    "canonical_catalyst_family": "LnPW/FeyOx",
+    "canonical_aliases": [
+      "Gd-Keggin tungstophosphorate/FeyOx"
+    ],
+    "canonical_name": "LnPW/FeyOx"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2022.107472:C4",
-    "canonical_name": "HY"
+    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C4",
+    "canonical_catalyst_name": "NdPW/FeyOx",
+    "canonical_catalyst_family": "LnPW/FeyOx",
+    "canonical_aliases": [
+      "Nd-Keggin tungstophosphorate/FeyOx"
+    ],
+    "canonical_name": "LnPW/FeyOx"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2021.106847:C1",
-    "canonical_name": "PTA/ZrO2"
+    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C5",
+    "canonical_catalyst_name": "NdPW/FeyOx(20)",
+    "canonical_catalyst_family": "LnPW/FeyOx",
+    "canonical_aliases": [
+      "20% NdPW/FeyOx"
+    ],
+    "canonical_name": "LnPW/FeyOx"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2021.106847:C2",
-    "canonical_name": "STA/ZrO2"
+    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C6",
+    "canonical_catalyst_name": "NdPW/FeyOx(25)",
+    "canonical_catalyst_family": "LnPW/FeyOx",
+    "canonical_aliases": [
+      "25% NdPW/FeyOx"
+    ],
+    "canonical_name": "LnPW/FeyOx"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2021.106847:C3",
-    "canonical_name": "PMA/ZrO2"
+    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C7",
+    "canonical_catalyst_name": "NdPW/FeyOx(33)",
+    "canonical_catalyst_family": "LnPW/FeyOx",
+    "canonical_aliases": [
+      "33% NdPW/FeyOx"
+    ],
+    "canonical_name": "LnPW/FeyOx"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2021.106847:C4",
-    "canonical_name": "Ru/C"
+    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C8",
+    "canonical_catalyst_name": "HPW/FeyOx",
+    "canonical_catalyst_family": "HPW/FeyOx",
+    "canonical_aliases": [],
+    "canonical_name": "HPW/FeyOx"
   },
   {
-    "uid": "catalyst:10.1016_j.fuproc.2021.106847:C5",
-    "canonical_name": "Rh/C"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2021.106847:C6",
-    "canonical_name": "Pd/C"
-  },
-  {
-    "uid": "catalyst:10.1016_j.fuproc.2021.106847:C7",
-    "canonical_name": "no_catalyst"
+    "uid": "catalyst:10.1016_j.fuproc.2018.06.001:C9",
+    "canonical_catalyst_name": "Nd(NO3)3/FeyOx",
+    "canonical_catalyst_family": "Nd(NO3)3/FeyOx",
+    "canonical_aliases": [],
+    "canonical_name": "Nd(NO3)3/FeyOx"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2013.05.002:C1",
+    "canonical_catalyst_name": "CaO",
+    "canonical_catalyst_family": "CaO",
+    "canonical_aliases": [
+      "lime"
+    ],
     "canonical_name": "CaO"
   },
   {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106672:C1",
+    "canonical_catalyst_name": "ZnO-Fe3O4/AC",
+    "canonical_catalyst_family": "metal oxide/activated carbon composite",
+    "canonical_aliases": [
+      "ZnO-Fe3O4/activated carbon"
+    ],
+    "canonical_name": "metal oxide/activated carbon composite"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106672:C2",
+    "canonical_catalyst_name": "Amberlyst 16",
+    "canonical_catalyst_family": "ion exchange resin",
+    "canonical_aliases": [],
+    "canonical_name": "ion exchange resin"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106672:C3",
+    "canonical_catalyst_name": "Amberlite IR120",
+    "canonical_catalyst_family": "ion exchange resin",
+    "canonical_aliases": [
+      "Amberlite IR120 H resin"
+    ],
+    "canonical_name": "ion exchange resin"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106672:C4",
+    "canonical_catalyst_name": "Dowex 50WX2",
+    "canonical_catalyst_family": "ion exchange resin",
+    "canonical_aliases": [
+      "Dowex 50WX2 50-100(H)"
+    ],
+    "canonical_name": "ion exchange resin"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107472:C1",
+    "canonical_catalyst_name": "HY zeolite",
+    "canonical_catalyst_family": "Y zeolite",
+    "canonical_aliases": [
+      "pristine HY"
+    ],
+    "canonical_name": "Y zeolite"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107472:C2",
+    "canonical_catalyst_name": "deAl-Y zeolite",
+    "canonical_catalyst_family": "dealuminated Y zeolite",
+    "canonical_aliases": [
+      "dealuminized Y zeolite"
+    ],
+    "canonical_name": "dealuminated Y zeolite"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107472:C3",
+    "canonical_catalyst_name": "Cr-deAl-Y zeolite",
+    "canonical_catalyst_family": "Cr-exchanged dealuminated Y zeolite",
+    "canonical_aliases": [
+      "Cr/deAl-Y"
+    ],
+    "canonical_name": "Cr-exchanged dealuminated Y zeolite"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107472:C4",
+    "canonical_catalyst_name": "recycled Y zeolite",
+    "canonical_catalyst_family": "Y zeolite",
+    "canonical_aliases": [
+      "recovered Y zeolite"
+    ],
+    "canonical_name": "Y zeolite"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C1",
+    "canonical_catalyst_name": "CuZnAl-0.5",
+    "canonical_catalyst_family": "CuZnAl etched alloy",
+    "canonical_aliases": [],
+    "canonical_name": "CuZnAl etched alloy"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C2",
+    "canonical_catalyst_name": "CuZnAl-1.5",
+    "canonical_catalyst_family": "CuZnAl etched alloy",
+    "canonical_aliases": [],
+    "canonical_name": "CuZnAl etched alloy"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C3",
+    "canonical_catalyst_name": "CuZnAl-2.5",
+    "canonical_catalyst_family": "CuZnAl etched alloy",
+    "canonical_aliases": [],
+    "canonical_name": "CuZnAl etched alloy"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C4",
+    "canonical_catalyst_name": "CuZnAl-3.5",
+    "canonical_catalyst_family": "CuZnAl etched alloy",
+    "canonical_aliases": [],
+    "canonical_name": "CuZnAl etched alloy"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C5",
+    "canonical_catalyst_name": "unetched CuZnAl alloy",
+    "canonical_catalyst_family": "CuZnAl alloy",
+    "canonical_aliases": [],
+    "canonical_name": "CuZnAl alloy"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C6",
+    "canonical_catalyst_name": "Cu",
+    "canonical_catalyst_family": "Cu",
+    "canonical_aliases": [],
+    "canonical_name": "Cu"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C7",
+    "canonical_catalyst_name": "Cu2O",
+    "canonical_catalyst_family": "copper oxide",
+    "canonical_aliases": [],
+    "canonical_name": "copper oxide"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C8",
+    "canonical_catalyst_name": "CuO",
+    "canonical_catalyst_family": "copper oxide",
+    "canonical_aliases": [],
+    "canonical_name": "copper oxide"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C9",
+    "canonical_catalyst_name": "Raney Ni",
+    "canonical_catalyst_family": "Raney Ni",
+    "canonical_aliases": [],
+    "canonical_name": "Raney Ni"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C10",
+    "canonical_catalyst_name": "CuAl-1.5",
+    "canonical_catalyst_family": "CuAl etched alloy",
+    "canonical_aliases": [],
+    "canonical_name": "CuAl etched alloy"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C11",
+    "canonical_catalyst_name": "CuZnAl-1.5(H2O)",
+    "canonical_catalyst_family": "CuZnAl etched alloy",
+    "canonical_aliases": [],
+    "canonical_name": "CuZnAl etched alloy"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C12",
+    "canonical_catalyst_name": "CuZnAl-1.5(2-PrOH)",
+    "canonical_catalyst_family": "CuZnAl etched alloy",
+    "canonical_aliases": [],
+    "canonical_name": "CuZnAl etched alloy"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107448:C13",
+    "canonical_catalyst_name": "CuZnAl-1.5(EtOH)",
+    "canonical_catalyst_family": "CuZnAl etched alloy",
+    "canonical_aliases": [],
+    "canonical_name": "CuZnAl etched alloy"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107208:C1",
+    "canonical_catalyst_name": "organosolv (no catalyst)",
+    "canonical_catalyst_family": "organosolv (no catalyst)",
+    "canonical_aliases": [
+      "iPrOH organosolv"
+    ],
+    "canonical_name": "organosolv (no catalyst)"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107208:C2",
+    "canonical_catalyst_name": "Raney Ni",
+    "canonical_catalyst_family": "Raney Ni",
+    "canonical_aliases": [
+      "Raney-Ni"
+    ],
+    "canonical_name": "Raney Ni"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107208:C3",
+    "canonical_catalyst_name": "bulk Mo2C",
+    "canonical_catalyst_family": "Mo2C",
+    "canonical_aliases": [
+      "Mo2C"
+    ],
+    "canonical_name": "Mo2C"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107208:C4",
+    "canonical_catalyst_name": "Mo2C/AC",
+    "canonical_catalyst_family": "Mo2C/AC",
+    "canonical_aliases": [
+      "Mo2C/activated carbon"
+    ],
+    "canonical_name": "Mo2C/AC"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2022.107208:C5",
+    "canonical_catalyst_name": "Mo2C/γ-Al2O3",
+    "canonical_catalyst_family": "Mo2C/Al2O3",
+    "canonical_aliases": [
+      "Mo2C/Al2O3"
+    ],
+    "canonical_name": "Mo2C/Al2O3"
+  },
+  {
     "uid": "catalyst:10.1016_j.fuproc.2021.107032:C1",
-    "canonical_name": "Ni/peat-char"
+    "canonical_catalyst_name": "Ni/PC",
+    "canonical_catalyst_family": "Ni/peat char",
+    "canonical_aliases": [],
+    "canonical_name": "Ni/peat char"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2021.107032:C2",
-    "canonical_name": "Ni/peat-char"
+    "canonical_catalyst_name": "Ni/APC",
+    "canonical_catalyst_family": "Ni/peat char",
+    "canonical_aliases": [
+      "Ni/KOH-activated peat char"
+    ],
+    "canonical_name": "Ni/peat char"
   },
   {
     "uid": "catalyst:10.1016_j.fuproc.2021.107032:C3",
-    "canonical_name": "Ni/peat-char"
+    "canonical_catalyst_name": "Ni/CPC",
+    "canonical_catalyst_family": "Ni/peat char",
+    "canonical_aliases": [
+      "Ni/CO2-activated peat char"
+    ],
+    "canonical_name": "Ni/peat char"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106658:C1",
+    "canonical_catalyst_name": "freeze-cast 0.5% Rh/GDC membrane",
+    "canonical_catalyst_family": "Rh/GDC",
+    "canonical_aliases": [
+      "freeze-cast Rh/GDC membrane",
+      "0.5% Rh/GDC monolithic membrane"
+    ],
+    "canonical_name": "Rh/GDC"
+  },
+  {
+    "uid": "catalyst:10.1016_j.fuproc.2020.106658:C2",
+    "canonical_catalyst_name": "Rh/GDC pellets",
+    "canonical_catalyst_family": "Rh/GDC",
+    "canonical_aliases": [
+      "pelleted Rh/GDC"
+    ],
+    "canonical_name": "Rh/GDC"
   }
 ]

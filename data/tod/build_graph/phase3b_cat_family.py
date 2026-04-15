@@ -286,6 +286,10 @@ def _sanitize_canonical_name(canonical: str, node: dict) -> str:
     if not canonical:
         canonical = _rule_normalize(node)
 
+    # 将各种 no-catalyst 变体统一归到 "no_catalyst"
+    if canonical.strip().lower() in {"no catalyst", "no-catalyst", "no_catalyst", "blank", "non-catalytic control", "no-catalyst blank"}:
+        return "no_catalyst"
+
     if canonical.lower() in _GENERIC_CARBON_LABELS and "carbon_based" not in node.get("labels_material_platform", []):
         return _rule_normalize(node)
 
@@ -365,22 +369,32 @@ def build_catalyst_families(instance_nodes: list[dict]) -> tuple[list[dict], lis
 
     _export_for_llm(cat_nodes, CAT_NAMES_FOR_LLM)
 
-    uid_to_canonical = {}
+    uid_to_family = {}   # canonical_catalyst_family —— 用于聚类（宽）
+    uid_to_name = {}     # canonical_catalyst_name —— 更细粒度的名字
+    uid_to_aliases = {}  # canonical_aliases
     if os.path.exists(CAT_FAMILY_RESULT):
         with open(CAT_FAMILY_RESULT, "r", encoding="utf-8") as f:
             llm_results = json.load(f)
         for item in llm_results:
-            uid_to_canonical[item["uid"]] = item.get("canonical_name", "")
-        print(f"  使用 LLM 归一化结果: {len(uid_to_canonical)} 条")
+            fam = (item.get("canonical_catalyst_family")
+                   or item.get("canonical_name", "")
+                   or "").strip()
+            nm = (item.get("canonical_catalyst_name") or fam or "").strip()
+            uid_to_family[item["uid"]] = fam
+            uid_to_name[item["uid"]] = nm
+            uid_to_aliases[item["uid"]] = item.get("canonical_aliases", [])
+        print(f"  使用 LLM 归一化结果: {len(uid_to_family)} 条")
     else:
         print("  LLM 结果文件不存在，使用规则 fallback")
         print(f"  已导出 LLM 输入: {CAT_NAMES_FOR_LLM}")
 
     clusters = defaultdict(list)
+    member_name_map = {}  # uid -> canonical_catalyst_name
     for c in cat_nodes:
-        provisional = uid_to_canonical.get(c["uid"], "") or _rule_normalize(c)
+        provisional = uid_to_family.get(c["uid"], "") or _rule_normalize(c)
         canonical = _sanitize_canonical_name(provisional, c)
         clusters[canonical].append(c)
+        member_name_map[c["uid"]] = uid_to_name.get(c["uid"], "") or canonical
 
     family_nodes = []
     edges = []
@@ -400,10 +414,29 @@ def build_catalyst_families(instance_nodes: list[dict]) -> tuple[list[dict], lis
                 if site:
                     site_counts[site] += 1
 
+        # 汇总该家族下所有成员的 canonical_catalyst_name（去重、有序）
+        member_canonical_names = []
+        seen_names = set()
+        for m in members:
+            nm = member_name_map.get(m["uid"], "")
+            if nm and nm not in seen_names:
+                seen_names.add(nm)
+                member_canonical_names.append(nm)
+
+        # 汇总 aliases
+        all_aliases = set()
+        for m in members:
+            for a in uid_to_aliases.get(m["uid"], []):
+                if a and a.strip():
+                    all_aliases.add(a.strip())
+
         family_nodes.append({
             "uid": f_uid,
             "node_type": "CatalystFamily",
-            "canonical_name": canonical,
+            "canonical_name": canonical,  # = canonical_catalyst_family
+            "canonical_catalyst_family": canonical,
+            "member_canonical_names": member_canonical_names,
+            "canonical_aliases": sorted(all_aliases),
             "instance_count": len(members),
             "member_uids": [m["uid"] for m in members],
             "dominant_material_platform": [p for p, _ in platform_counts.most_common(3)],

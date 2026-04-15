@@ -1,0 +1,2816 @@
+[
+  {
+    "uid": "reaction:10.1016_j.fuproc.2008.09.005:R1",
+    "reaction_name_reported": "simultaneous desulfurization and denitrification",
+    "reaction_domain": "plasma_catalysis",
+    "reaction_class": "environmental_remediation",
+    "reaction_family": [
+      "VOC_oxidation"
+    ],
+    "transformation": "SO2 and NOx oxidation to sulfate and nitrates",
+    "reactants": [
+      "SO2",
+      "NOx"
+    ],
+    "target_products": [
+      "sulfate",
+      "nitrates"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2010.08.003:R1",
+    "reaction_name_reported": "glycerol steam reforming",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "SMR"
+    ],
+    "transformation": "glycerol + water → hydrogen + carbon oxides + methane",
+    "reactants": [
+      "glycerol",
+      "water"
+    ],
+    "target_products": [
+      "hydrogen"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2011.08.022:R1",
+    "reaction_name_reported": "desulfurization during combustion of hard coal",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "sulfur_and_halogen_chemistry",
+    "reaction_family": [
+      "VOC_oxidation"
+    ],
+    "transformation": "SO2 removal from flue gases",
+    "reactants": [
+      "hard coal",
+      "air"
+    ],
+    "target_products": [
+      "reduced SO2 emissions"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2016.08.019:R1",
+    "reaction_name_reported": "catalytic steam reforming of kerosene",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "SMR"
+    ],
+    "transformation": "kerosene + water → hydrogen + carbon monoxide + light hydrocarbons",
+    "reactants": [
+      "kerosene",
+      "water"
+    ],
+    "target_products": [
+      "hydrogen",
+      "carbon monoxide",
+      "light hydrocarbons"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2016.08.019:R2",
+    "reaction_name_reported": "thermal cracking of kerosene",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "cracking",
+    "reaction_family": [],
+    "transformation": "kerosene → smaller hydrocarbons + coke",
+    "reactants": [
+      "kerosene"
+    ],
+    "target_products": [
+      "smaller hydrocarbons",
+      "coke"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2017.07.013:R1",
+    "reaction_name_reported": "hydro-liquefaction of rice stalk in supercritical ethanol with in situ generated hydrogen",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "rice stalk → bio-crude oil",
+    "reactants": [
+      "rice stalk",
+      "ethanol"
+    ],
+    "target_products": [
+      "bio-crude oil"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2004.12.001:R1",
+    "reaction_name_reported": "Fischer–Tropsch synthesis",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "synthesis_from_syngas",
+    "reaction_family": [
+      "Fischer–Tropsch"
+    ],
+    "transformation": "CO hydrogenation to hydrocarbons",
+    "reactants": [
+      "CO",
+      "H2"
+    ],
+    "target_products": [
+      "C5+ hydrocarbons"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106585:R1",
+    "reaction_name_reported": "ketonization of xylose",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "xylose to mono-functional ketones",
+    "reactants": [
+      "xylose"
+    ],
+    "target_products": [
+      "acetone",
+      "2-butanone",
+      "3-pentanone"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106487:R1",
+    "reaction_name_reported": "chemical looping hydrogen",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "hydrogenation",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "Fe2O3/Fe3O4 + H2/CO → FeO + H2O/CO2; FeO + H2/CO → Fe + H2O/CO2; 3Fe + 4H2O → Fe3O4 + 4H2",
+    "reactants": [
+      "Fe2O3/Fe3O4",
+      "H2/CO",
+      "H2O"
+    ],
+    "target_products": [
+      "H2"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2007.08.004:R1",
+    "reaction_name_reported": "mercury oxidation and capture",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "environmental_remediation",
+    "reaction_family": [
+      "VOC_oxidation"
+    ],
+    "transformation": "Hg0 to HgCl2 and removal from flue gas",
+    "reactants": [
+      "Hg0",
+      "HCl"
+    ],
+    "target_products": [
+      "HgCl2",
+      "removed mercury"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.01.002:R1",
+    "reaction_name_reported": "biomass gasification",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "reforming_and_shift"
+    ],
+    "transformation": "pine (biomass) → syngas (H2, CO, CH4, CO2) with tar cracking",
+    "reactants": [
+      "pine",
+      "air",
+      "steam"
+    ],
+    "target_products": [
+      "syngas"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_s0378-3820(97)00023-4:R1",
+    "reaction_name_reported": "oil biodesulfurization",
+    "reaction_domain": "immobilized_biocatalysis",
+    "reaction_class": "sulfur_and_halogen_chemistry",
+    "reaction_family": [
+      "HDS"
+    ],
+    "transformation": "desulfurization of organic sulfur compounds in oil",
+    "reactants": [
+      "organic sulfur compounds",
+      "dibenzothiophene"
+    ],
+    "target_products": [
+      "desulfurized oil"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2004.10.008:R1",
+    "reaction_name_reported": "higher alcohol synthesis",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "synthesis_from_syngas",
+    "reaction_family": [
+      "Fischer–Tropsch"
+    ],
+    "transformation": "syngas (H2/CO) to higher alcohols",
+    "reactants": [
+      "H2",
+      "CO"
+    ],
+    "target_products": [
+      "C2+ alcohols"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2016.05.014:R1",
+    "reaction_name_reported": "hydrotreatment of bio-oil",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "bio-oil upgrading to lighter products",
+    "reactants": [
+      "bio-oil",
+      "hydrogen"
+    ],
+    "target_products": [
+      "lighter products"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.10.012:R1",
+    "reaction_name_reported": "biomass gasification for tar-free synthesis gas production",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "biomass to synthesis gas with tar cracking",
+    "reactants": [
+      "biomass"
+    ],
+    "target_products": [
+      "synthesis gas",
+      "tar-free gas"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_s0378-3820(03)00071-7:R1",
+    "reaction_name_reported": "etherification of C6 olefins with methanol",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "acid_base_catalysis",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "C6 olefins + methanol → hexyl methyl ether (HME)",
+    "reactants": [
+      "C6 olefins (2,3-dimethyl-1-butene, 2,3-dimethyl-2-butene)",
+      "methanol"
+    ],
+    "target_products": [
+      "hexyl methyl ether (HME)"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_s0378-3820(03)00071-7:R2",
+    "reaction_name_reported": "etherification of C8 olefins with methanol",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "acid_base_catalysis",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "C8 olefins + methanol → octyl methyl ether (OME)",
+    "reactants": [
+      "C8 olefins (2,4,4-trimethyl-1-pentene, 2,4,4-trimethyl-2-pentene)",
+      "methanol"
+    ],
+    "target_products": [
+      "octyl methyl ether (OME)"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107475:R1",
+    "reaction_name_reported": "Calcium Assisted Steel-mill Off-gas Hydrogen (CASOH)",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "WGS"
+    ],
+    "transformation": "BFG (blast furnace gas) to H2-rich stream",
+    "reactants": [
+      "BFG",
+      "steam"
+    ],
+    "target_products": [
+      "H2-rich stream"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107475:R2",
+    "reaction_name_reported": "Cu oxidation",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "oxidation",
+    "reaction_family": [],
+    "transformation": "Cu to CuO",
+    "reactants": [
+      "Cu",
+      "O2"
+    ],
+    "target_products": [
+      "CuO"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107475:R3",
+    "reaction_name_reported": "Regeneration of carbonated Ca-based sorbent",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "carbon_oxide_conversion",
+    "reaction_family": [],
+    "transformation": "CaCO3 to CaO and CO2",
+    "reactants": [
+      "CaCO3"
+    ],
+    "target_products": [
+      "CaO",
+      "CO2"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.04.021:R1",
+    "reaction_name_reported": "carbon deposition",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "carbon_oxide_conversion",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "C6-hydrocarbons to carbon deposits",
+    "reactants": [
+      "n-hexane",
+      "1-hexene",
+      "cyclohexane",
+      "benzene"
+    ],
+    "target_products": [
+      "carbon nanofibers"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_0378-3820(79)90016-x:R1",
+    "reaction_name_reported": "ring hydrogenation",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "hydrogenation",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "1-methylnaphthalene to methyltetralins",
+    "reactants": [
+      "1-methylnaphthalene",
+      "H2"
+    ],
+    "target_products": [
+      "methyltetralins"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_0378-3820(79)90016-x:R2",
+    "reaction_name_reported": "hydrodemethylation (HDM)",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "hydrogenolysis",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "1-methylnaphthalene to naphthalene",
+    "reactants": [
+      "1-methylnaphthalene",
+      "H2"
+    ],
+    "target_products": [
+      "naphthalene",
+      "CH4"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_0378-3820(79)90016-x:R3",
+    "reaction_name_reported": "ring hydrocracking",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "hydrocracking_cracking",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "methyltetralins to alkylbenzenes",
+    "reactants": [
+      "methyltetralins",
+      "H2"
+    ],
+    "target_products": [
+      "alkylbenzenes"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_0378-3820(87)90006-3:R1",
+    "reaction_name_reported": "steam gasification of oil coke",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "SMR"
+    ],
+    "transformation": "oil coke + steam → gasification products",
+    "reactants": [
+      "oil coke",
+      "steam"
+    ],
+    "target_products": []
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.06.001:R1",
+    "reaction_name_reported": "glycerol acetylation",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "acid_base_catalysis",
+    "reaction_family": [],
+    "transformation": "glycerol + acetic acid → mono-, di-, tri-acetylated glycerols",
+    "reactants": [
+      "glycerol",
+      "acetic acid"
+    ],
+    "target_products": [
+      "diacetylated glycerols",
+      "triacetylated glycerols"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2018.06.007:R1",
+    "reaction_name_reported": "coal spontaneous combustion",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "oxidation",
+    "reaction_family": [
+      "VOC_oxidation",
+      "CO_oxidation",
+      "methane_combustion"
+    ],
+    "transformation": "coal oxidation",
+    "reactants": [
+      "coal",
+      "oxygen"
+    ],
+    "target_products": [
+      "CO",
+      "CO2",
+      "C2H4"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_s0378-3820(97)00074-x:R1",
+    "reaction_name_reported": "catalytic coprocessing of LDPE",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "hydrocracking_cracking"
+    ],
+    "transformation": "LDPE conversion to lighter products",
+    "reactants": [
+      "LDPE"
+    ],
+    "target_products": [
+      "hexane solubles",
+      "lighter boiling products"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_s0378-3820(97)00074-x:R2",
+    "reaction_name_reported": "catalytic coprocessing of LDPE with coal",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "hydrocracking_cracking"
+    ],
+    "transformation": "LDPE and coal conversion to products",
+    "reactants": [
+      "LDPE",
+      "coal"
+    ],
+    "target_products": [
+      "hexane solubles",
+      "lighter boiling products"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_s0378-3820(97)00074-x:R3",
+    "reaction_name_reported": "catalytic coprocessing of LDPE with coal and resid",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "hydrocracking_cracking"
+    ],
+    "transformation": "LDPE, coal, and resid conversion to products",
+    "reactants": [
+      "LDPE",
+      "coal",
+      "resid"
+    ],
+    "target_products": [
+      "hexane solubles",
+      "lighter boiling products"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2010.04.002:R1",
+    "reaction_name_reported": "biodiesel preparation",
+    "reaction_domain": "immobilized_biocatalysis",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "transesterification of stillingia oil with methanol",
+    "reactants": [
+      "stillingia oil",
+      "methanol"
+    ],
+    "target_products": [
+      "biodiesel"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2008.01.011:R1",
+    "reaction_name_reported": "biomass steam gasification",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "olive oil waste to hydrogen-rich gas",
+    "reactants": [
+      "olive oil waste",
+      "steam",
+      "air"
+    ],
+    "target_products": [
+      "hydrogen"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.02.021:R1",
+    "reaction_name_reported": "steam-CO2 reforming (SCR) of methane",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "SMR",
+      "DRM",
+      "WGS"
+    ],
+    "transformation": "CH4 + H2O + CO2 → H2 + CO",
+    "reactants": [
+      "CH4",
+      "H2O",
+      "CO2"
+    ],
+    "target_products": [
+      "H2",
+      "CO"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.09.028:R1",
+    "reaction_name_reported": "esterification",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "acid_base_catalysis",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "carboxylic acids + methanol → methyl esters",
+    "reactants": [
+      "carboxylic acids",
+      "methanol"
+    ],
+    "target_products": [
+      "methyl esters"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.09.028:R2",
+    "reaction_name_reported": "transesterification",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "acid_base_catalysis",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "heavy esters + methanol → small methyl esters + alcohols",
+    "reactants": [
+      "heavy esters",
+      "methanol"
+    ],
+    "target_products": [
+      "small methyl esters",
+      "alcohols"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.09.028:R3",
+    "reaction_name_reported": "methanolysis of olefins",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "acid_base_catalysis",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "olefins + methanol → methyl ethers",
+    "reactants": [
+      "olefins",
+      "methanol"
+    ],
+    "target_products": [
+      "methyl ethers"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.09.028:R4",
+    "reaction_name_reported": "decomposition of oligomers",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "acid_base_catalysis",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "oligomers → smaller compounds",
+    "reactants": [
+      "oligomers"
+    ],
+    "target_products": [
+      "smaller compounds"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2016.01.026:R1",
+    "reaction_name_reported": "hydrotreatment of bio-oil",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "bio-oil upgrading via hydrotreatment",
+    "reactants": [
+      "bio-oil",
+      "hydrogen"
+    ],
+    "target_products": [
+      "biofuel"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2016.01.030:R1",
+    "reaction_name_reported": "catalytic decomposition of bitumen",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "oil sand bitumen → lighter components (gas oil, VGO)",
+    "reactants": [
+      "oil sand bitumen"
+    ],
+    "target_products": [
+      "gas oil",
+      "vacuum gas oil (VGO)"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2011.05.026:R1",
+    "reaction_name_reported": "Friedel–Crafts acylation of toluene with acetic anhydride",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "coupling_and_functionalization",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "toluene + acetic anhydride → p-methyl acetophenone",
+    "reactants": [
+      "toluene",
+      "acetic anhydride"
+    ],
+    "target_products": [
+      "p-methyl acetophenone"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.05.025:R1",
+    "reaction_name_reported": "Hg0 oxidation",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "environmental_remediation",
+    "reaction_family": [
+      "VOC_oxidation"
+    ],
+    "transformation": "Hg0 + 2HCl + 1/2 O2 → HgCl2 + H2O",
+    "reactants": [
+      "Hg0",
+      "HCl",
+      "O2"
+    ],
+    "target_products": [
+      "HgCl2"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.05.025:R2",
+    "reaction_name_reported": "NO reduction",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "environmental_remediation",
+    "reaction_family": [
+      "SCR"
+    ],
+    "transformation": "NO + NH3 + 1/4 O2 → N2 + 3/2 H2O",
+    "reactants": [
+      "NO",
+      "NH3",
+      "O2"
+    ],
+    "target_products": [
+      "N2"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.11.037:R1",
+    "reaction_name_reported": "chemical looping combustion of activated carbon",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "oxidation",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "C + Fe2O3 → CO2 + Fe/FeO",
+    "reactants": [
+      "activated carbon",
+      "Fe2O3"
+    ],
+    "target_products": [
+      "CO2"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2016.05.003:R1",
+    "reaction_name_reported": "propane oxidative steam reforming (OSR)",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "C3H8 + O2 + H2O → H2 + CO/CO2 + CH4",
+    "reactants": [
+      "C3H8",
+      "O2",
+      "H2O"
+    ],
+    "target_products": [
+      "H2"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2016.05.003:R2",
+    "reaction_name_reported": "water gas shift (WGS)",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "WGS"
+    ],
+    "transformation": "CO + H2O → CO2 + H2",
+    "reactants": [
+      "CO",
+      "H2O"
+    ],
+    "target_products": [
+      "H2"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2017.11.014:R1",
+    "reaction_name_reported": "steam gasification of low-rank coal",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "SMR"
+    ],
+    "transformation": "coal + steam → hydrogen-rich gas + tar",
+    "reactants": [
+      "coal",
+      "steam"
+    ],
+    "target_products": [
+      "hydrogen-rich gas"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2017.11.014:R2",
+    "reaction_name_reported": "tar destruction/reforming",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "tar → cracked/reformed products",
+    "reactants": [
+      "tar"
+    ],
+    "target_products": []
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2017.11.014:R3",
+    "reaction_name_reported": "char combustion",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "oxidation",
+    "reaction_family": [
+      "methane_combustion"
+    ],
+    "transformation": "char + air → flue gas",
+    "reactants": [
+      "char",
+      "air"
+    ],
+    "target_products": []
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2018.03.002:R1",
+    "reaction_name_reported": "catalytic pyrolysis for bio-oil upgrading",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "biomass (rice husk) → bio-oil → upgraded bio-oil with hydrocarbons",
+    "reactants": [
+      "rice husk"
+    ],
+    "target_products": [
+      "hydrocarbons",
+      "BTX"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_s0378-3820(98)00087-3:R1",
+    "reaction_name_reported": "steam gasification of tars",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "SMR"
+    ],
+    "transformation": "tar + H2O → H2 + CH4 + CO + CO2",
+    "reactants": [
+      "tar",
+      "steam"
+    ],
+    "target_products": [
+      "H2",
+      "CH4",
+      "CO",
+      "CO2"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2008.03.001:R1",
+    "reaction_name_reported": "catalytic gasification of char",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "carbon_oxide_conversion",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "char + CO2 → gas products",
+    "reactants": [
+      "char",
+      "CO2"
+    ],
+    "target_products": [
+      "gas products"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2019.03.014:R1",
+    "reaction_name_reported": "conversion of cellulose to levoglucosenone",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "cellulose → levoglucosenone",
+    "reactants": [
+      "cellulose"
+    ],
+    "target_products": [
+      "levoglucosenone"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.04.035:R1",
+    "reaction_name_reported": "NO oxidation",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "nitrogen_cycle",
+    "reaction_family": [
+      "DeNOx"
+    ],
+    "transformation": "NO + O2 → NO2",
+    "reactants": [
+      "NO",
+      "O2"
+    ],
+    "target_products": [
+      "NO2"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.04.035:R2",
+    "reaction_name_reported": "NO reduction",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "nitrogen_cycle",
+    "reaction_family": [
+      "DeNOx"
+    ],
+    "transformation": "NO → N2 or N2O",
+    "reactants": [
+      "NO"
+    ],
+    "target_products": [
+      "N2",
+      "N2O"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2021.106768:R1",
+    "reaction_name_reported": "aldol condensation and hydrogenation of cyclopentanone",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "cyclopentanone → C10+C15 alkanes (jet fuel)",
+    "reactants": [
+      "cyclopentanone"
+    ],
+    "target_products": [
+      "C10 alkanes",
+      "C15 alkanes"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2016.01.021:R1",
+    "reaction_name_reported": "transesterification",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "soybean oil + methanol → biodiesel (FAMEs) + glycerol",
+    "reactants": [
+      "soybean oil",
+      "methanol"
+    ],
+    "target_products": [
+      "biodiesel",
+      "fatty acid methyl esters (FAMEs)"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2017.08.002:R1",
+    "reaction_name_reported": "base-catalyzed depolymerization and in situ hydrogenolysis of organosolv lignin",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "lignin depolymerization and char elimination",
+    "reactants": [
+      "organosolv lignin"
+    ],
+    "target_products": [
+      "water-soluble fraction",
+      "oil-soluble product",
+      "degraded lignin"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106711:R1",
+    "reaction_name_reported": "chemical looping combustion",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "oxidation",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "solid fuel oxidation with oxygen carrier",
+    "reactants": [
+      "lignite",
+      "petroleum coke"
+    ],
+    "target_products": [
+      "CO2",
+      "H2O"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2018.08.016:R1",
+    "reaction_name_reported": "CH4 decomposition",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "carbon_oxide_conversion",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "CH4 → C + 2H2",
+    "reactants": [
+      "CH4"
+    ],
+    "target_products": [
+      "C",
+      "H2"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2018.08.016:R2",
+    "reaction_name_reported": "CO disproportionation",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "carbon_oxide_conversion",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "2CO → C + CO2",
+    "reactants": [
+      "CO"
+    ],
+    "target_products": [
+      "C",
+      "CO2"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2018.08.016:R3",
+    "reaction_name_reported": "CO/CH4 mixture gas decomposition",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "carbon_oxide_conversion",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "CO + CH4 → C + other products",
+    "reactants": [
+      "CO",
+      "CH4"
+    ],
+    "target_products": [
+      "C"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107519:R1",
+    "reaction_name_reported": "hydrogenolysis of peanut shell lignin",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "peanut shell lignin → lignin oil",
+    "reactants": [
+      "peanut shell lignin"
+    ],
+    "target_products": [
+      "lignin oil"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2003.12.004:R1",
+    "reaction_name_reported": "Fischer–Tropsch synthesis",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "synthesis_from_syngas",
+    "reaction_family": [
+      "Fischer–Tropsch"
+    ],
+    "transformation": "CO hydrogenation to hydrocarbons",
+    "reactants": [
+      "CO",
+      "H2"
+    ],
+    "target_products": [
+      "hydrocarbons"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2011.02.015:R1",
+    "reaction_name_reported": "internal reforming in solid oxide fuel cells",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "SMR"
+    ],
+    "transformation": "biodiesel formulations to electricity",
+    "reactants": [
+      "biodiesel",
+      "water"
+    ],
+    "target_products": [
+      "hydrogen",
+      "electricity"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2011.06.007:R1",
+    "reaction_name_reported": "hydrotreatment of heavy oil",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "hydrogenation",
+    "reaction_family": [
+      "HDN",
+      "HDO"
+    ],
+    "transformation": "hydrogenation of heavy oil from direct coal liquefaction",
+    "reactants": [
+      "heavy oil",
+      "H2"
+    ],
+    "target_products": [
+      "upgraded oil with reduced nitrogen and aromatic content"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2010.11.017:R1",
+    "reaction_name_reported": "synthesis gas conversion to long chain hydrocarbon fuel",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "synthesis_from_syngas",
+    "reaction_family": [
+      "Fischer–Tropsch"
+    ],
+    "transformation": "syngas (CO+H2) to liquid hydrocarbons (C5-C15)",
+    "reactants": [
+      "CO",
+      "H2"
+    ],
+    "target_products": [
+      "liquid aromatic hydrocarbon products",
+      "C5–C15 hydrocarbons",
+      "gasoline (C5+ fraction)"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2013.11.018:R1",
+    "reaction_name_reported": "soybean oil transesterification reaction for biodiesel production",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "soybean oil + methanol → fatty acid methyl esters (FAME) + glycerol",
+    "reactants": [
+      "soybean oil",
+      "methanol"
+    ],
+    "target_products": [
+      "fatty acid methyl esters (FAME)",
+      "glycerol"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2019.01.007:R1",
+    "reaction_name_reported": "hydrodesulfurization",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "sulfur_and_halogen_chemistry",
+    "reaction_family": [
+      "HDS"
+    ],
+    "transformation": "removal of sulfur from gasoil blend",
+    "reactants": [
+      "cracked and atmospheric gasoil blend"
+    ],
+    "target_products": [
+      "desulfurized gasoil"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2019.03.024:R1",
+    "reaction_name_reported": "coal tar upgrading",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO",
+      "other_named_family"
+    ],
+    "transformation": "coal tar → light fuels/valuable chemicals + gas (H2, CH4, CO, CO2)",
+    "reactants": [
+      "coal tar"
+    ],
+    "target_products": [
+      "light fuels",
+      "valuable aromatic compounds"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2019.03.024:R2",
+    "reaction_name_reported": "in-situ reduction of Fe2O3",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "other_or_unclear",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "Fe2O3 → Fe3O4/FeO/Fe/Fe3C",
+    "reactants": [
+      "Fe2O3"
+    ],
+    "target_products": [
+      "reduced iron species"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2018.02.022:R1",
+    "reaction_name_reported": "tar reforming",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "tar from pyrolysis/gasification of brown coal → reformed products (light gases, altered tar compositions)",
+    "reactants": [
+      "tar from brown coal"
+    ],
+    "target_products": [
+      "reformed tar",
+      "light gases"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2017.02.005:R1",
+    "reaction_name_reported": "hydroprocessing of an atmospheric residue",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "hydrogenation",
+    "reaction_family": [
+      "HDS",
+      "HDN",
+      "HDO"
+    ],
+    "transformation": "atmospheric residue → CS2 soluble matter + coke + gas",
+    "reactants": [
+      "atmospheric residue"
+    ],
+    "target_products": [
+      "CS2 soluble matter",
+      "coke",
+      "gas"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2015.01.003:R1",
+    "reaction_name_reported": "oxidative coupling of methane",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "oxidation",
+    "reaction_family": [
+      "selective_oxidation"
+    ],
+    "transformation": "methane to ethylene and ethane",
+    "reactants": [
+      "methane",
+      "oxygen"
+    ],
+    "target_products": [
+      "ethylene",
+      "ethane"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106388:R1",
+    "reaction_name_reported": "DNM hydrocracking",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "hydrogenolysis",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "di(1-naphthyl)methane hydrocracking",
+    "reactants": [
+      "di(1-naphthyl)methane",
+      "H2"
+    ],
+    "target_products": [
+      "tetralin",
+      "1-methyltetralin",
+      "5-methyltetralin",
+      "naphthalene",
+      "1-methylnaphthalene"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106388:R2",
+    "reaction_name_reported": "catalytic hydroconversion of SP1",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "soluble portion 1 hydroconversion",
+    "reactants": [
+      "soluble portion 1 from lignite",
+      "H2"
+    ],
+    "target_products": [
+      "arenes",
+      "alkyl-substituted benzenes",
+      "normal alkanes",
+      "branched alkanes",
+      "cyclanes",
+      "alkyl-substituted phenols"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106388:R3",
+    "reaction_name_reported": "catalytic hydroconversion of R1",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "residue 1 hydroconversion",
+    "reactants": [
+      "residue 1 from lignite",
+      "H2"
+    ],
+    "target_products": [
+      "arenes",
+      "non-nitrogen ketones"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.05.024:R1",
+    "reaction_name_reported": "acid-treatment of glucose",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "glucose conversion to levulinic acid, HMF, and polymers",
+    "reactants": [
+      "glucose"
+    ],
+    "target_products": [
+      "levulinic acid",
+      "HMF"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.05.024:R2",
+    "reaction_name_reported": "acid-treatment of xylose",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "xylose conversion to furfural and polymers",
+    "reactants": [
+      "xylose"
+    ],
+    "target_products": [
+      "furfural"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.05.024:R3",
+    "reaction_name_reported": "acid-treatment of mixed glucose and xylose",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "glucose and xylose conversion to levulinic acid, furfural, HMF, and polymers",
+    "reactants": [
+      "glucose",
+      "xylose"
+    ],
+    "target_products": [
+      "levulinic acid",
+      "furfural",
+      "HMF"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.05.024:R4",
+    "reaction_name_reported": "acid-treatment of fructose",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "fructose conversion to levulinic acid, HMF, and polymers",
+    "reactants": [
+      "fructose"
+    ],
+    "target_products": [
+      "levulinic acid",
+      "HMF"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.05.024:R5",
+    "reaction_name_reported": "acid-treatment of raffinose",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "raffinose conversion to levulinic acid and polymers",
+    "reactants": [
+      "raffinose"
+    ],
+    "target_products": [
+      "levulinic acid"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.05.024:R6",
+    "reaction_name_reported": "acid-treatment of mixed fructose and raffinose",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "fructose and raffinose conversion to levulinic acid, HMF, and polymers",
+    "reactants": [
+      "fructose",
+      "raffinose"
+    ],
+    "target_products": [
+      "levulinic acid",
+      "HMF"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.05.024:R7",
+    "reaction_name_reported": "acid-treatment of mixed glucose and furfural",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "glucose and furfural conversion to levulinic acid, HMF, and polymers",
+    "reactants": [
+      "glucose",
+      "furfural"
+    ],
+    "target_products": [
+      "levulinic acid",
+      "HMF"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.05.024:R8",
+    "reaction_name_reported": "acid-treatment of mixed fructose and furfural",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "fructose and furfural conversion to levulinic acid, HMF, and polymers",
+    "reactants": [
+      "fructose",
+      "furfural"
+    ],
+    "target_products": [
+      "levulinic acid",
+      "HMF"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106409:R1",
+    "reaction_name_reported": "K-catalyzed pyrolysis of coal to carbon nanotubes",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "other_or_unclear",
+    "reaction_family": [],
+    "transformation": "solid coal carbon structure → carbon nanotubes",
+    "reactants": [
+      "coal",
+      "KOH"
+    ],
+    "target_products": [
+      "carbon nanotubes"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2019.106248:R1",
+    "reaction_name_reported": "catalytic depolymerization of alkaline lignin",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "alkaline lignin → phenolic-based compounds",
+    "reactants": [
+      "alkaline lignin"
+    ],
+    "target_products": [
+      "phenolic compounds",
+      "lignin oil"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_s0378-3820(00)00138-7:R1",
+    "reaction_name_reported": "CO2 gasification of pine sawdust",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "pine sawdust + CO2 → H2 + CO + CH4 + C2 hydrocarbons + other gases",
+    "reactants": [
+      "pine sawdust",
+      "CO2"
+    ],
+    "target_products": [
+      "H2",
+      "CO",
+      "CH4",
+      "C2 hydrocarbons"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_s0378-3820(00)00138-7:R2",
+    "reaction_name_reported": "pyrolysis of pine sawdust",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "pine sawdust → gases + tars + char",
+    "reactants": [
+      "pine sawdust"
+    ],
+    "target_products": [
+      "gases",
+      "tars",
+      "char"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_s0378-3820(00)00138-7:R3",
+    "reaction_name_reported": "steam gasification of pine sawdust",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "pine sawdust + H2O → gases",
+    "reactants": [
+      "pine sawdust",
+      "H2O"
+    ],
+    "target_products": [
+      "gases"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2016.05.027:R1",
+    "reaction_name_reported": "higher alcohol synthesis",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "synthesis_from_syngas",
+    "reaction_family": [
+      "Fischer–Tropsch"
+    ],
+    "transformation": "syngas/methanol to mixed alcohols",
+    "reactants": [
+      "CO",
+      "H2",
+      "CH3OH"
+    ],
+    "target_products": [
+      "ethanol",
+      "propanol",
+      "methanol",
+      "methane",
+      "carbon dioxide",
+      "water"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2006.10.001:R1",
+    "reaction_name_reported": "FCC gasoline upgrading",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "olefin reduction, aromatization, isomerization",
+    "reactants": [
+      "FCC gasoline",
+      "hydrogen"
+    ],
+    "target_products": [
+      "gasoline with reduced olefin content, increased aromatics and isoparaffins"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2019.02.017:R1",
+    "reaction_name_reported": "deoxygenation of stearic acid",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "stearic acid to diesel-like hydrocarbons",
+    "reactants": [
+      "stearic acid"
+    ],
+    "target_products": [
+      "n-heptadecane",
+      "n-octadecane"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2010.09.036:R1",
+    "reaction_name_reported": "catalytic cracking of coal tar",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "hydrocracking_cracking"
+    ],
+    "transformation": "coal tar → monocyclic aromatic hydrocarbons, phenols, ketones, lighter products",
+    "reactants": [
+      "coal tar",
+      "steam"
+    ],
+    "target_products": [
+      "monocyclic aromatic hydrocarbons",
+      "phenols",
+      "ketones"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_s0378-3820(96)01047-8:R1",
+    "reaction_name_reported": "Kansk-Achinsk brown coal hydrogenation",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "hydrogenation",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "coal liquefaction",
+    "reactants": [
+      "coal",
+      "hydrogen"
+    ],
+    "target_products": [
+      "liquid products",
+      "low molecular products",
+      "asphaltenes"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107235:R1",
+    "reaction_name_reported": "hydrodesulfurization (HDS)",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "sulfur_and_halogen_chemistry",
+    "reaction_family": [
+      "HDS"
+    ],
+    "transformation": "sulfur compounds removal from residual oils",
+    "reactants": [
+      "sulfur compounds in residual oils"
+    ],
+    "target_products": [
+      "desulfurized hydrocarbons"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.11.004:R1",
+    "reaction_name_reported": "ethanol dehydration to ethylene",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "dehydrogenation",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "ethanol → ethylene",
+    "reactants": [
+      "ethanol"
+    ],
+    "target_products": [
+      "ethylene"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2021.106767:R1",
+    "reaction_name_reported": "ethanol dehydrogenation to acetaldehyde",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "dehydrogenation",
+    "reaction_family": [
+      "alcohol_dehydrogenation"
+    ],
+    "transformation": "C2H5OH → C2H4O + H2",
+    "reactants": [
+      "ethanol"
+    ],
+    "target_products": [
+      "acetaldehyde",
+      "hydrogen"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2021.106767:R2",
+    "reaction_name_reported": "ethanol and acetaldehyde to 1,3-butadiene and water",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "C2H5OH + C2H4O → C4H6 + 2 H2O",
+    "reactants": [
+      "ethanol",
+      "acetaldehyde"
+    ],
+    "target_products": [
+      "1,3-butadiene",
+      "water"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2021.106767:R3",
+    "reaction_name_reported": "ethanol dehydration to diethyl ether",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "acid_base_catalysis",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "2 C2H5OH → (C2H5)2O + H2O",
+    "reactants": [
+      "ethanol"
+    ],
+    "target_products": [
+      "diethyl ether",
+      "water"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2021.106767:R4",
+    "reaction_name_reported": "ethanol dehydration to ethene",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "acid_base_catalysis",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "C2H5OH → C2H4 + H2O",
+    "reactants": [
+      "ethanol"
+    ],
+    "target_products": [
+      "ethene",
+      "water"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2021.106767:R5",
+    "reaction_name_reported": "ethanol to 1-butanol",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "2 C2H5OH → C4H9OH + H2O",
+    "reactants": [
+      "ethanol"
+    ],
+    "target_products": [
+      "1-butanol",
+      "water"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2021.106767:R6",
+    "reaction_name_reported": "1-butanol dehydration to butenes",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "acid_base_catalysis",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "C4H9OH → C4H8 + H2O",
+    "reactants": [
+      "1-butanol"
+    ],
+    "target_products": [
+      "butenes",
+      "water"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2021.106767:R7",
+    "reaction_name_reported": "acetaldehyde to heavy compounds",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "13/2 C2H4O → C13H10O + 11/2 H2O + 5/2 H2",
+    "reactants": [
+      "acetaldehyde"
+    ],
+    "target_products": [
+      "heavy compounds",
+      "water",
+      "hydrogen"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2021.106767:R8",
+    "reaction_name_reported": "ethanol to oxygenated compounds",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "2 C2H5OH → C4H8O + H2O + H2",
+    "reactants": [
+      "ethanol"
+    ],
+    "target_products": [
+      "oxygenated compounds",
+      "water",
+      "hydrogen"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2003.10.014:R1",
+    "reaction_name_reported": "steam reforming of methane with oxygen addition",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "SMR"
+    ],
+    "transformation": "CH4 + H2O + O2 → CO + H2",
+    "reactants": [
+      "CH4",
+      "H2O",
+      "O2"
+    ],
+    "target_products": [
+      "CO",
+      "H2"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2003.10.014:R2",
+    "reaction_name_reported": "dry reforming of methane with oxygen addition",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "DRM"
+    ],
+    "transformation": "CH4 + CO2 + O2 → CO + H2",
+    "reactants": [
+      "CH4",
+      "CO2",
+      "O2"
+    ],
+    "target_products": [
+      "CO",
+      "H2"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2009.11.003:R1",
+    "reaction_name_reported": "transesterification of soybean oil with methanol",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "soybean oil + methanol → biodiesel (FAME) + glycerol",
+    "reactants": [
+      "soybean oil",
+      "methanol"
+    ],
+    "target_products": [
+      "biodiesel",
+      "fatty acid methyl esters (FAME)"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2016.12.015:R1",
+    "reaction_name_reported": "dry reforming of methane",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "DRM"
+    ],
+    "transformation": "CH4 + CO2 → 2 H2 + 2 CO",
+    "reactants": [
+      "CH4",
+      "CO2"
+    ],
+    "target_products": [
+      "H2",
+      "CO"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2016.12.015:R2",
+    "reaction_name_reported": "reverse water gas shift reaction",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "rWGS"
+    ],
+    "transformation": "H2 + CO2 → CO + H2O",
+    "reactants": [
+      "H2",
+      "CO2"
+    ],
+    "target_products": [
+      "CO",
+      "H2O"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2009.02.007:R1",
+    "reaction_name_reported": "biomass tar steam reforming",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "SMR"
+    ],
+    "transformation": "toluene + H2O → H2 + CO/CO2",
+    "reactants": [
+      "toluene",
+      "H2O"
+    ],
+    "target_products": [
+      "H2",
+      "CO",
+      "CO2"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107206:R1",
+    "reaction_name_reported": "transesterification",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "blended raw castor oil and waste cooking oil to biodiesel",
+    "reactants": [
+      "raw castor oil",
+      "waste cooking oil",
+      "methanol"
+    ],
+    "target_products": [
+      "biodiesel"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2018.07.014:R1",
+    "reaction_name_reported": "partial hydrogenation of soybean oil-derived fatty acid methyl esters",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "hydrogenation",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "partial hydrogenation of polyunsaturated FAMEs (C18:2, C18:3) to monounsaturated FAMEs (cis-C18:1, trans-C18:1) and saturated FAMEs (C18:0)",
+    "reactants": [
+      "soybean oil-derived fatty acid methyl esters",
+      "H2"
+    ],
+    "target_products": [
+      "monounsaturated FAMEs (cis-C18:1, trans-C18:1)"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107257:R1",
+    "reaction_name_reported": "pyrolysis of high-density polyethylene",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "HDPE → liquid fuel + combustible gases",
+    "reactants": [
+      "high-density polyethylene"
+    ],
+    "target_products": [
+      "liquid fuel"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107478:R1",
+    "reaction_name_reported": "H2/CO2 biomethanation",
+    "reaction_domain": "immobilized_biocatalysis",
+    "reaction_class": "carbon_oxide_conversion",
+    "reaction_family": [
+      "methanol_synthesis"
+    ],
+    "transformation": "CO2 + 4H2 → CH4 + 2H2O",
+    "reactants": [
+      "CO2",
+      "H2"
+    ],
+    "target_products": [
+      "CH4"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107478:R2",
+    "reaction_name_reported": "homoacetogenesis",
+    "reaction_domain": "immobilized_biocatalysis",
+    "reaction_class": "carbon_oxide_conversion",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "4H2 + 2CO2 → CH3COO− + H+ + 2H2O",
+    "reactants": [
+      "CO2",
+      "H2"
+    ],
+    "target_products": [
+      "acetate"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107478:R3",
+    "reaction_name_reported": "acetoclastic methanation",
+    "reaction_domain": "immobilized_biocatalysis",
+    "reaction_class": "carbon_oxide_conversion",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "CH3COO− + 4H2O → CH4 + HCO3−",
+    "reactants": [
+      "acetate"
+    ],
+    "target_products": [
+      "CH4"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107478:R4",
+    "reaction_name_reported": "syntrophic acetate oxidation",
+    "reaction_domain": "immobilized_biocatalysis",
+    "reaction_class": "carbon_oxide_conversion",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "CH3COO− + H+ + 2H2O → 4H2 + 2CO2",
+    "reactants": [
+      "acetate"
+    ],
+    "target_products": [
+      "H2",
+      "CO2"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.01.007:R1",
+    "reaction_name_reported": "steam reforming of benzene",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "SMR"
+    ],
+    "transformation": "benzene steam reforming",
+    "reactants": [
+      "benzene",
+      "H2O"
+    ],
+    "target_products": [
+      "H2",
+      "CO",
+      "CO2",
+      "CH4"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.01.007:R2",
+    "reaction_name_reported": "steam reforming of toluene",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "SMR"
+    ],
+    "transformation": "toluene steam reforming",
+    "reactants": [
+      "toluene",
+      "H2O"
+    ],
+    "target_products": [
+      "H2",
+      "CO",
+      "CO2",
+      "CH4"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.01.007:R3",
+    "reaction_name_reported": "steam reforming of naphthalene/toluene",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "SMR"
+    ],
+    "transformation": "naphthalene and toluene steam reforming",
+    "reactants": [
+      "naphthalene",
+      "toluene",
+      "H2O"
+    ],
+    "target_products": [
+      "H2",
+      "CO",
+      "CO2",
+      "CH4"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107512:R1",
+    "reaction_name_reported": "catalytic cracking of guaiacol",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "guaiacol conversion to various products",
+    "reactants": [
+      "guaiacol"
+    ],
+    "target_products": [
+      "aromatic hydrocarbons",
+      "benzene",
+      "phenol",
+      "catechol",
+      "salicylaldehyde",
+      "o-cresol",
+      "o-ethylphenol",
+      "toluene",
+      "coumarone"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107512:R2",
+    "reaction_name_reported": "catalytic cracking of acetic acid",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "acetic acid conversion to various products",
+    "reactants": [
+      "acetic acid"
+    ],
+    "target_products": [
+      "ethyl acetate",
+      "acetic anhydride",
+      "benzene",
+      "toluene",
+      "p-xylene",
+      "CO",
+      "CO2",
+      "ethylene",
+      "butene"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107451:R1",
+    "reaction_name_reported": "CO2 electrochemical conversion to formic acid",
+    "reaction_domain": "electrocatalysis",
+    "reaction_class": "carbon_oxide_conversion",
+    "reaction_family": [
+      "CO2RR"
+    ],
+    "transformation": "CO2 to formic acid",
+    "reactants": [
+      "CO2"
+    ],
+    "target_products": [
+      "formic acid"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2021.107159:R1",
+    "reaction_name_reported": "chemical looping catalytic oxidation of methane",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "oxidation",
+    "reaction_family": [
+      "methane_combustion"
+    ],
+    "transformation": "CH4 + O2 -> CO2 + H2O",
+    "reactants": [
+      "CH4",
+      "O2"
+    ],
+    "target_products": [
+      "CO2",
+      "H2O"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2021.107159:R2",
+    "reaction_name_reported": "chemical looping catalytic oxidation of propene",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "oxidation",
+    "reaction_family": [
+      "VOC_oxidation"
+    ],
+    "transformation": "C3H6 + O2 -> CO2 + H2O",
+    "reactants": [
+      "C3H6",
+      "O2"
+    ],
+    "target_products": [
+      "CO2",
+      "H2O"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107426:R1",
+    "reaction_name_reported": "char combustion",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "oxidation",
+    "reaction_family": [
+      "methane_combustion"
+    ],
+    "transformation": "oil shale char + O2 → CO2 + other products",
+    "reactants": [
+      "oil shale char",
+      "O2"
+    ],
+    "target_products": [
+      "CO2"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106581:R1",
+    "reaction_name_reported": "dry reforming of methane (DRM)",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "DRM"
+    ],
+    "transformation": "CH4 + CO2 → H2 + CO",
+    "reactants": [
+      "CH4",
+      "CO2"
+    ],
+    "target_products": [
+      "H2",
+      "CO"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107434:R1",
+    "reaction_name_reported": "methanol electrooxidation (MOR)",
+    "reaction_domain": "electrocatalysis",
+    "reaction_class": "electrochemical_water_and_small_molecules",
+    "reaction_family": [
+      "MOR"
+    ],
+    "transformation": "methanol oxidation",
+    "reactants": [
+      "methanol"
+    ],
+    "target_products": []
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107434:R2",
+    "reaction_name_reported": "formic acid electrooxidation (FAOR)",
+    "reaction_domain": "electrocatalysis",
+    "reaction_class": "electrochemical_water_and_small_molecules",
+    "reaction_family": [
+      "AOR"
+    ],
+    "transformation": "formic acid oxidation",
+    "reactants": [
+      "formic acid"
+    ],
+    "target_products": []
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106622:R1",
+    "reaction_name_reported": "ethanol steam reforming",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "SMR"
+    ],
+    "transformation": "ethanol + water → hydrogen + carbon oxides + methane + acetaldehyde",
+    "reactants": [
+      "ethanol",
+      "water"
+    ],
+    "target_products": [
+      "hydrogen"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106622:R2",
+    "reaction_name_reported": "ethanol decomposition",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "dehydrogenation",
+    "reaction_family": [],
+    "transformation": "ethanol → hydrogen + methane + carbon monoxide + acetaldehyde + ethane",
+    "reactants": [
+      "ethanol"
+    ],
+    "target_products": []
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106622:R3",
+    "reaction_name_reported": "water-gas shift",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "WGS"
+    ],
+    "transformation": "carbon monoxide + water → carbon dioxide + hydrogen",
+    "reactants": [
+      "carbon monoxide",
+      "water"
+    ],
+    "target_products": [
+      "hydrogen",
+      "carbon dioxide"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2018.03.031:R1",
+    "reaction_name_reported": "catalytic deoxygenation",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "removal of oxygen atoms from coal-derived aromatic compounds",
+    "reactants": [
+      "coal-derived aromatic compounds with oxygen"
+    ],
+    "target_products": [
+      "deoxygenated aromatic compounds"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106576:R1",
+    "reaction_name_reported": "chemical-looping gasification",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "WGS"
+    ],
+    "transformation": "biomass char + steam/CO2 → syngas (H2, CO, CO2)",
+    "reactants": [
+      "biomass char",
+      "steam",
+      "CO2"
+    ],
+    "target_products": [
+      "H2",
+      "CO",
+      "syngas"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106576:R2",
+    "reaction_name_reported": "water-gas-shift reaction",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "WGS"
+    ],
+    "transformation": "CO + H2O ↔ CO2 + H2",
+    "reactants": [
+      "CO",
+      "H2O"
+    ],
+    "target_products": [
+      "CO2",
+      "H2"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106576:R3",
+    "reaction_name_reported": "water-splitting",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "hydrogenation",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "Fe1-xAxO + H2O → Fe3-xAxO4 + H2",
+    "reactants": [
+      "Fe1-xAxO",
+      "H2O"
+    ],
+    "target_products": [
+      "H2"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106576:R4",
+    "reaction_name_reported": "carbonation/calcination",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "carbon_oxide_conversion",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "CaO + CO2 ↔ CaCO3",
+    "reactants": [
+      "CaO",
+      "CO2"
+    ],
+    "target_products": [
+      "CaCO3"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106576:R5",
+    "reaction_name_reported": "oxygen carrier reduction with CO",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "oxidation",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "MOx + CO → MOx-1 + CO2",
+    "reactants": [
+      "MOx",
+      "CO"
+    ],
+    "target_products": [
+      "CO2"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106576:R6",
+    "reaction_name_reported": "oxygen carrier reduction with H2",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "oxidation",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "MOx + H2 → MOx-1 + H2O",
+    "reactants": [
+      "MOx",
+      "H2"
+    ],
+    "target_products": [
+      "H2O"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2019.05.033:R1",
+    "reaction_name_reported": "dry reforming of methane",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "DRM"
+    ],
+    "transformation": "CH4 + CO2 → syngas (H2 + CO)",
+    "reactants": [
+      "CH4",
+      "CO2"
+    ],
+    "target_products": [
+      "syngas",
+      "H2",
+      "CO"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2019.106122:R1",
+    "reaction_name_reported": "MTH reaction",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "synthesis_from_syngas",
+    "reaction_family": [
+      "MTO_MTP"
+    ],
+    "transformation": "methanol to hydrocarbons",
+    "reactants": [
+      "methanol"
+    ],
+    "target_products": [
+      "hydrocarbons",
+      "aromatics",
+      "olefins"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107415:R1",
+    "reaction_name_reported": "oxidative desulfurization",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "oxidation",
+    "reaction_family": [
+      "VOC_oxidation"
+    ],
+    "transformation": "dibenzothiophene (DBT) oxidation to sulfoxide and sulfone",
+    "reactants": [
+      "dibenzothiophene",
+      "H2O2"
+    ],
+    "target_products": [
+      "sulfoxide",
+      "sulfone"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2006.01.006:R1",
+    "reaction_name_reported": "hydrocracking of vacuum residue",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "hydrocracking_cracking",
+    "reaction_family": [
+      "HDS",
+      "HDN"
+    ],
+    "transformation": "vacuum residue → lighter fractions (gasoline, diesel oil, vacuum gas oil)",
+    "reactants": [
+      "vacuum residue",
+      "hydrogen"
+    ],
+    "target_products": [
+      "gasoline",
+      "diesel oil",
+      "vacuum gas oil"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2006.01.006:R2",
+    "reaction_name_reported": "hydrodesulphurisation",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "sulfur_and_halogen_chemistry",
+    "reaction_family": [
+      "HDS"
+    ],
+    "transformation": "sulphur compounds → desulphurised products",
+    "reactants": [
+      "sulphur compounds",
+      "hydrogen"
+    ],
+    "target_products": [
+      "desulphurised products"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2006.01.006:R3",
+    "reaction_name_reported": "hydrodenitrogenation",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "sulfur_and_halogen_chemistry",
+    "reaction_family": [
+      "HDN"
+    ],
+    "transformation": "nitrogen compounds → denitrogenated products",
+    "reactants": [
+      "nitrogen compounds",
+      "hydrogen"
+    ],
+    "target_products": [
+      "denitrogenated products"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_0378-3820(87)90076-2:R1",
+    "reaction_name_reported": "coal gasification",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "SMR"
+    ],
+    "transformation": "coal reacts with steam and oxygen to produce CO, CO2, H2, and CH4",
+    "reactants": [
+      "coal",
+      "steam",
+      "oxygen"
+    ],
+    "target_products": [
+      "CO",
+      "CO2",
+      "H2",
+      "CH4"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107418:R1",
+    "reaction_name_reported": "CO2 methanation",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "carbon_oxide_conversion",
+    "reaction_family": [
+      "CO2RR"
+    ],
+    "transformation": "CO2 + H2 → CH4",
+    "reactants": [
+      "CO2",
+      "H2"
+    ],
+    "target_products": [
+      "CH4"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.04.006:R1",
+    "reaction_name_reported": "biodesulfurization of coal",
+    "reaction_domain": "immobilized_biocatalysis",
+    "reaction_class": "sulfur_and_halogen_chemistry",
+    "reaction_family": [
+      "HDS"
+    ],
+    "transformation": "coal pyrite oxidation to sulfate",
+    "reactants": [
+      "coal pyrite"
+    ],
+    "target_products": [
+      "sulfate"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2018.06.001:R1",
+    "reaction_name_reported": "selective catalytic reduction of NOx",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "nitrogen_cycle",
+    "reaction_family": [
+      "SCR",
+      "DeNOx"
+    ],
+    "transformation": "NOx + NH3 → N2 + H2O",
+    "reactants": [
+      "NOx",
+      "NH3",
+      "O2"
+    ],
+    "target_products": [
+      "N2"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2013.05.002:R1",
+    "reaction_name_reported": "methanolysis",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "transesterification of triglycerides to fatty acid methyl esters (FAME)",
+    "reactants": [
+      "rape seed oil (RSO)",
+      "oleic acid acidified oil",
+      "acidic waste frying oil (WFO)",
+      "methanol"
+    ],
+    "target_products": [
+      "biodiesel",
+      "Fatty Acid Methyl Esters (FAME)"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106672:R1",
+    "reaction_name_reported": "hydrogenation of HMF",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "hydrogenation",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "5-hydroxymethylfurfural to 2,5-bis(hydroxymethyl)furan and 5-methylfurfuryl alcohol",
+    "reactants": [
+      "5-hydroxymethylfurfural"
+    ],
+    "target_products": [
+      "2,5-bis(hydroxymethyl)furan",
+      "5-methylfurfuryl alcohol"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106672:R2",
+    "reaction_name_reported": "etherification of hydrogenated products",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "hydrogenated furanic intermediates to alkoxymethylfurans and 2,5-bis(alkoxymethyl)furans",
+    "reactants": [
+      "hydrogenated furanic intermediates"
+    ],
+    "target_products": [
+      "alkoxymethylfurans",
+      "2,5-bis(alkoxymethyl)furans"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107472:R1",
+    "reaction_name_reported": "conversion of xylose to furfural",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "other_named_family"
+    ],
+    "transformation": "xylose → furfural",
+    "reactants": [
+      "xylose"
+    ],
+    "target_products": [
+      "furfural"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107448:R1",
+    "reaction_name_reported": "catalytic transfer hydrogenation (CTH) of lignin model dimer α-OH-PPE",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "α-OH-PPE to ethylbenzene and cyclohexanol",
+    "reactants": [
+      "α-OH-PPE",
+      "isopropanol"
+    ],
+    "target_products": [
+      "ethylbenzene",
+      "cyclohexanol"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107448:R2",
+    "reaction_name_reported": "CTH of various lignin model dimers",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "lignin dimers with β-O-4, α-O-4, 4-O-5 linkages to aromatics/alcohols",
+    "reactants": [
+      "lignin dimers",
+      "isopropanol"
+    ],
+    "target_products": [
+      "aromatics",
+      "alcohols"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107448:R3",
+    "reaction_name_reported": "depolymerization of birch organosolv lignin",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "lignin to monophenols",
+    "reactants": [
+      "birch organosolv lignin",
+      "isopropanol"
+    ],
+    "target_products": [
+      "monophenols"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107208:R1",
+    "reaction_name_reported": "fractionation of sugarcane bagasse via Organosolv treatment",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "biomass_and_oxygenates_upgrading",
+    "reaction_family": [
+      "HDO"
+    ],
+    "transformation": "sugarcane bagasse → bio-oil (lignin-derived compounds, hemicellulose-derived compounds) + solid residue (cellulose, hemicellulose)",
+    "reactants": [
+      "sugarcane bagasse"
+    ],
+    "target_products": [
+      "bio-oil",
+      "solid residue"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2021.107032:R1",
+    "reaction_name_reported": "catalytic reforming of toluene",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "SMR"
+    ],
+    "transformation": "toluene + steam → syngas (H2 + CO) + CO2 + CH4",
+    "reactants": [
+      "toluene",
+      "steam"
+    ],
+    "target_products": [
+      "syngas (H2 + CO)"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106658:R1",
+    "reaction_name_reported": "oxy-reforming",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "reforming_and_shift",
+    "reaction_family": [
+      "SMR"
+    ],
+    "transformation": "methane to hydrogen via combined steam methane reforming and catalytic partial oxidation",
+    "reactants": [
+      "CH4",
+      "H2O",
+      "O2"
+    ],
+    "target_products": [
+      "H2"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106658:R2",
+    "reaction_name_reported": "catalytic partial oxidation",
+    "reaction_domain": "thermal_heterogeneous",
+    "reaction_class": "oxidation",
+    "reaction_family": [
+      "POX"
+    ],
+    "transformation": "methane to hydrogen and carbon monoxide",
+    "reactants": [
+      "CH4",
+      "O2"
+    ],
+    "target_products": [
+      "H2",
+      "CO"
+    ]
+  }
+]

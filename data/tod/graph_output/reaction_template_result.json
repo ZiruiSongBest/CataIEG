@@ -1,0 +1,1324 @@
+[
+  {
+    "uid": "reaction:10.1016_j.fuproc.2008.09.005:R1",
+    "canonical_reaction_name": "simultaneous SO2/NOx removal",
+    "canonical_reaction_aliases": [
+      "simultaneous desulfurization and denitrification",
+      "plasma-assisted SO2 and NOx oxidation"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2010.08.003:R1",
+    "canonical_reaction_name": "glycerol steam reforming",
+    "canonical_reaction_aliases": [
+      "steam reforming of glycerol",
+      "glycerol reforming to hydrogen"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2011.08.022:R1",
+    "canonical_reaction_name": "flue gas desulfurization",
+    "canonical_reaction_aliases": [
+      "SO2 removal during coal combustion",
+      "desulfurization during hard coal combustion"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2016.08.019:R1",
+    "canonical_reaction_name": "kerosene steam reforming",
+    "canonical_reaction_aliases": [
+      "catalytic steam reforming of kerosene",
+      "steam reforming of kerosene to hydrogen"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2016.08.019:R2",
+    "canonical_reaction_name": "kerosene thermal cracking",
+    "canonical_reaction_aliases": [
+      "thermal cracking of kerosene",
+      "kerosene pyrolysis"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2017.07.013:R1",
+    "canonical_reaction_name": "hydroliquefaction of rice stalk",
+    "canonical_reaction_aliases": [
+      "hydro-liquefaction of rice stalk in supercritical ethanol",
+      "biomass hydroliquefaction to bio-crude oil"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2004.12.001:R1",
+    "canonical_reaction_name": "F-T synthesis",
+    "canonical_reaction_aliases": [
+      "Fischer-Tropsch synthesis",
+      "CO hydrogenation to hydrocarbons"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106585:R1",
+    "canonical_reaction_name": "ketonization of xylose",
+    "canonical_reaction_aliases": [
+      "xylose conversion to ketones",
+      "xylose ketonization to mono-functional ketones"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106487:R1",
+    "canonical_reaction_name": "chemical looping hydrogen production",
+    "canonical_reaction_aliases": [
+      "chemical looping hydrogen",
+      "steam-iron process for hydrogen production"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2007.08.004:R1",
+    "canonical_reaction_name": "mercury oxidation and capture",
+    "canonical_reaction_aliases": [
+      "Hg0 oxidation to HgCl2",
+      "flue gas mercury removal"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.01.002:R1",
+    "canonical_reaction_name": "biomass gasification",
+    "canonical_reaction_aliases": [
+      "pine biomass gasification to syngas",
+      "biomass gasification with tar cracking"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_s0378-3820(97)00023-4:R1",
+    "canonical_reaction_name": "biodesulfurization of oil",
+    "canonical_reaction_aliases": [
+      "oil biodesulfurization",
+      "microbial desulfurization of dibenzothiophene"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2004.10.008:R1",
+    "canonical_reaction_name": "higher alcohol synthesis",
+    "canonical_reaction_aliases": [
+      "syngas to higher alcohols",
+      "CO hydrogenation to C2+ alcohols"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2016.05.014:R1",
+    "canonical_reaction_name": "hydrodeoxygenation of bio-oil",
+    "canonical_reaction_aliases": [
+      "hydrotreatment of bio-oil",
+      "bio-oil HDO upgrading"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.10.012:R1",
+    "canonical_reaction_name": "biomass gasification",
+    "canonical_reaction_aliases": [
+      "biomass gasification for tar-free syngas production",
+      "biomass to synthesis gas with tar cracking"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_s0378-3820(03)00071-7:R1",
+    "canonical_reaction_name": "etherification of C6 olefins with methanol",
+    "canonical_reaction_aliases": [
+      "C6 olefin etherification",
+      "synthesis of hexyl methyl ether"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_s0378-3820(03)00071-7:R2",
+    "canonical_reaction_name": "etherification of C8 olefins with methanol",
+    "canonical_reaction_aliases": [
+      "C8 olefin etherification",
+      "synthesis of octyl methyl ether"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107475:R1",
+    "canonical_reaction_name": "sorption-enhanced water-gas shift",
+    "canonical_reaction_aliases": [
+      "CASOH process",
+      "blast furnace gas to hydrogen via WGS with CO2 capture"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107475:R2",
+    "canonical_reaction_name": "Cu oxidation",
+    "canonical_reaction_aliases": [
+      "copper oxidation to CuO"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107475:R3",
+    "canonical_reaction_name": "CaCO3 calcination",
+    "canonical_reaction_aliases": [
+      "regeneration of carbonated Ca-based sorbent",
+      "calcium carbonate decomposition to CaO"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.04.021:R1",
+    "canonical_reaction_name": "catalytic carbon deposition from hydrocarbons",
+    "canonical_reaction_aliases": [
+      "carbon nanofiber growth from C6 hydrocarbons",
+      "hydrocarbon decomposition to carbon deposits"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_0378-3820(79)90016-x:R1",
+    "canonical_reaction_name": "aromatic ring hydrogenation",
+    "canonical_reaction_aliases": [
+      "ring hydrogenation of 1-methylnaphthalene",
+      "1-methylnaphthalene hydrogenation to methyltetralins"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_0378-3820(79)90016-x:R2",
+    "canonical_reaction_name": "hydrodemethylation",
+    "canonical_reaction_aliases": [
+      "HDM",
+      "hydrodemethylation of 1-methylnaphthalene",
+      "demethylation of 1-methylnaphthalene to naphthalene"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_0378-3820(79)90016-x:R3",
+    "canonical_reaction_name": "ring hydrocracking",
+    "canonical_reaction_aliases": [
+      "hydrocracking of methyltetralins to alkylbenzenes",
+      "naphthenic ring opening by hydrocracking"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_0378-3820(87)90006-3:R1",
+    "canonical_reaction_name": "steam gasification of oil coke",
+    "canonical_reaction_aliases": [
+      "coke steam gasification",
+      "petroleum coke gasification"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.06.001:R1",
+    "canonical_reaction_name": "glycerol acetylation",
+    "canonical_reaction_aliases": [
+      "esterification of glycerol with acetic acid",
+      "glycerol esterification to acetin"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2018.06.007:R1",
+    "canonical_reaction_name": "coal spontaneous combustion",
+    "canonical_reaction_aliases": [
+      "low-temperature coal oxidation",
+      "coal oxidation"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_s0378-3820(97)00074-x:R1",
+    "canonical_reaction_name": "catalytic cracking of LDPE",
+    "canonical_reaction_aliases": [
+      "LDPE thermal catalytic conversion",
+      "polyethylene catalytic liquefaction"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_s0378-3820(97)00074-x:R2",
+    "canonical_reaction_name": "catalytic coprocessing of LDPE with coal",
+    "canonical_reaction_aliases": [
+      "co-liquefaction of LDPE and coal",
+      "catalytic co-conversion of plastic and coal"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_s0378-3820(97)00074-x:R3",
+    "canonical_reaction_name": "catalytic coprocessing of LDPE with coal and resid",
+    "canonical_reaction_aliases": [
+      "co-liquefaction of LDPE, coal, and vacuum resid",
+      "catalytic co-conversion of plastic, coal, and resid"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2010.04.002:R1",
+    "canonical_reaction_name": "transesterification of vegetable oil to biodiesel",
+    "canonical_reaction_aliases": [
+      "biodiesel production by transesterification",
+      "stillingia oil methanolysis"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2008.01.011:R1",
+    "canonical_reaction_name": "biomass steam gasification",
+    "canonical_reaction_aliases": [
+      "olive oil waste gasification",
+      "steam gasification of lignocellulosic biomass"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.02.021:R1",
+    "canonical_reaction_name": "combined steam and dry reforming of methane",
+    "canonical_reaction_aliases": [
+      "steam-CO2 reforming of methane",
+      "bi-reforming of methane",
+      "mixed reforming of methane"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.09.028:R1",
+    "canonical_reaction_name": "esterification of carboxylic acids with methanol",
+    "canonical_reaction_aliases": [
+      "acid esterification to methyl esters",
+      "fatty acid esterification"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.09.028:R2",
+    "canonical_reaction_name": "transesterification with methanol",
+    "canonical_reaction_aliases": [
+      "methanolysis of heavy esters",
+      "ester interchange with methanol"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.09.028:R3",
+    "canonical_reaction_name": "etherification of olefins with methanol",
+    "canonical_reaction_aliases": [
+      "methanolysis of olefins",
+      "olefin methyl ether synthesis"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.09.028:R4",
+    "canonical_reaction_name": "oligomer decomposition",
+    "canonical_reaction_aliases": [
+      "depolymerization of oligomers",
+      "thermal-catalytic cracking of oligomers"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2016.01.026:R1",
+    "canonical_reaction_name": "hydrodeoxygenation of bio-oil",
+    "canonical_reaction_aliases": [
+      "HDO of bio-oil",
+      "bio-oil hydrotreatment",
+      "bio-oil upgrading by hydrotreatment"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2016.01.030:R1",
+    "canonical_reaction_name": "catalytic cracking of bitumen",
+    "canonical_reaction_aliases": [
+      "oil sand bitumen thermal decomposition",
+      "bitumen upgrading to gas oil and VGO"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2011.05.026:R1",
+    "canonical_reaction_name": "Friedel-Crafts acylation",
+    "canonical_reaction_aliases": [
+      "Friedel-Crafts acylation of toluene with acetic anhydride",
+      "electrophilic acylation of toluene to p-methyl acetophenone"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.05.025:R1",
+    "canonical_reaction_name": "Hg0 oxidation",
+    "canonical_reaction_aliases": [
+      "mercury oxidation",
+      "elemental mercury oxidation"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.05.025:R2",
+    "canonical_reaction_name": "NH3-SCR",
+    "canonical_reaction_aliases": [
+      "selective catalytic reduction of NO with NH3",
+      "SCR of NOx",
+      "NH3-SCR of NO"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.11.037:R1",
+    "canonical_reaction_name": "chemical looping combustion",
+    "canonical_reaction_aliases": [
+      "CLC of activated carbon",
+      "chemical looping combustion of char"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2016.05.003:R1",
+    "canonical_reaction_name": "propane oxidative steam reforming",
+    "canonical_reaction_aliases": [
+      "propane OSR",
+      "oxidative steam reforming of propane"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2016.05.003:R2",
+    "canonical_reaction_name": "water-gas shift",
+    "canonical_reaction_aliases": [
+      "WGS",
+      "water gas shift reaction",
+      "WGSR"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2017.11.014:R1",
+    "canonical_reaction_name": "steam gasification of coal",
+    "canonical_reaction_aliases": [
+      "coal steam gasification",
+      "low-rank coal gasification"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2017.11.014:R2",
+    "canonical_reaction_name": "tar reforming",
+    "canonical_reaction_aliases": [
+      "tar cracking",
+      "tar destruction",
+      "catalytic tar reforming"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2017.11.014:R3",
+    "canonical_reaction_name": "char combustion",
+    "canonical_reaction_aliases": [
+      "char oxidation",
+      "solid carbon combustion"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2018.03.002:R1",
+    "canonical_reaction_name": "catalytic pyrolysis of biomass",
+    "canonical_reaction_aliases": [
+      "bio-oil upgrading via catalytic pyrolysis",
+      "catalytic fast pyrolysis of rice husk"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_s0378-3820(98)00087-3:R1",
+    "canonical_reaction_name": "steam reforming of tar",
+    "canonical_reaction_aliases": [
+      "tar steam reforming",
+      "steam gasification of tars"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2008.03.001:R1",
+    "canonical_reaction_name": "char gasification with CO2",
+    "canonical_reaction_aliases": [
+      "catalytic char gasification",
+      "Boudouard gasification of char",
+      "CO2 gasification of char"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2019.03.014:R1",
+    "canonical_reaction_name": "cellulose pyrolysis to levoglucosenone",
+    "canonical_reaction_aliases": [
+      "catalytic conversion of cellulose to levoglucosenone",
+      "cellulose thermochemical conversion"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.04.035:R1",
+    "canonical_reaction_name": "NO oxidation",
+    "canonical_reaction_aliases": [
+      "catalytic NO oxidation",
+      "NO to NO2 oxidation"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.04.035:R2",
+    "canonical_reaction_name": "NO reduction",
+    "canonical_reaction_aliases": [
+      "NO decomposition",
+      "DeNOx",
+      "NO to N2 reduction"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2021.106768:R1",
+    "canonical_reaction_name": "aldol condensation and hydrogenation of cyclopentanone",
+    "canonical_reaction_aliases": [
+      "cyclopentanone upgrading to jet fuel range alkanes",
+      "cyclopentanone aldol condensation"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2016.01.021:R1",
+    "canonical_reaction_name": "transesterification",
+    "canonical_reaction_aliases": [
+      "biodiesel production via transesterification",
+      "FAME synthesis",
+      "soybean oil transesterification"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2017.08.002:R1",
+    "canonical_reaction_name": "lignin depolymerization",
+    "canonical_reaction_aliases": [
+      "base-catalyzed lignin depolymerization",
+      "lignin hydrogenolysis",
+      "organosolv lignin depolymerization"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106711:R1",
+    "canonical_reaction_name": "chemical looping combustion",
+    "canonical_reaction_aliases": [
+      "CLC of solid fuels",
+      "chemical looping combustion of lignite and petroleum coke"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2018.08.016:R1",
+    "canonical_reaction_name": "methane decomposition",
+    "canonical_reaction_aliases": [
+      "CH4 decomposition",
+      "catalytic methane cracking",
+      "methane pyrolysis"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2018.08.016:R2",
+    "canonical_reaction_name": "CO disproportionation",
+    "canonical_reaction_aliases": [
+      "Boudouard reaction",
+      "CO decomposition"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2018.08.016:R3",
+    "canonical_reaction_name": "CO/CH4 co-decomposition",
+    "canonical_reaction_aliases": [
+      "CO and CH4 mixture decomposition",
+      "carbon deposition from CO/CH4"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107519:R1",
+    "canonical_reaction_name": "lignin hydrogenolysis",
+    "canonical_reaction_aliases": [
+      "hydrogenolysis of peanut shell lignin",
+      "lignin depolymerization to lignin oil"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2003.12.004:R1",
+    "canonical_reaction_name": "F-T synthesis",
+    "canonical_reaction_aliases": [
+      "Fischer-Tropsch synthesis",
+      "CO hydrogenation to hydrocarbons",
+      "syngas to hydrocarbons"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2011.02.015:R1",
+    "canonical_reaction_name": "biodiesel steam reforming",
+    "canonical_reaction_aliases": [
+      "internal reforming of biodiesel in SOFC",
+      "biodiesel reforming for hydrogen production"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2011.06.007:R1",
+    "canonical_reaction_name": "heavy oil hydrotreatment",
+    "canonical_reaction_aliases": [
+      "hydrotreatment of direct coal liquefaction heavy oil",
+      "heavy oil hydrodenitrogenation and hydrodeoxygenation"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2010.11.017:R1",
+    "canonical_reaction_name": "F-T synthesis",
+    "canonical_reaction_aliases": [
+      "Fischer-Tropsch synthesis",
+      "syngas to liquid hydrocarbons",
+      "syngas to C5-C15 hydrocarbons"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2013.11.018:R1",
+    "canonical_reaction_name": "soybean oil transesterification",
+    "canonical_reaction_aliases": [
+      "biodiesel production from soybean oil",
+      "soybean oil methanolysis to FAME"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2019.01.007:R1",
+    "canonical_reaction_name": "hydrodesulfurization",
+    "canonical_reaction_aliases": [
+      "HDS of gasoil",
+      "deep desulfurization of gasoil blend"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2019.03.024:R1",
+    "canonical_reaction_name": "coal tar hydrotreatment",
+    "canonical_reaction_aliases": [
+      "coal tar upgrading",
+      "coal tar hydrodeoxygenation to light fuels"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2019.03.024:R2",
+    "canonical_reaction_name": "Fe2O3 reduction",
+    "canonical_reaction_aliases": [
+      "in-situ reduction of iron oxide",
+      "Fe2O3 to Fe/Fe3O4/FeO/Fe3C reduction"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2018.02.022:R1",
+    "canonical_reaction_name": "tar steam reforming",
+    "canonical_reaction_aliases": [
+      "brown coal tar reforming",
+      "pyrolysis tar reforming"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2017.02.005:R1",
+    "canonical_reaction_name": "atmospheric residue hydroprocessing",
+    "canonical_reaction_aliases": [
+      "hydroprocessing of atmospheric residue",
+      "residue HDS/HDN/HDO"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2015.01.003:R1",
+    "canonical_reaction_name": "oxidative coupling of methane",
+    "canonical_reaction_aliases": [
+      "OCM",
+      "methane to ethylene and ethane",
+      "methane oxidative dimerization"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106388:R1",
+    "canonical_reaction_name": "di(1-naphthyl)methane hydrocracking",
+    "canonical_reaction_aliases": [
+      "DNM hydrocracking",
+      "diarylmethane hydrocracking"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106388:R2",
+    "canonical_reaction_name": "lignite soluble fraction hydroconversion",
+    "canonical_reaction_aliases": [
+      "catalytic hydroconversion of SP1",
+      "lignite extract hydrotreatment"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106388:R3",
+    "canonical_reaction_name": "lignite residue hydroconversion",
+    "canonical_reaction_aliases": [
+      "catalytic hydroconversion of R1",
+      "lignite residue hydrotreatment"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.05.024:R1",
+    "canonical_reaction_name": "glucose acid hydrolysis",
+    "canonical_reaction_aliases": [
+      "glucose conversion to levulinic acid and HMF",
+      "acid-catalyzed glucose dehydration"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.05.024:R2",
+    "canonical_reaction_name": "xylose acid hydrolysis",
+    "canonical_reaction_aliases": [
+      "xylose conversion to furfural",
+      "acid-catalyzed xylose dehydration"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.05.024:R3",
+    "canonical_reaction_name": "mixed sugar acid hydrolysis",
+    "canonical_reaction_aliases": [
+      "glucose and xylose co-conversion to levulinic acid and furfural",
+      "acid-catalyzed conversion of glucose/xylose mixture"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.05.024:R4",
+    "canonical_reaction_name": "fructose acid hydrolysis",
+    "canonical_reaction_aliases": [
+      "fructose conversion to levulinic acid and HMF",
+      "acid-catalyzed fructose dehydration"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.05.024:R5",
+    "canonical_reaction_name": "acid hydrolysis of raffinose to levulinic acid",
+    "canonical_reaction_aliases": [
+      "acid-treatment of raffinose",
+      "raffinose conversion to levulinic acid"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.05.024:R6",
+    "canonical_reaction_name": "acid hydrolysis of fructose and raffinose to levulinic acid and HMF",
+    "canonical_reaction_aliases": [
+      "acid-treatment of mixed fructose and raffinose",
+      "fructose and raffinose conversion to levulinic acid and HMF"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.05.024:R7",
+    "canonical_reaction_name": "acid hydrolysis of glucose and furfural to levulinic acid and HMF",
+    "canonical_reaction_aliases": [
+      "acid-treatment of mixed glucose and furfural",
+      "glucose and furfural conversion to levulinic acid and HMF"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.05.024:R8",
+    "canonical_reaction_name": "acid hydrolysis of fructose and furfural to levulinic acid and HMF",
+    "canonical_reaction_aliases": [
+      "acid-treatment of mixed fructose and furfural",
+      "fructose and furfural conversion to levulinic acid and HMF"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106409:R1",
+    "canonical_reaction_name": "catalytic pyrolysis of coal to carbon nanotubes",
+    "canonical_reaction_aliases": [
+      "K-catalyzed pyrolysis of coal to carbon nanotubes",
+      "KOH-assisted coal pyrolysis for carbon nanotube synthesis"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2019.106248:R1",
+    "canonical_reaction_name": "catalytic depolymerization of lignin to phenolic compounds",
+    "canonical_reaction_aliases": [
+      "alkaline lignin depolymerization",
+      "lignin conversion to phenolic-based compounds"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_s0378-3820(00)00138-7:R1",
+    "canonical_reaction_name": "CO2 gasification of pine sawdust",
+    "canonical_reaction_aliases": [
+      "biomass CO2 gasification",
+      "pine sawdust gasification with CO2"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_s0378-3820(00)00138-7:R2",
+    "canonical_reaction_name": "pyrolysis of pine sawdust",
+    "canonical_reaction_aliases": [
+      "biomass pyrolysis",
+      "pine sawdust thermal decomposition"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_s0378-3820(00)00138-7:R3",
+    "canonical_reaction_name": "steam gasification of pine sawdust",
+    "canonical_reaction_aliases": [
+      "biomass steam gasification",
+      "pine sawdust gasification with steam"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2016.05.027:R1",
+    "canonical_reaction_name": "higher alcohol synthesis",
+    "canonical_reaction_aliases": [
+      "mixed alcohol synthesis from syngas",
+      "syngas to higher alcohols"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2006.10.001:R1",
+    "canonical_reaction_name": "FCC gasoline upgrading",
+    "canonical_reaction_aliases": [
+      "catalytic upgrading of FCC gasoline",
+      "olefin reduction and aromatization of FCC gasoline"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2019.02.017:R1",
+    "canonical_reaction_name": "deoxygenation of stearic acid to alkanes",
+    "canonical_reaction_aliases": [
+      "stearic acid deoxygenation",
+      "fatty acid deoxygenation to diesel-range hydrocarbons"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2010.09.036:R1",
+    "canonical_reaction_name": "catalytic cracking of coal tar",
+    "canonical_reaction_aliases": [
+      "steam catalytic cracking of coal tar",
+      "coal tar conversion to monocyclic aromatic hydrocarbons"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_s0378-3820(96)01047-8:R1",
+    "canonical_reaction_name": "coal liquefaction by hydrogenation",
+    "canonical_reaction_aliases": [
+      "brown coal hydrogenation",
+      "Kansk-Achinsk coal hydrogenation"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107235:R1",
+    "canonical_reaction_name": "hydrodesulfurization of residual oils",
+    "canonical_reaction_aliases": [
+      "HDS of residual oils",
+      "residual oil desulfurization"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.11.004:R1",
+    "canonical_reaction_name": "ethanol dehydration to ethylene",
+    "canonical_reaction_aliases": [
+      "ethanol-to-ethylene",
+      "catalytic dehydration of ethanol"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2021.106767:R1",
+    "canonical_reaction_name": "ethanol dehydrogenation to acetaldehyde",
+    "canonical_reaction_aliases": [
+      "ethanol oxidative dehydrogenation to acetaldehyde",
+      "alcohol dehydrogenation of ethanol"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2021.106767:R2",
+    "canonical_reaction_name": "Lebedev-type ethanol to 1,3-butadiene",
+    "canonical_reaction_aliases": [
+      "ethanol and acetaldehyde to 1,3-butadiene",
+      "Guerbet-type condensation of ethanol and acetaldehyde to 1,3-butadiene"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2021.106767:R3",
+    "canonical_reaction_name": "ethanol dehydration to diethyl ether",
+    "canonical_reaction_aliases": [
+      "intermolecular dehydration of ethanol",
+      "ethanol condensation to diethyl ether"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2021.106767:R4",
+    "canonical_reaction_name": "ethanol dehydration to ethylene",
+    "canonical_reaction_aliases": [
+      "intramolecular dehydration of ethanol",
+      "ethanol-to-ethene"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2021.106767:R5",
+    "canonical_reaction_name": "ethanol to 1-butanol condensation",
+    "canonical_reaction_aliases": [
+      "Guerbet reaction of ethanol",
+      "ethanol upgrading to 1-butanol",
+      "ethanol homologation to butanol"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2021.106767:R6",
+    "canonical_reaction_name": "1-butanol dehydration to butenes",
+    "canonical_reaction_aliases": [
+      "butanol dehydration",
+      "1-butanol dehydration"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2021.106767:R7",
+    "canonical_reaction_name": "acetaldehyde condensation to heavy compounds",
+    "canonical_reaction_aliases": [
+      "acetaldehyde oligomerization",
+      "acetaldehyde aldol condensation"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2021.106767:R8",
+    "canonical_reaction_name": "ethanol conversion to oxygenated compounds",
+    "canonical_reaction_aliases": [
+      "ethanol dehydrogenation to oxygenates",
+      "ethanol upgrading to oxygenates"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2003.10.014:R1",
+    "canonical_reaction_name": "oxidative steam reforming of methane",
+    "canonical_reaction_aliases": [
+      "autothermal reforming of methane",
+      "methane steam reforming with oxygen addition",
+      "ATR"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2003.10.014:R2",
+    "canonical_reaction_name": "oxidative dry reforming of methane",
+    "canonical_reaction_aliases": [
+      "dry reforming of methane with oxygen addition",
+      "methane dry reforming with O2"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2009.11.003:R1",
+    "canonical_reaction_name": "transesterification of soybean oil",
+    "canonical_reaction_aliases": [
+      "soybean oil methanolysis",
+      "soybean oil to biodiesel",
+      "FAME production from soybean oil"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2016.12.015:R1",
+    "canonical_reaction_name": "methane dry reforming",
+    "canonical_reaction_aliases": [
+      "dry reforming of methane",
+      "DRM",
+      "CO2 reforming of methane"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2016.12.015:R2",
+    "canonical_reaction_name": "reverse water-gas shift reaction",
+    "canonical_reaction_aliases": [
+      "rWGS",
+      "reverse WGS"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2009.02.007:R1",
+    "canonical_reaction_name": "biomass tar steam reforming",
+    "canonical_reaction_aliases": [
+      "toluene steam reforming",
+      "tar reforming",
+      "model tar compound steam reforming"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107206:R1",
+    "canonical_reaction_name": "transesterification of waste cooking oil and castor oil",
+    "canonical_reaction_aliases": [
+      "blended oil transesterification",
+      "waste cooking oil and castor oil to biodiesel",
+      "mixed feedstock biodiesel production"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2018.07.014:R1",
+    "canonical_reaction_name": "partial hydrogenation of fatty acid methyl esters",
+    "canonical_reaction_aliases": [
+      "partial hydrogenation of soybean oil FAMEs",
+      "selective hydrogenation of polyunsaturated FAMEs",
+      "FAME partial hydrogenation"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107257:R1",
+    "canonical_reaction_name": "pyrolysis of high-density polyethylene",
+    "canonical_reaction_aliases": [
+      "HDPE pyrolysis",
+      "plastic pyrolysis",
+      "HDPE thermal cracking"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107478:R1",
+    "canonical_reaction_name": "biological methanation of CO2",
+    "canonical_reaction_aliases": [
+      "H2/CO2 biomethanation",
+      "hydrogenotrophic methanogenesis",
+      "power-to-methane biocatalysis"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107478:R2",
+    "canonical_reaction_name": "homoacetogenesis",
+    "canonical_reaction_aliases": [
+      "reductive acetogenesis",
+      "H2/CO2 to acetate bioconversion",
+      "Wood-Ljungdahl pathway"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107478:R3",
+    "canonical_reaction_name": "acetoclastic methanogenesis",
+    "canonical_reaction_aliases": [
+      "acetoclastic methanation",
+      "acetate-to-methane conversion"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107478:R4",
+    "canonical_reaction_name": "syntrophic acetate oxidation",
+    "canonical_reaction_aliases": [
+      "acetate oxidation to H2 and CO2",
+      "reverse homoacetogenesis"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.01.007:R1",
+    "canonical_reaction_name": "benzene steam reforming",
+    "canonical_reaction_aliases": [
+      "steam reforming of benzene",
+      "benzene tar reforming"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.01.007:R2",
+    "canonical_reaction_name": "toluene steam reforming",
+    "canonical_reaction_aliases": [
+      "steam reforming of toluene",
+      "toluene tar reforming"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2014.01.007:R3",
+    "canonical_reaction_name": "steam reforming of naphthalene and toluene",
+    "canonical_reaction_aliases": [
+      "mixed tar steam reforming",
+      "naphthalene/toluene tar reforming",
+      "multi-component tar steam reforming"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107512:R1",
+    "canonical_reaction_name": "catalytic cracking of guaiacol",
+    "canonical_reaction_aliases": [
+      "guaiacol catalytic cracking",
+      "guaiacol pyrolysis cracking"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107512:R2",
+    "canonical_reaction_name": "catalytic cracking of acetic acid",
+    "canonical_reaction_aliases": [
+      "acetic acid catalytic cracking",
+      "acetic acid pyrolysis cracking"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107451:R1",
+    "canonical_reaction_name": "CO2RR to formic acid",
+    "canonical_reaction_aliases": [
+      "CO2 electroreduction to formic acid",
+      "electrochemical CO2 reduction to formic acid",
+      "CO2RR"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2021.107159:R1",
+    "canonical_reaction_name": "chemical looping methane combustion",
+    "canonical_reaction_aliases": [
+      "chemical looping catalytic oxidation of methane",
+      "CH4 chemical looping combustion",
+      "CLC of methane"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2021.107159:R2",
+    "canonical_reaction_name": "propene total oxidation",
+    "canonical_reaction_aliases": [
+      "chemical looping catalytic oxidation of propene",
+      "propylene combustion",
+      "VOC oxidation of propene",
+      "C3H6 total oxidation"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107426:R1",
+    "canonical_reaction_name": "char combustion",
+    "canonical_reaction_aliases": [
+      "oil shale char combustion",
+      "solid fuel combustion"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106581:R1",
+    "canonical_reaction_name": "methane dry reforming",
+    "canonical_reaction_aliases": [
+      "dry reforming of methane",
+      "DRM",
+      "CO2 reforming of methane"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107434:R1",
+    "canonical_reaction_name": "methanol electrooxidation",
+    "canonical_reaction_aliases": [
+      "MOR",
+      "methanol oxidation reaction"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107434:R2",
+    "canonical_reaction_name": "formic acid electrooxidation",
+    "canonical_reaction_aliases": [
+      "FAOR",
+      "formic acid oxidation reaction"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106622:R1",
+    "canonical_reaction_name": "ethanol steam reforming",
+    "canonical_reaction_aliases": [
+      "ESR",
+      "steam reforming of ethanol"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106622:R2",
+    "canonical_reaction_name": "ethanol decomposition",
+    "canonical_reaction_aliases": [
+      "ethanol thermal decomposition",
+      "ethanol dehydrogenation/decomposition"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106622:R3",
+    "canonical_reaction_name": "water-gas shift",
+    "canonical_reaction_aliases": [
+      "WGS",
+      "water-gas shift reaction",
+      "WGSR"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2018.03.031:R1",
+    "canonical_reaction_name": "hydrodeoxygenation of coal-derived aromatics",
+    "canonical_reaction_aliases": [
+      "catalytic deoxygenation of coal-derived aromatics",
+      "HDO of coal-derived aromatic compounds"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106576:R1",
+    "canonical_reaction_name": "chemical looping gasification",
+    "canonical_reaction_aliases": [
+      "biomass char chemical looping gasification",
+      "CLG"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106576:R2",
+    "canonical_reaction_name": "water-gas shift",
+    "canonical_reaction_aliases": [
+      "WGS",
+      "water-gas shift reaction",
+      "WGSR"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106576:R3",
+    "canonical_reaction_name": "chemical looping water splitting",
+    "canonical_reaction_aliases": [
+      "steam-iron process",
+      "H2 production via water splitting on iron oxide"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106576:R4",
+    "canonical_reaction_name": "CaO carbonation/calcination",
+    "canonical_reaction_aliases": [
+      "carbonation of CaO",
+      "calcium looping",
+      "CaO-CO2 carbonation"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106576:R5",
+    "canonical_reaction_name": "oxygen carrier reduction with CO",
+    "canonical_reaction_aliases": [
+      "metal oxide reduction by CO",
+      "CLC fuel reactor reaction with CO"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106576:R6",
+    "canonical_reaction_name": "oxygen carrier reduction with H2",
+    "canonical_reaction_aliases": [
+      "metal oxide reduction by H2",
+      "CLC fuel reactor reaction with H2"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2019.05.033:R1",
+    "canonical_reaction_name": "methane dry reforming",
+    "canonical_reaction_aliases": [
+      "dry reforming of methane",
+      "DRM",
+      "CO2 reforming of methane"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2019.106122:R1",
+    "canonical_reaction_name": "methanol to hydrocarbons",
+    "canonical_reaction_aliases": [
+      "MTH reaction",
+      "methanol conversion to hydrocarbons",
+      "MTO/MTP"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107415:R1",
+    "canonical_reaction_name": "oxidative desulfurization",
+    "canonical_reaction_aliases": [
+      "ODS",
+      "dibenzothiophene oxidative desulfurization",
+      "DBT oxidation"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2006.01.006:R1",
+    "canonical_reaction_name": "vacuum residue hydrocracking",
+    "canonical_reaction_aliases": [
+      "hydrocracking of vacuum residue",
+      "heavy oil hydrocracking"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2006.01.006:R2",
+    "canonical_reaction_name": "hydrodesulfurization",
+    "canonical_reaction_aliases": [
+      "HDS",
+      "hydrodesulphurisation",
+      "catalytic hydrodesulfurization"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2006.01.006:R3",
+    "canonical_reaction_name": "hydrodenitrogenation",
+    "canonical_reaction_aliases": [
+      "HDN",
+      "catalytic hydrodenitrogenation"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_0378-3820(87)90076-2:R1",
+    "canonical_reaction_name": "coal gasification",
+    "canonical_reaction_aliases": [
+      "coal steam gasification",
+      "coal partial oxidation gasification"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107418:R1",
+    "canonical_reaction_name": "CO2 methanation",
+    "canonical_reaction_aliases": [
+      "Sabatier reaction",
+      "CO2 hydrogenation to methane",
+      "CO2 + H2 to CH4"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2012.04.006:R1",
+    "canonical_reaction_name": "biodesulfurization of coal",
+    "canonical_reaction_aliases": [
+      "microbial coal desulfurization",
+      "coal pyrite biooxidation"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2018.06.001:R1",
+    "canonical_reaction_name": "NH3-SCR",
+    "canonical_reaction_aliases": [
+      "selective catalytic reduction of NOx",
+      "SCR of NOx with NH3",
+      "DeNOx SCR"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2013.05.002:R1",
+    "canonical_reaction_name": "transesterification of triglycerides to FAME",
+    "canonical_reaction_aliases": [
+      "methanolysis",
+      "biodiesel synthesis",
+      "triglyceride methanolysis"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106672:R1",
+    "canonical_reaction_name": "HMF hydrogenation",
+    "canonical_reaction_aliases": [
+      "hydrogenation of 5-hydroxymethylfurfural",
+      "HMF reduction to BHMF"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106672:R2",
+    "canonical_reaction_name": "etherification of hydrogenated furanic intermediates",
+    "canonical_reaction_aliases": [
+      "furanic ether synthesis",
+      "alkoxymethylfuran synthesis"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107472:R1",
+    "canonical_reaction_name": "xylose dehydration to furfural",
+    "canonical_reaction_aliases": [
+      "furfural production from xylose",
+      "xylose-to-furfural conversion"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107448:R1",
+    "canonical_reaction_name": "catalytic transfer hydrogenation of lignin model dimer",
+    "canonical_reaction_aliases": [
+      "CTH of α-OH-PPE",
+      "hydrogenolysis of α-OH-PPE via CTH"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107448:R2",
+    "canonical_reaction_name": "catalytic transfer hydrogenation of lignin model dimers",
+    "canonical_reaction_aliases": [
+      "CTH of lignin dimers",
+      "lignin dimer hydrogenolysis via CTH",
+      "β-O-4/α-O-4/4-O-5 linkage cleavage by CTH"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107448:R3",
+    "canonical_reaction_name": "lignin depolymerization to monophenols",
+    "canonical_reaction_aliases": [
+      "organosolv lignin depolymerization",
+      "reductive lignin depolymerization via CTH"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2022.107208:R1",
+    "canonical_reaction_name": "organosolv fractionation of lignocellulosic biomass",
+    "canonical_reaction_aliases": [
+      "sugarcane bagasse organosolv treatment",
+      "lignocellulose organosolv pretreatment"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2021.107032:R1",
+    "canonical_reaction_name": "toluene steam reforming",
+    "canonical_reaction_aliases": [
+      "catalytic reforming of toluene",
+      "toluene reforming to syngas"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106658:R1",
+    "canonical_reaction_name": "combined steam methane reforming and catalytic partial oxidation",
+    "canonical_reaction_aliases": [
+      "oxy-reforming",
+      "autothermal reforming of methane",
+      "SMR combined with CPO"
+    ]
+  },
+  {
+    "uid": "reaction:10.1016_j.fuproc.2020.106658:R2",
+    "canonical_reaction_name": "catalytic partial oxidation of methane",
+    "canonical_reaction_aliases": [
+      "CPO",
+      "methane partial oxidation",
+      "POX of methane"
+    ]
+  }
+]
